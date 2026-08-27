@@ -1,0 +1,17 @@
+{
+  "license": "",
+  "devDependencies": {},
+  "author": "",
+  "name": "multifinancialmanagementdefaultsample",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "version": "1.0.0",
+  "dynamicDependencies": {},
+  "dependencies": {
+    "financialbase": "file:../../commons/financialbase",
+    "account": "file:../../features/account",
+    "investment": "file:../../features/investment",
+    "wealth": "file:../../features/wealth",
+    "recommend": "file:../../features/recommend"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "TvAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "TvAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "friend_title",
+      "value": "朋友"
+    },
+    {
+      "name": "add_title",
+      "value": "投稿"
+    },
+    {
+      "name": "message_title",
+      "value": "消息"
+    },
+    {
+      "name": "follow_title",
+      "value": "关注"
+    },
+    {
+      "name": "mine_title",
+      "value": "我的"
+    },
+    {
+      "name": "recommend_title",
+      "value": "推荐"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "string": [
+    {
+      "name": "PAY_STORE",
+      "value": "华为官方旗舰店"
+    },
+    {
+      "name": "PAY_BUY",
+      "value": "购买"
+    },
+    {
+      "name": "PAY_CS_CONTENT_1",
+      "value": "HUAWEI Mate X5 12GB+512GB 幻影紫 超轻薄四曲折叠 超高清高分辨率临境双屏 超智慧灵犀通信"
+    },
+    {
+      "name": "PAY_CS_CONTENT_2",
+      "value": "您好！想咨询一下今年秋季最新发布的手机～"
+    },
+    {
+      "name": "PAY_CS_CONTENT_3",
+      "value": "您好，智能客服助手为您服务！"
+    },
+    {
+      "name": "PAY_CS_CONTENT_4",
+      "value": "欢迎光临华为官方商城，为提升服务质量，您的咨询可能会被记录。目前店铺客服数量较少，建议您优先通过商品详情页或华为官网获取商品信息，若智能客服无法解决您的问题，您可以输入「人工」联系人工客服。感谢您的理解和支持～"
+    },
+    {
+      "name": "PAY_COLOR_NAME_1",
+      "value": "幻影紫"
+    },
+    {
+      "name": "PAY_COLOR_NAME_2",
+      "value": "羽砂黑"
+    },
+    {
+      "name": "PAY_COLOR_NAME_3",
+      "value": "羽砂白"
+    },
+    {
+      "name": "PAY_COLOR_NAME_4",
+      "value": "青山黛"
+    },
+    {
+      "name": "PAY_OFFICIAL_STANDARD",
+      "value": "官方标配"
+    },
+    {
+      "name": "PAY_SELECT_SECTION_1",
+      "value": "机身颜色"
+    },
+    {
+      "name": "PAY_SELECT_SECTION_2",
+      "value": "储存容量"
+    },
+    {
+      "name": "PAY_SELECT_SECTION_3",
+      "value": "套餐类型"
+    },
+    {
+      "name": "PAY_INFO_1",
+      "value": "XXXX大道XXXXX楼XX单元XX号"
+    },
+    {
+      "name": "PAY_INFO_2",
+      "value": "联系人  +8610000000000"
+    },
+    {
+      "name": "PAY_INFO_3",
+      "value": "华为钱包支付"
+    },
+    {
+      "name": "PAY_INFO_4",
+      "value": "立即支付"
+    },
+    {
+      "name": "SHOP_BAG_CURRENCY",
+      "value": "￥ "
+    },
+    {
+      "name": "SHOP_BAG_TAB_ALL",
+      "value": "全部"
+    },
+    {
+      "name": "SHOP_BAG_TAB_PHONE",
+      "value": "手机"
+    },
+    {
+      "name": "SHOP_BAG_TAB_TABLET",
+      "value": "平板"
+    },
+    {
+      "name": "SHOP_BAG_TAB_LAPTOP",
+      "value": "笔记本"
+    },
+    {
+      "name": "SHOP_BAG_TAB_WATCH",
+      "value": "手表"
+    },
+    {
+      "name": "SHOP_BAG_TAB_EARPHONE",
+      "value": "耳机"
+    },
+    {
+      "name": "SHOP_BAG_HEADER_TITLE",
+      "value": "口袋宝贝"
+    },
+    {
+      "name": "SHOP_BAG_ICON_BAG",
+      "value": "购物袋"
+    },
+    {
+      "name": "SHOP_BAG_ICON_SEARCH",
+      "value": "搜索"
+    },
+    {
+      "name": "SHOP_BAG_ICON_ORDER",
+      "value": "订单"
+    },
+    {
+      "name": "SHOP_BAG_COUPON_TITLE",
+      "value": "xx元店铺通用红包"
+    },
+    {
+      "name": "SHOP_BAG_P1_REMARK",
+      "value": "北斗卫星消息｜低电量应急模式"
+    },
+    {
+      "name": "SHOP_BAG_P2_REMARK",
+      "value": "超轻薄｜超平整｜超可靠"
+    },
+    {
+      "name": "SHOP_BAG_P3_REMARK",
+      "value": "2.5K高刷护眼屏｜轻薄长续航"
+    },
+    {
+      "name": "SHOP_BAG_P4_REMARK",
+      "value": "北斗卫星消息｜低电量应急模式"
+    },
+    {
+      "name": "SHOP_BAG_DISCOUNT_POINTS",
+      "value": "赠积分"
+    },
+    {
+      "name": "SHOP_BAG_DISCOUNT_FLAGSHIP",
+      "value": "新一代直屏旗舰机"
+    },
+    {
+      "name": "SHOP_BAG_DISCOUNT_P3",
+      "value": "性能版新品预定立省200"
+    }
+  ]
+}

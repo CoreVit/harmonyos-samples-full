@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/audiointeractionlibrary",
+  "version": "1.0.0",
+  "description": "This sample demonstrates an audio app that implements audio playback control based on AudioRenderer. It provides the following features: background playback, interaction with the media controller, adaptation to different focus interruption policies, switching between routing sound devices, and switching between output devices.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/audio-interaction/tree/br_release_hmos/",
+  "dependencies": {}
+}

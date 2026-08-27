@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "maplive",
+    "type": "har",
+    "description": "$string:live_module_desc",
+    "deviceTypes": [
+      "phone"
+    ]
+  }
+}

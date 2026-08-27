@@ -1,0 +1,292 @@
+{
+  "string": [
+    {
+      "name": "eighty_percent",
+      "value": "80%"
+    },
+    {
+      "name": "trip_content",
+      "value": "Go to Beijing..."
+    },
+    {
+      "name": "trip_schedule1",
+      "value": "[Meeting Notice] Overview of regular meetings for the procurement, sales, and other teams."
+    },
+    {
+      "name": "trip_schedule2",
+      "value": "All staff are required to attend the weekly meeting."
+    },
+    {
+      "name": "trip_schedule3",
+      "value": "Annual Sales Increase Meeting"
+    },
+    {
+      "name": "trip_schedule4",
+      "value": "Monthly Work Summary and Plan"
+    },
+    {
+      "name": "trip_schedule5",
+      "value": "Improvement through teamwork"
+    },
+    {
+      "name": "notes_schedule1",
+      "value": "2023 UI Design Trends"
+    },
+    {
+      "name": "notes_schedule2",
+      "value": "One hour ago "
+    },
+    {
+      "name": "notes_schedule3",
+      "value": "Familiar images will automatically give people a..."
+    },
+    {
+      "name": "notes_schedule4",
+      "value": "UX Meeting Minutes"
+    },
+    {
+      "name": "notes_schedule5",
+      "value": "Locked"
+    },
+    {
+      "name": "notes_schedule6",
+      "value": "In some places, you can only truly experience them when you actually visit them...."
+    },
+    {
+      "name": "notes_schedule7",
+      "value": "Shopping list"
+    },
+    {
+      "name": "notes_schedule8",
+      "value": "September 5th"
+    },
+    {
+      "name": "notes_schedule9",
+      "value": "Robot vacuum cleaner"
+    },
+    {
+      "name": "notes_schedule10",
+      "value": "September 3rd"
+    },
+    {
+      "name": "year",
+      "value": "Year"
+    },
+    {
+      "name": "month",
+      "value": "Month"
+    },
+    {
+      "name": "week",
+      "value": "Week"
+    },
+    {
+      "name": "day",
+      "value": "Day"
+    },
+    {
+      "name": "title_list0",
+      "value": "Memorandum"
+    },
+    {
+      "name": "title_list1",
+      "value": "Calendar"
+    },
+    {
+      "name": "entrances0",
+      "value": "Multi business office entrance"
+    },
+    {
+      "name": "entrances1",
+      "value": "One click access, efficient office work."
+    },
+    {
+      "name": "notes_list0",
+      "value": "All Memos"
+    },
+    {
+      "name": "notes_list1",
+      "value": "18 Memos"
+    },
+    {
+      "name": "notes_list2",
+      "value": "Search..."
+    },
+    {
+      "name": "notes_list3",
+      "value": "Today"
+    },
+    {
+      "name": "notes_list4",
+      "value": "Last month"
+    },
+    {
+      "name": "notes_content0",
+      "value": "Share"
+    },
+    {
+      "name": "notes_content1",
+      "value": "Collection"
+    },
+    {
+      "name": "notes_content2",
+      "value": "Delete"
+    },
+    {
+      "name": "notes_content3",
+      "value": "More"
+    },
+    {
+      "name": "trip_schedule_view0",
+      "value": "Today"
+    },
+    {
+      "name": "trip_schedule_view3",
+      "value": "September"
+    },
+    {
+      "name": "week_message0",
+      "value": "Sun."
+    },
+    {
+      "name": "week_message1",
+      "value": "Mon."
+    },
+    {
+      "name": "week_message2",
+      "value": "Tue."
+    },
+    {
+      "name": "week_message3",
+      "value": "Wed."
+    },
+    {
+      "name": "week_message4",
+      "value": "Thu."
+    },
+    {
+      "name": "week_message5",
+      "value": "Fri."
+    },
+    {
+      "name": "week_message6",
+      "value": "Sat."
+    },
+    {
+      "name": "calendar_side_bar_text0",
+      "value": "Calendar"
+    },
+    {
+      "name": "calendar_side_bar_text1",
+      "value": "Calendar Account"
+    },
+    {
+      "name": "calendar_side_bar_text2",
+      "value": "Add"
+    },
+    {
+      "name": "calendar_side_bar_text3",
+      "value": "Huawei Account"
+    },
+    {
+      "name": "calendar_side_bar_text4",
+      "value": "My Calendar"
+    },
+    {
+      "name": "calendar_side_bar_text5",
+      "value": "Chinese Mainland Holidays"
+    },
+    {
+      "name": "calendar_side_bar_text6",
+      "value": "Welink"
+    },
+    {
+      "name": "calendar_side_bar_text7",
+      "value": "0012345678..."
+    },
+    {
+      "name": "calendar_side_bar_text8",
+      "value": "Subscription"
+    },
+    {
+      "name": "calendar_side_bar_text9",
+      "value": "Adm."
+    },
+    {
+      "name": "calendar_side_bar_text10",
+      "value": "Huangli (Chinese almanac)"
+    },
+    {
+      "name": "calendar_side_bar_text11",
+      "value": "Constellation"
+    },
+    {
+      "name": "calendar_side_bar_text12",
+      "value": "Message Center"
+    },
+    {
+      "name": "calendar_side_bar_text13",
+      "value": "Unread"
+    },
+    {
+      "name": "calendar_side_bar_text14",
+      "value": "Read Already"
+    },
+    {
+      "name": "notes_side_bar_text0",
+      "value": "Memorandum"
+    },
+    {
+      "name": "notes_side_bar_text1",
+      "value": "Notes"
+    },
+    {
+      "name": "notes_side_bar_text2",
+      "value": "Folder"
+    },
+    {
+      "name": "notes_side_bar_text3",
+      "value": "Edit"
+    },
+    {
+      "name": "notes_side_bar_text4",
+      "value": "Add Folders"
+    },
+    {
+      "name": "memo_list0",
+      "value": "All Memos"
+    },
+    {
+      "name": "memo_list1",
+      "value": "Collection"
+    },
+    {
+      "name": "memo_list2",
+      "value": "Add Lock"
+    },
+    {
+      "name": "memo_list3",
+      "value": "Recently deleted"
+    },
+    {
+      "name": "folder_list0",
+      "value": "Default"
+    },
+    {
+      "name": "folder_list1",
+      "value": "Personal"
+    },
+    {
+      "name": "folder_list2",
+      "value": "Work"
+    },
+    {
+      "name": "folder_list3",
+      "value": "Travel"
+    },
+    {
+      "name": "folder_list4",
+      "value": "Life"
+    }
+  ]
+}

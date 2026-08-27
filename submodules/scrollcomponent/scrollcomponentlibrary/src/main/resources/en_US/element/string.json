@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "title",
+      "value": "Nested scrolling of the Scroll component"
+    },
+    {
+      "name": "Promotional",
+      "value": "Promotion activity"
+    },
+    {
+      "name": "Travel",
+      "value": "Travel service"
+    },
+    {
+      "name": "goods",
+      "value": "Promotion goods"
+    },
+    {
+      "name": "Itinerary",
+      "value": "Itinerary arrangement"
+    }
+  ]
+}

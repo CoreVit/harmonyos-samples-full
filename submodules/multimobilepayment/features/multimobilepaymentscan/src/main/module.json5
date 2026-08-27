@@ -1,0 +1,18 @@
+{
+  "module": {
+    "name": "multimobilepaymentscan",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1",
+      "wearable"
+    ],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.CAMERA",
+        "reason": "$string:permission_reason"
+      }
+    ]
+  }
+}

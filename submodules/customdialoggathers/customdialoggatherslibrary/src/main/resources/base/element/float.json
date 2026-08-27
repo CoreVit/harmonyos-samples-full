@@ -1,0 +1,20 @@
+{
+  "float": [
+    {
+      "name": "text_height",
+      "value": "40vp"
+    },
+    {
+      "name": "toast_height",
+      "value": "36vp"
+    },
+    {
+      "name": "calendar_height",
+      "value": "32vp"
+    },
+    {
+      "name": "offset_dy",
+      "value": "-80vp"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "pension_money",
+      "value": "600元"
+    },
+    {
+      "name": "personal_pension",
+      "value": "个人养老金"
+    },
+    {
+      "name": "max_monthly_receive",
+      "value": "每月最高可领取"
+    },
+    {
+      "name": "buy_now",
+      "value": "立刻买入"
+    },
+    {
+      "name": "wealth_selection",
+      "value": "财富精选"
+    },
+    {
+      "name": "seven_day_annualized",
+      "value": "7日年化"
+    },
+    {
+      "name": "medium_low_risk",
+      "value": "中低风险"
+    },
+    {
+      "name": "weekly_open_product",
+      "value": "周赎开放式产品"
+    },
+    {
+      "name": "purchased_count",
+      "value": "67788已购入"
+    },
+    {
+      "name": "wealth_product_1",
+      "value": "理财一号·财富通"
+    },
+    {
+      "name": "wealth_product_2",
+      "value": "理财二号·财富通"
+    },
+    {
+      "name": "wealth_product_3",
+      "value": "理财三号·财富通"
+    },
+    {
+      "name": "wealth_product_4",
+      "value": "理财四号·财富通"
+    },
+    {
+      "name": "wealth_product_5",
+      "value": "理财五号·财富通"
+    },
+    {
+      "name": "wealth_product_6",
+      "value": "理财六号·财富通"
+    },
+    {
+      "name": "duration_3_months",
+      "value": "3个月"
+    },
+    {
+      "name": "duration_4_months",
+      "value": "4个月"
+    },
+    {
+      "name": "duration_6_months",
+      "value": "6个月"
+    },
+    {
+      "name": "duration_9_months",
+      "value": "9个月"
+    },
+    {
+      "name": "notice",
+      "value": "备考趁早，养老无忧，新用户立享3重礼>>"
+    }
+  ]
+}

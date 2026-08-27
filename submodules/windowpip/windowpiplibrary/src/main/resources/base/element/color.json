@@ -1,0 +1,12 @@
+{
+  "color": [
+    {
+      "name": "video_background_dark",
+      "value": "#1a1a1a"
+    },
+    {
+      "name": "icon_background_dark",
+      "value": "#19FFFFFF"
+    }
+  ]
+}

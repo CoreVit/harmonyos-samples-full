@@ -1,0 +1,138 @@
+# 基于PhotoPicker实现图片推荐功能
+
+### 介绍
+
+本示例旨在解决特殊场景需要相册picker提供图片推荐功能的问题，主要使用接口与组件两种方式，拉起系统photoPicker，并分别实现了基于recommendationType配置完成特定服务类型的图片推荐，以及基于textContextInfo配置完成文案的图片推荐 ，帮助开发者通过PhotoPicker实现图片推荐功能。
+
+### 效果预览
+
+| 直板机                                                 | 折叠屏                                                  | 平板                                                   |
+|-----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| <img src="screenshots/Devices/phone.png"> | <img src="screenshots/Devices/foldable-screen.png"> | <img src="screenshots/Devices/tablet.png"> |
+
+
+#### 使用说明：
+
+1. 点击不使用图片推荐能力，仅拉起一个普通的picker界面。
+2. 点击基于特定服务推荐图片，下拉框选择身份证或二维码，点击基于特定服务推荐图片按钮，若相册中存在该类型的图片，会拉起对应类型图片的picker界面。
+3. 点击基于文案推荐图片，输入文案（例如：人像、银行卡等），会识别并拉起特殊文案推荐picker进行推荐。
+4. 当前TextContextInfo仅支持250字以内的简体中文，输入英文字符无法进行图片推荐。
+
+### 工程目录
+```
+├──entry/src/main/ets                                   // 代码区
+│  ├──common                                  
+│  │  ├──BreakpointConstants.ets                        // 断点常量
+│  │  └──CommonConstants.ets                            // 常量
+│  ├──entryability  
+│  │  └──EntryAbility.ets                               // 程序入口类
+│  ├──entrybackupability  
+│  │  └──EntryBackupAbility.ets                         // 备份恢复类
+│  ├──module
+│  │  ├──ItemData.ets                                   // 列表数据
+│  │  └──ItemInfo.ets                                   // 列表数据类型
+│  ├──pages                                
+│  │  └──Index.ets                                      // 首页
+│  ├──utils 
+│  │  ├──BreakpointType.ets                             // 断点类型
+│  │  ├──Logger.ets                                     // 日志打印类
+│  │  ├──SmartPhotoPickerUtils.ets                      // picker接口工具类
+│  │  └──WindowUtils.ets                                // 窗口类      
+│  └──view  
+│     ├──ComponentImplPage.ets                          // 组件实现页
+│     └──InterfaceImplPage.ets                          // 接口实现页    
+└──entry/src/main/resources                             // 应用资源目录
+
+```
+
+### 具体实现
+* 基于接口实现特定服务类型的图片推荐，需要将recommendationType配置到recommendationOptions，随后配置到PhotoSelectOptions中。
+```typescript
+// SmartPhotoPickerUtils.ets
+let recommendationOptions: photoAccessHelper.RecommendationOptions = {
+  recommendationType: recommendType
+};
+let option: photoAccessHelper.PhotoSelectOptions = {
+  recommendationOptions: recommendationOptions,
+  isPhotoTakingSupported: true,
+  maxSelectNumber: 1,
+  MIMEType: photoAccessHelper.PhotoViewMIMETypes.IMAGE_VIDEO_TYPE
+};
+photoPicker.select(option).then(() => {
+  Logger.info(TAG, 'Create photoPicker success');
+});
+```
+* 基于接口实现文案的图片推荐，需要将textContextInfo配置到recommendationOptions，随后配置到PhotoSelectOptions中。
+```typescript
+// SmartPhotoPickerUtils.ets
+let textInfo: photoAccessHelper.TextContextInfo = {
+  text: content
+};
+let recommendationOptions: photoAccessHelper.RecommendationOptions = {
+  textContextInfo: textInfo
+};
+let option: photoAccessHelper.PhotoSelectOptions = {
+  recommendationOptions: recommendationOptions,
+  isPhotoTakingSupported: true,
+  maxSelectNumber: 1,
+  MIMEType: photoAccessHelper.PhotoViewMIMETypes.IMAGE_VIDEO_TYPE
+};
+photoPicker.select(option).then(() => {
+  Logger.info(TAG, 'Create photoPicker success');
+});
+```
+* 基于组件实现特定服务类型推荐，仅需要将recommendationType配置到recommendationOptions，随后将其配置到PhotoPickerComponent组件的pickerOptions参数中。
+```typescript
+// ComponentImplPage.ets
+this.pickerOptions.recommendationOptions = {
+  recommendationType: this.recommendationType
+};
+
+PhotoPickerComponent({
+  pickerOptions: this.pickerOptions,
+  pickerController: this.pickerController
+})
+```
+* 基于组件实现文案的推荐，仅需要将textContextInfo配置到recommendationOptions，随后将其配置到PhotoPickerComponent组件的pickerOptions参数中。
+```typescript
+// ComponentImplPage.ets
+let textInfo: photoAccessHelper.TextContextInfo = {
+  text: this.content
+};
+this.pickerOptions.recommendationOptions = {
+  textContextInfo: textInfo
+};
+
+PhotoPickerComponent({
+  pickerOptions: this.pickerOptions,
+  pickerController: this.pickerController
+})
+```
+
+
+### 相关权限
+
+* ohos.permission.PRIVACY_WINDOW：允许应用将窗口设置为隐私窗口，禁止截屏录屏。
+
+### 依赖
+
+不涉及。
+
+### 约束与限制
+
+1. 本示例仅支持标准系统上运行，支持设备：直板机、tablet、PC/2in1、折叠屏、阔折叠、三折叠。
+
+2. HarmonyOS系统：HarmonyOS 6.0.2 Release及以上。
+
+3. DevEco Studio版本：DevEco Studio 6.0.2 Release及以上。
+
+4. HarmonyOS SDK版本：HarmonyOS 6.0.2 Release SDK及以上。
+
+5. PhotoPicker推荐图片的功能依赖于图片分析的结果，只有在媒体库中的图片分析完成后，系统才会进行推荐。
+当设备在灭屏充电时，在电量充足、温度正常的情况下，系统将自动进行图片分析。
+
+6. PC设备暂不支持使用接口直接显示推荐图片。拉起相册后，开发者可以在相册搜索框中进行搜索推荐。
+
+7. 如果图片带有地理位置信息，设备需要联网才可以正常解析图片中的位置信息。
+
+8. 当前仅支持推荐图片类型的文件。

@@ -1,0 +1,49 @@
+{
+  "routerMap": [
+    {
+      "name": "BindContentCoverDemo",
+      "pageSourceFile": "src/main/ets/component/BindContentCoverDemo.ets",
+      "buildFunction": "BindContentCoverDemoBuilder"
+    },
+    {
+      "name": "BindSheetDemo",
+      "pageSourceFile": "src/main/ets/component/BindSheetDemo.ets",
+      "buildFunction": "BindSheetDemoBuilder"
+    },
+    {
+      "name": "CalendarView",
+      "pageSourceFile": "src/main/ets/component/CalendarView.ets",
+      "buildFunction": "CalendarViewBuilder"
+    },
+    {
+      "name": "CustomDialogUser",
+      "pageSourceFile": "src/main/ets/component/CustomDialogUser.ets",
+      "buildFunction": "CustomDialogUserBuilder"
+    },
+    {
+      "name": "FullScreen",
+      "pageSourceFile": "src/main/ets/component/FullScreen.ets",
+      "buildFunction": "FullScreenBuilder"
+    },
+    {
+      "name": "ScrollOption",
+      "pageSourceFile": "src/main/ets/component/ScrollOption.ets",
+      "buildFunction": "ScrollOptionBuilder"
+    },
+    {
+      "name": "TwoLevelPageSheet",
+      "pageSourceFile": "src/main/ets/component/TwoLevelPageSheet.ets",
+      "buildFunction": "TwoLevelPageSheetBuilder"
+    },
+    {
+      "name": "AddPassengers",
+      "pageSourceFile": "src/main/ets/view/AddPassengers.ets",
+      "buildFunction": "AddPassengersBuilder"
+    },
+    {
+      "name": "QueryTicketList",
+      "pageSourceFile": "src/main/ets/view/QueryTicketList.ets",
+      "buildFunction": "DefaultListBuilder"
+    }
+  ]
+}

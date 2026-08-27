@@ -1,0 +1,700 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "LiveCard"
+    },
+    {
+      "name": "background_running_permission_reason",
+      "value": "To provide you with a better music playback control experience, this application requires music to play in the background."
+    },
+    {
+      "name": "gyroscope_permission_reason",
+      "value": "The courier card requests permission to access the gyroscope in order to display better animation effects."
+    },
+    {
+      "name": "SleepCard",
+      "value": "Sleep"
+    },
+    {
+      "name": "SleepCardDes",
+      "value": "Sleep Card"
+    },
+    {
+      "name": "DeliveryCard",
+      "value": "Delivery"
+    },
+    {
+      "name": "DeliveryCardDes",
+      "value": "Delivery Card"
+    },
+    {
+      "name": "ExerciseCard",
+      "value": "Exercise"
+    },
+    {
+      "name": "ExerciseCardDes",
+      "value": "Exercise Card"
+    },
+    {
+      "name": "MusicCard",
+      "value": "Music"
+    },
+    {
+      "name": "MusicCardDes",
+      "value": "Music Card"
+    },
+    {
+      "name": "pure_music",
+      "value": "This song is pure music, please enjoy it"
+    },
+    {
+      "name": "pure_music_no_lyric",
+      "value": "This song is pure music, please enjoy"
+    },
+    {
+      "name": "dream_it_possible",
+      "value": "Dream It Possible"
+    },
+    {
+      "name": "Delacey",
+      "value": "Delacey"
+    },
+    {
+      "name": "china_is_promising",
+      "value": "China is promising"
+    },
+    {
+      "name": "remain_true_to_our_original_aspiration",
+      "value": "Remain true to our original aspiration"
+    },
+    {
+      "name": "i_got_it",
+      "value": "I got it!"
+    },
+    {
+      "name": "ha_ha_ha",
+      "value": "Ha ha ha"
+    },
+    {
+      "name": "study_hard",
+      "value": "Study hard"
+    },
+    {
+      "name": "when_will_the_moon_be_clear_and_bright",
+      "value": "When will the moon be clear and bright"
+    },
+    {
+      "name": "serious",
+      "value": "serious"
+    },
+    {
+      "name": "guitar",
+      "value": "guitar"
+    },
+    {
+      "name": "zhang_san",
+      "value": "Zhang San"
+    },
+    {
+      "name": "li_si",
+      "value": "Li Si"
+    },
+    {
+      "name": "wang_wu",
+      "value": "Wang Wu"
+    },
+    {
+      "name": "zhao_liu",
+      "value": "Zhao Liu"
+    },
+    {
+      "name": "ming_yi",
+      "value": "Ming Yi"
+    },
+    {
+      "name": "ming_yi_s",
+      "value": "Ming YiT"
+    },
+    {
+      "name": "music_image",
+      "value": "words"
+    },
+    {
+      "name": "common_go_add",
+      "value": "Add to Home"
+    },
+    {
+      "name": "clover_title",
+      "value": "Health Clover"
+    },
+    {
+      "name": "clover_self_task_title",
+      "value": "Custom Tasks"
+    },
+    {
+      "name": "clover_weekday_1",
+      "value": "Mon"
+    },
+    {
+      "name": "clover_weekday_2",
+      "value": "Tue"
+    },
+    {
+      "name": "clover_weekday_3",
+      "value": "Wed"
+    },
+    {
+      "name": "clover_weekday_4",
+      "value": "Thu"
+    },
+    {
+      "name": "clover_weekday_5",
+      "value": "Fri"
+    },
+    {
+      "name": "clover_weekday_6",
+      "value": "Sat"
+    },
+    {
+      "name": "clover_weekday_7",
+      "value": "Sun"
+    },
+    {
+      "name": "task_wakeup_time",
+      "value": "Regular Wake-up"
+    },
+    {
+      "name": "task_exercise_time",
+      "value": "Exercise Time"
+    },
+    {
+      "name": "task_stress",
+      "value": "Average Stress"
+    },
+    {
+      "name": "task_step_count",
+      "value": "Steps"
+    },
+    {
+      "name": "task_water_intake",
+      "value": "Water Intake"
+    },
+    {
+      "name": "task_diet_record",
+      "value": "Diet Record"
+    },
+    {
+      "name": "task_mindfulness",
+      "value": "Daily Mindfulness"
+    },
+    {
+      "name": "task_early_sleep",
+      "value": "Early Sleep"
+    },
+    {
+      "name": "task_blood_pressure",
+      "value": "Blood Pressure"
+    },
+    {
+      "name": "task_medication",
+      "value": "Medication Reminder"
+    },
+    {
+      "name": "task_weight_measure",
+      "value": "Weight Measurement"
+    },
+    {
+      "name": "task_state_completed",
+      "value": "Done"
+    },
+    {
+      "name": "task_state_view",
+      "value": "View"
+    },
+    {
+      "name": "task_state_record",
+      "value": "Record"
+    },
+    {
+      "name": "task_state_meditate",
+      "value": "Meditate"
+    },
+    {
+      "name": "task_state_sleep",
+      "value": "Sleep"
+    },
+    {
+      "name": "task_state_take_medication",
+      "value": "Take Med"
+    },
+    {
+      "name": "delivery_detail_title",
+      "value": "Delivery Details"
+    },
+    {
+      "name": "delivery_tracking_number",
+      "value": "Tracking Number"
+    },
+    {
+      "name": "delivery_tracking_log",
+      "value": "Tracking Log"
+    },
+    {
+      "name": "delivery_status_in_transit",
+      "value": "In Transit"
+    },
+    {
+      "name": "delivery_location_1",
+      "value": "Beijing, Chaoyang District"
+    },
+    {
+      "name": "delivery_location_2",
+      "value": "Shijiazhuang, Chang'an District"
+    },
+    {
+      "name": "delivery_location_3",
+      "value": "Zhengzhou, Jinshui District"
+    },
+    {
+      "name": "delivery_location_4",
+      "value": "Wuhan, Hongshan District"
+    },
+    {
+      "name": "delivery_status_1",
+      "value": "Arrived at Beijing sorting center, sorting"
+    },
+    {
+      "name": "delivery_status_2",
+      "value": "Departed, next stop: Beijing sorting center"
+    },
+    {
+      "name": "delivery_status_3",
+      "value": "Arrived at Shijiazhuang sorting center"
+    },
+    {
+      "name": "delivery_status_4",
+      "value": "Departed, next stop: Shijiazhuang sorting center"
+    },
+    {
+      "name": "delivery_status_5",
+      "value": "Arrived at Zhengzhou sorting center"
+    },
+    {
+      "name": "delivery_status_6",
+      "value": "Departed, next stop: Zhengzhou sorting center"
+    },
+    {
+      "name": "delivery_status_7",
+      "value": "Seller has shipped"
+    },
+    {
+      "name": "sleep_title",
+      "value": "Sleep"
+    },
+    {
+      "name": "sleep_tab_day",
+      "value": "Day"
+    },
+    {
+      "name": "sleep_tab_week",
+      "value": "Week"
+    },
+    {
+      "name": "sleep_tab_month",
+      "value": "1Mo"
+    },
+    {
+      "name": "sleep_tab_half_year",
+      "value": "6M"
+    },
+    {
+      "name": "sleep_tab_year",
+      "value": "Year"
+    },
+    {
+      "name": "sleep_duration_title",
+      "value": "Sleep Duration"
+    },
+    {
+      "name": "sleep_nap_title",
+      "value": "Nap"
+    },
+    {
+      "name": "sleep_heart_rate_title",
+      "value": "Sleep Heart Rate"
+    },
+    {
+      "name": "sleep_analysis_title",
+      "value": "Data Analysis"
+    },
+    {
+      "name": "sleep_view_health_data",
+      "value": "View Sleep Health Data"
+    },
+    {
+      "name": "sleep_manual_input",
+      "value": "Manual Input"
+    },
+    {
+      "name": "sleep_record",
+      "value": "Record Sleep"
+    },
+    {
+      "name": "sleep_unit_hour",
+      "value": "hr"
+    },
+    {
+      "name": "sleep_unit_minute",
+      "value": "min"
+    },
+    {
+      "name": "sleep_stage_deep",
+      "value": "Deep"
+    },
+    {
+      "name": "sleep_stage_light",
+      "value": "Light"
+    },
+    {
+      "name": "sleep_stage_rem",
+      "value": "REM"
+    },
+    {
+      "name": "sleep_stage_awake",
+      "value": "Awake"
+    },
+    {
+      "name": "sleep_ratio",
+      "value": "Ratio"
+    },
+    {
+      "name": "sleep_state_normal",
+      "value": "Normal"
+    },
+    {
+      "name": "sleep_state_in_range",
+      "value": "In Range"
+    },
+    {
+      "name": "sleep_metric_duration",
+      "value": "Sleep Duration"
+    },
+    {
+      "name": "sleep_metric_deep_percent",
+      "value": "Deep Sleep"
+    },
+    {
+      "name": "sleep_metric_light_percent",
+      "value": "Light Sleep N1/N2"
+    },
+    {
+      "name": "sleep_metric_rem_percent",
+      "value": "REM Sleep"
+    },
+    {
+      "name": "sleep_metric_continuity",
+      "value": "Deep Sleep Continuity"
+    },
+    {
+      "name": "sleep_metric_awake_count",
+      "value": "Awake Count"
+    },
+    {
+      "name": "sleep_metric_stability",
+      "value": "Stable Sleep Ratio"
+    },
+    {
+      "name": "sleep_metric_breathing",
+      "value": "Breathing Quality"
+    },
+    {
+      "name": "sleep_metric_avg_heart_rate",
+      "value": "Average Heart Rate"
+    },
+    {
+      "name": "sleep_metric_avg_hrv",
+      "value": "Average HRV"
+    },
+    {
+      "name": "sleep_metric_avg_spo2",
+      "value": "Average SpO2"
+    },
+    {
+      "name": "sleep_metric_avg_breathing_rate",
+      "value": "Average Breathing Rate"
+    },
+    {
+      "name": "sleep_analysis_quality_avg",
+      "value": "Average sleep quality. You woke up twice during sleep, slightly above normal. Being easily awakened can affect emotional control and cause irritability or anxiety."
+    },
+    {
+      "name": "sleep_total_sleep_format",
+      "value": "Total sleep "
+    },
+    {
+      "name": "sleep_heart_rate_range_format",
+      "value": "bpm"
+    },
+    {
+      "name": "sleep_score_over_users_format",
+      "value": "pts Exceeds 45% of users"
+    },
+    {
+      "name": "exercise_title",
+      "value": "Exercise Records"
+    },
+    {
+      "name": "exercise_overview_title",
+      "value": "Exercise Overview"
+    },
+    {
+      "name": "exercise_selector_all_sports",
+      "value": "All Sports"
+    },
+    {
+      "name": "exercise_selector_all_time",
+      "value": "All Time"
+    },
+    {
+      "name": "exercise_unit_hour",
+      "value": "Duration (hr)"
+    },
+    {
+      "name": "exercise_unit_count",
+      "value": "Count (times)"
+    },
+    {
+      "name": "exercise_unit_calories",
+      "value": "Total Calories (kcal)"
+    },
+    {
+      "name": "exercise_unit_running_km",
+      "value": "Running (km)"
+    },
+    {
+      "name": "exercise_unit_walking_km",
+      "value": "Walking (km)"
+    },
+    {
+      "name": "exercise_unit_swimming_m",
+      "value": "Swimming (m)"
+    },
+    {
+      "name": "exercise_unit_jumping_count",
+      "value": "Jump Rope (count)"
+    },
+    {
+      "name": "exercise_unit_fitness_min",
+      "value": "Fitness Class (min)"
+    },
+    {
+      "name": "exercise_unit_golf_times",
+      "value": "Golf (times)"
+    },
+    {
+      "name": "exercise_unit_km",
+      "value": "km"
+    },
+    {
+      "name": "exercise_unit_m",
+      "value": "m"
+    },
+    {
+      "name": "exercise_unit_per_km",
+      "value": "/km"
+    },
+    {
+      "name": "exercise_unit_per_100m",
+      "value": "/100m"
+    },
+    {
+      "name": "exercise_unit_point",
+      "value": "pts"
+    },
+    {
+      "name": "exercise_unit_kcal",
+      "value": "kcal"
+    },
+    {
+      "name": "exercise_unit_total_calories",
+      "value": "Total Calories"
+    },
+    {
+      "name": "outdoor_run",
+      "value": "Outdoor Running"
+    },
+    {
+      "name": "basketball",
+      "value": "Basketball Performance"
+    },
+    {
+      "name": "pool_swim",
+      "value": "Pool Swimming"
+    },
+    {
+      "name": "indoor_run",
+      "value": "Indoor Running"
+    },
+    {
+      "name": "exercise_start_button",
+      "value": "Start Exercise"
+    },
+    {
+      "name": "exercise_end_button",
+      "value": "End Exercise"
+    },
+    {
+      "name": "exercise_month_summary_format",
+      "value": "Exercise 2.08hr    Exercise 3 times"
+    },
+    {
+      "name": "background_playback_not_supported",
+      "value": "This device does not support background playback"
+    },
+    {
+      "name": "sleep_status_sleeping",
+      "value": "Sleeping soundly"
+    },
+    {
+      "name": "sleep_status_wakeup",
+      "value": "Wake up on time"
+    },
+    {
+      "name": "card_title_music",
+      "value": "Music"
+    },
+    {
+      "name": "card_title_exercise",
+      "value": "Exercise"
+    },
+    {
+      "name": "card_title_delivery",
+      "value": "Delivery"
+    },
+    {
+      "name": "card_title_sleep",
+      "value": "Sleep"
+    },
+    {
+      "name": "sleep_stage_percent_deep",
+      "value": "1h 26min"
+    },
+    {
+      "name": "sleep_stage_percent_light",
+      "value": "3h 32min"
+    },
+    {
+      "name": "sleep_stage_percent_rem",
+      "value": "1h 38min"
+    },
+    {
+      "name": "task_target_25_min",
+      "value": "25 min"
+    },
+    {
+      "name": "task_target_8000_steps",
+      "value": "8000 steps"
+    },
+    {
+      "name": "task_target_3_times",
+      "value": "3 times"
+    },
+    {
+      "name": "task_target_1_time",
+      "value": "1 time"
+    },
+    {
+      "name": "task_target_2_times",
+      "value": "2 times"
+    },
+    {
+      "name": "sleep_value_duration",
+      "value": "7h 15min"
+    },
+    {
+      "name": "sleep_ref_duration",
+      "value": "Ref: 6-10hr"
+    },
+    {
+      "name": "sleep_ref_deep_percent",
+      "value": "Ref: 10-30%"
+    },
+    {
+      "name": "sleep_ref_light_percent",
+      "value": "Ref: <65%"
+    },
+    {
+      "name": "sleep_ref_rem_percent",
+      "value": "Ref: 10-30%"
+    },
+    {
+      "name": "sleep_value_continuity_score",
+      "value": "95pts"
+    },
+    {
+      "name": "sleep_ref_continuity",
+      "value": "Ref: 70-100pts"
+    },
+    {
+      "name": "sleep_value_1_time",
+      "value": "1x"
+    },
+    {
+      "name": "sleep_ref_awake_count",
+      "value": "Ref: 0-1x"
+    },
+    {
+      "name": "sleep_ref_stability",
+      "value": "Ref: ≥20%"
+    },
+    {
+      "name": "sleep_value_breathing_score",
+      "value": "100pts"
+    },
+    {
+      "name": "sleep_ref_breathing",
+      "value": "Ref: 70-100pts"
+    },
+    {
+      "name": "sleep_value_avg_heart_rate",
+      "value": "60bpm"
+    },
+    {
+      "name": "sleep_ref_avg_heart_rate",
+      "value": "Baseline: 50-65bpm"
+    },
+    {
+      "name": "sleep_value_avg_hrv",
+      "value": "100ms"
+    },
+    {
+      "name": "sleep_ref_avg_hrv",
+      "value": "Baseline: 60-120ms"
+    },
+    {
+      "name": "sleep_ref_avg_spo2",
+      "value": "Baseline: 90-100%"
+    },
+    {
+      "name": "sleep_value_avg_breathing_rate",
+      "value": "14br/min"
+    },
+    {
+      "name": "sleep_ref_avg_breathing_rate",
+      "value": "Baseline: 12-16br/min"
+    },
+    {
+      "name": "delivery_in_transit",
+      "value": "In Transit"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "channel",
+      "value": "channel：2382104"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "Search"
+    },
+    {
+      "name": "likes",
+      "value": "likes"
+    },
+    {
+      "name": "likes_count",
+      "value": "14"
+    },
+    {
+      "name": "friends",
+      "value": "friends"
+    },
+    {
+      "name": "friends_count",
+      "value": "22"
+    },
+    {
+      "name": "follow",
+      "value": "follow"
+    },
+    {
+      "name": "follow_count",
+      "value": "385"
+    },
+    {
+      "name": "fans",
+      "value": "fans"
+    },
+    {
+      "name": "fans_count",
+      "value": "25"
+    },
+    {
+      "name": "introduction",
+      "value": "Click to add a brief introduction, so everyone can get to know you .."
+    },
+    {
+      "name": "photographer",
+      "value": "photographer"
+    },
+    {
+      "name": "add_tags",
+      "value": "+ Add other tags"
+    },
+    {
+      "name": "ind_work",
+      "value": "work"
+    },
+    {
+      "name": "ind_private",
+      "value": "private"
+    },
+    {
+      "name": "ind_collection",
+      "value": "collection"
+    },
+    {
+      "name": "ind_like",
+      "value": "like"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_category",
+      "value": "分类"
+    },
+    {
+      "name": "tab_discover",
+      "value": "发现"
+    },
+    {
+      "name": "tab_cart",
+      "value": "购物袋"
+    },
+    {
+      "name": "tab_my",
+      "value": "我的"
+    },
+    {
+      "name": "TOP_BAR_TEXTS1",
+      "value": "华为"
+    },
+    {
+      "name": "TOP_BAR_TEXTS2",
+      "value": "AITO汽车"
+    },
+    {
+      "name": "TOP_BAR_TEXTS3",
+      "value": "华为智选"
+    },
+    {
+      "name": "TOP_BAR_TEXTS4",
+      "value": "生态周边"
+    },
+    {
+      "name": "searching",
+      "value": "搜索..."
+    },
+    {
+      "name": "search_goods",
+      "value": "搜索"
+    }
+  ]
+}

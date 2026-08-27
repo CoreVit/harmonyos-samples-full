@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "SmartReachAbility_desc",
+      "value": "Smart Reach"
+    },
+    {
+      "name": "SmartReachAbility_label",
+      "value": "Smart Reach"
+    },
+    {
+      "name": "tab_home",
+      "value": "Home"
+    },
+    {
+      "name": "tab_video",
+      "value": "Video"
+    },
+    {
+      "name": "tab_shopping",
+      "value": "Shopping"
+    },
+    {
+      "name": "tab_mine",
+      "value": "Mine"
+    },
+    {
+      "name": "alert_title",
+      "value": "Feature hints"
+    },
+    {
+      "name": "alert_msg",
+      "value": "Switch between left and right hand grips to easily experience the smart gesture control and intelligent interaction."
+    },
+    {
+      "name": "alert_desc",
+      "value": "*The feature is not supported on some models. Actual experience may vary."
+    },
+    {
+      "name": "no_more_prompts",
+      "value": "No more prompts"
+    },
+    {
+      "name": "okay",
+      "value": "Okay"
+    },
+    {
+      "name": "gesture_reason",
+      "value": "Your hand movement status needs to be obtained to implement hand-based operations"
+    }
+  ]
+}

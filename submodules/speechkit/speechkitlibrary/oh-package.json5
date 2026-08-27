@@ -1,0 +1,11 @@
+{
+  "name": "@ohos_samples/speechkitlibrary",
+  "version": "1.0.0",
+  "description": "This example simulates a scenario in which you tap the read receiver to jump to the TextReader playback panel and the TextReader reads text.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/speech-kit-sample-TextReader_-arkts/tree/br_release_hmos/",
+  "dependencies": {
+  }
+}

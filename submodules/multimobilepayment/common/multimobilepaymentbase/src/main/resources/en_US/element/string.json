@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "finance",
+      "value": "finance"
+    },
+    {
+      "name": "life",
+      "value": "life"
+    },
+    {
+      "name": "message",
+      "value": "message"
+    },
+    {
+      "name": "mine",
+      "value": "mine"
+    },
+    {
+      "name": "fund",
+      "value": "fund"
+    },
+    {
+      "name": "wealth",
+      "value": "wealth"
+    },
+    {
+      "name": "credit_card",
+      "value": "credit_card"
+    },
+    {
+      "name": "bills",
+      "value": "bills"
+    },
+    {
+      "name": "metals",
+      "value": "metals"
+    },
+    {
+      "name": "deposit",
+      "value": "deposit"
+    },
+    {
+      "name": "loan",
+      "value": "loan"
+    },
+    {
+      "name": "profit",
+      "value": "profit"
+    },
+    {
+      "name": "more",
+      "value": "more"
+    },
+    {
+      "name": "tab_home",
+      "value": "home"
+    },
+    {
+      "name": "tab_wealth",
+      "value": "wealth"
+    },
+    {
+      "name": "tab_life",
+      "value": "life"
+    },
+    {
+      "name": "tab_message",
+      "value": "message"
+    },
+    {
+      "name": "tab_mine",
+      "value": "mine"
+    },
+    {
+      "name": "scan",
+      "value": "scan"
+    },
+    {
+      "name": "payment_code",
+      "value": "QR_code"
+    },
+    {
+      "name": "travel",
+      "value": "travel"
+    },
+    {
+      "name": "card_bag",
+      "value": "card_bag"
+    },
+    {
+      "name": "mode_scan",
+      "value": "scan"
+    },
+    {
+      "name": "mode_recognize",
+      "value": "recognizable"
+    },
+    {
+      "name": "mode_ar",
+      "value": "AR"
+    }
+  ]
+}

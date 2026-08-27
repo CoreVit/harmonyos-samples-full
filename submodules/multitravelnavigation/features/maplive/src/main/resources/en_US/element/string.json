@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "live_module_desc",
+      "value": "Live view module"
+    },
+    {
+      "name": "live_view_title",
+      "value": "Turn left after 178 m"
+    },
+    {
+      "name": "live_view_content",
+      "value": "To "
+    },
+    {
+      "name": "live_view_destination",
+      "value": "Nanjing East Road"
+    },
+    {
+      "name": "capsule_title",
+      "value": "Driving"
+    },
+    {
+      "name": "capsule_content",
+      "value": "Turn left after 178 m"
+    }
+  ]
+}

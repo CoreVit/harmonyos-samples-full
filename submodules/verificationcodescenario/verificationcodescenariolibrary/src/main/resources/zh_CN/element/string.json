@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "select_verification_code",
+      "value": "选择验证码"
+    },
+    {
+      "name": "slider_verification_code",
+      "value": "滑块验证码"
+    },
+    {
+      "name": "enter_the_verification_code",
+      "value": "请输入验证码"
+    },
+    {
+      "name": "Verification_code_sent_to",
+      "value": "验证码已发送至"
+    },
+    {
+      "name": "phone_number",
+      "value": "+86 186****2770"
+    },
+    {
+      "name": "reacquire",
+      "value": "重新获取"
+    },
+    {
+      "name": "phone_number1",
+      "value": "+86 186******70"
+    },
+    {
+      "name": "slide",
+      "value": "向右滑动滑块填充拼图"
+    },
+    {
+      "name": "verification_passed",
+      "value": "验证通过"
+    },
+    {
+      "name": "verification_fail",
+      "value": "验证失败"
+    },
+    {
+      "name": "change",
+      "value": "看不清？换一张"
+    },
+    {
+      "name": "sentence",
+      "value": "请依次点击 '古 堰 画 乡'"
+    },
+    {
+      "name": "change_another",
+      "value": "换一张"
+    },
+    {
+      "name": "commit",
+      "value": "提交"
+    },
+    {
+      "name": "word",
+      "value": "光标风格"
+    },
+    {
+      "name": "bottom",
+      "value": "底部加横条"
+    },
+    {
+      "name": "background",
+      "value": "背景改变风格"
+    },
+    {
+      "name": "hua",
+      "value": "画"
+    },
+    {
+      "name": "cause",
+      "value": "故"
+    },
+    {
+      "name": "yan",
+      "value": "堰"
+    },
+    {
+      "name": "xiang",
+      "value": "乡"
+    },
+    {
+      "name": "china",
+      "value": "华"
+    },
+    {
+      "name": "gu",
+      "value": "古"
+    },
+    {
+      "name": "hunan",
+      "value": "湘"
+    },
+    {
+      "name": "project_name",
+      "value": "验证码合集"
+    },
+    {
+      "name": "prompt_message",
+      "value": "2in1设备暂不支持键盘输入！"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "license": "",
+  "devDependencies": {},
+  "author": "",
+  "name": "default",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "version": "1.0.0",
+  "dynamicDependencies": {},
+  "dependencies": {
+    "multivideobase": "file:../../common/multivideobase",
+    "multivideodetail": "file:../../features/multivideodetail",
+    "multivideorecommended": "file:../../features/multivideorecommended",
+    "multivideosearch": "file:../../features/multivideosearch"
+  }
+}

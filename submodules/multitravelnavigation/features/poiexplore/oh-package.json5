@@ -1,0 +1,12 @@
+{
+  "name": "poiexplore",
+  "version": "1.0.0",
+  "description": "POI explore feature module.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "multitravelbase": "file:../../commons/multitravelbase",
+    "maplive": "file:../../features/maplive"
+  }
+}

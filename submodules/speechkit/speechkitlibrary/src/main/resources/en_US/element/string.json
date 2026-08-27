@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "news_title",
+      "value": "A seamless shot, enjoy an unlimited silky visual journey."
+    },
+    {
+      "name": "news_author",
+      "value": "Code Workshop"
+    },
+    {
+      "name": "news_create_time",
+      "value": "2022/6/10 14:23 • The official account of the workshop channel"
+    },
+    {
+      "name": "news_part1",
+      "value": "When using a mobile phone or other smart devices in daily life, we often encounter this situation: when switching from one page to another or opening an application from the desktop, the screen suddenly 'lags' for a moment, just like when a movie playback suddenly drops a frame, breaking the immersive experience in an instant."
+    },
+    {
+      "name": "news_part2",
+      "value": "However, the seamless transition effect of HarmonyOS NEXT can make all of this completely different. Below, we will compare the differences between the conventional effect and the seamless effect through a simple image switching scene. The seamless effect is a transition method that uses shared elements to orchestrate the transition, which helps to improve the efficiency of user task operations and enhance the visual smoothness; it is a highly recommended technique in transition design. Shared elements are interface elements that continue to exist before and after the transition, which are the persistent elements mentioned earlier, and are the focal elements that we want users to pay attention to after the transition occurs, enhancing the sense of continuity in the transition."
+    },
+    {
+      "name": "news_part3",
+      "value": "When a group of elements has clear boundaries during transitions, containers can be used to create a sense of continuity in the transformation process. Containers achieve interpolation transitions through attributes like size, height, and border radius, while the elements inside the container can transition through fading in and out or shared element techniques. Without intermediate properties, smooth transitions cannot be achieved through interpolation changes; it is necessary to extract usable shared transition properties to ensure a smooth transition from start to finish. Common shared motion properties include translation, scaling, and rotation. There are various methods to achieve seamless motion effects, and in actual development, appropriate methods should be chosen based on the specific scenario."
+    },
+    {
+      "name": "reader_date",
+      "value": "2022/6/10"
+    },
+    {
+      "name": "reading_component",
+      "value": "Read the controls aloud"
+    },
+    {
+      "name": "the_service_of_audio_scene",
+      "value": "Scenario-based voice service"
+    },
+    {
+      "name": "news",
+      "value": "Development Practice"
+    },
+    {
+      "name": "xiaoyi_reader",
+      "value": "Xiaoyi reads aloud"
+    }
+  ]
+}

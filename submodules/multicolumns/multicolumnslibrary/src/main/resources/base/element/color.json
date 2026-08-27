@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "detail_background",
+      "value": "#33000000"
+    },
+    {
+      "name": "text_color",
+      "value": "#18181a"
+    },
+    {
+      "name": "item_selected_color",
+      "value": "#19254ff7"
+    },
+    {
+      "name": "mail_side_bg_color",
+      "value": "#254ff7"
+    },
+    {
+      "name": "mail_side_font_color",
+      "value": "#fff"
+    }
+  ]
+}

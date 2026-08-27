@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "ability_desc",
+      "value": "description"
+    },
+    {
+      "name": "ability_label",
+      "value": "购物比价"
+    },
+    {
+      "name": "LIVE_PAGE_BUY_NOW",
+      "value": "立即购买"
+    }
+  ]
+}

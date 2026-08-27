@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "index_title",
+      "value": "软键盘弹出"
+    },
+    {
+      "name": "Search_text",
+      "value": "搜索联系人"
+    },
+    {
+      "name": "prompt_text",
+      "value": "暂不支持搜索功能"
+    },
+    {
+      "name": "prompt_text2",
+      "value": "暂不支持发送功能"
+    },
+    {
+      "name": "chat_list",
+      "value": "聊天列表"
+    },
+    {
+      "name": "mail_page",
+      "value": "邮箱页面"
+    },
+    {
+      "name": "comment_page",
+      "value": "评论弹窗"
+    },
+    {
+      "name": "new_email",
+      "value": "新建邮件"
+    },
+    {
+      "name": "from",
+      "value": "发件人"
+    },
+    {
+      "name": "to",
+      "value": "收件人"
+    },
+    {
+      "name": "subject",
+      "value": "主题"
+    },
+    {
+      "name": "comment_time",
+      "value": "刚刚"
+    },
+    {
+      "name": "commenter_name",
+      "value": "Suger"
+    },
+    {
+      "name": "email_address",
+      "value": "邮箱地址"
+    },
+    {
+      "name": "entry_content",
+      "value": "输入内容"
+    },
+    {
+      "name": "chat_message1",
+      "value": "您好，有什么可以帮您？"
+    },
+    {
+      "name": "chat_message2",
+      "value": "您好"
+    },
+    {
+      "name": "chat_message3",
+      "value": "我对你们的产品很感兴趣，感觉挺不错的"
+    },
+    {
+      "name": "chat_message4",
+      "value": "太好了！"
+    },
+    {
+      "name": "chat_message5",
+      "value": "我们现在可以电话沟通吗？"
+    },
+    {
+      "name": "chat_message6",
+      "value": "当然可以"
+    },
+    {
+      "name": "comment1",
+      "value": "评论1"
+    },
+    {
+      "name": "comment2",
+      "value": "评论2"
+    },
+    {
+      "name": "comment3",
+      "value": "评论3"
+    },
+    {
+      "name": "comment4",
+      "value": "评论4"
+    },
+    {
+      "name": "comment5",
+      "value": "评论5"
+    },
+    {
+      "name": "comment6",
+      "value": "评论6"
+    },
+    {
+      "name": "comment7",
+      "value": "评论7"
+    },
+    {
+      "name": "comment8",
+      "value": "评论8"
+    },
+    {
+      "name": "comment_input_placeholder",
+      "value": "请输入评论内容"
+    }
+  ]
+}

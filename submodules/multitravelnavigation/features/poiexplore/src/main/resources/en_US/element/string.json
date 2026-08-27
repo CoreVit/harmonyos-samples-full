@@ -1,0 +1,360 @@
+{
+  "string": [
+    {
+      "name": "tab_home",
+      "value": "Home"
+    },
+    {
+      "name": "tab_locate",
+      "value": "Nearby"
+    },
+    {
+      "name": "tab_taxi",
+      "value": "Taxi"
+    },
+    {
+      "name": "tab_my",
+      "value": "Me"
+    },
+    {
+      "name": "drive",
+      "value": "Drive"
+    },
+    {
+      "name": "metro",
+      "value": "Transit"
+    },
+    {
+      "name": "taxi",
+      "value": "Taxi"
+    },
+    {
+      "name": "bus",
+      "value": "Live Bus"
+    },
+    {
+      "name": "hotel",
+      "value": "Hotels"
+    },
+    {
+      "name": "attractions",
+      "value": "Attractions"
+    },
+    {
+      "name": "buy",
+      "value": "Deals"
+    },
+    {
+      "name": "download",
+      "value": "Offline Maps"
+    },
+    {
+      "name": "drive2",
+      "value": "Chauffeur"
+    },
+    {
+      "name": "more",
+      "value": "More Tools"
+    },
+    {
+      "name": "loading_data",
+      "value": "Searching"
+    },
+    {
+      "name": "poi_textInput_holder",
+      "value": "Search for places, addresses, and buses"
+    },
+    {
+      "name": "frequent_locations",
+      "value": "Frequent Places"
+    },
+    {
+      "name": "all",
+      "value": "All"
+    },
+    {
+      "name": "add_home",
+      "value": "Add Home"
+    },
+    {
+      "name": "add_comp",
+      "value": "Add Company/School"
+    },
+    {
+      "name": "add_address",
+      "value": "Add Frequent Address"
+    },
+    {
+      "name": "recommend_location",
+      "value": "Nearby"
+    },
+    {
+      "name": "recommend",
+      "value": "Jianghan Road Pedestrian Street"
+    },
+    {
+      "name": "direction_desc",
+      "value": "Less than 364 m away"
+    },
+    {
+      "name": "goto",
+      "value": "View"
+    },
+    {
+      "name": "discount_attraction",
+      "value": "Discounted Attractions"
+    },
+    {
+      "name": "attraction1",
+      "value": "Yellow Crane Tower"
+    },
+    {
+      "name": "attraction2",
+      "value": "Hankou River Beach"
+    },
+    {
+      "name": "attraction3",
+      "value": "Jianghan Road"
+    },
+    {
+      "name": "attraction4",
+      "value": "Tanhualin"
+    },
+    {
+      "name": "have_more",
+      "value": "View More"
+    },
+    {
+      "name": "location_distance",
+      "value": "Distance"
+    },
+    {
+      "name": "rank_recommendation",
+      "value": "Recommended"
+    },
+    {
+      "name": "favor",
+      "value": "Fav"
+    },
+    {
+      "name": "share",
+      "value": "Sh."
+    },
+    {
+      "name": "start_navigate",
+      "value": "Start"
+    },
+    {
+      "name": "live_view_started_toast",
+      "value": "Live View started"
+    },
+    {
+      "name": "live_view_start_failed_toast",
+      "value": "Failed to start Live View"
+    },
+    {
+      "name": "navigate",
+      "value": "Go"
+    },
+    {
+      "name": "route",
+      "value": "Route"
+    },
+    {
+      "name": "location_name_width",
+      "value": "70%"
+    },
+    {
+      "name": "my_location",
+      "value": "My Location"
+    },
+    {
+      "name": "input_terminal_point",
+      "value": "Enter destination"
+    },
+    {
+      "name": "public_transportation",
+      "value": "Transit"
+    },
+    {
+      "name": "cycling",
+      "value": "Cycling"
+    },
+    {
+      "name": "walk",
+      "value": "Walking"
+    },
+    {
+      "name": "proxy_driving",
+      "value": "Chauffeur"
+    },
+    {
+      "name": "train",
+      "value": "Train"
+    },
+    {
+      "name": "passenger_car",
+      "value": "Coach"
+    },
+    {
+      "name": "convenience_store",
+      "value": "Convenience store"
+    },
+    {
+      "name": "open_now_prefix",
+      "value": "Open now ·"
+    },
+    {
+      "name": "search_result_distance_template",
+      "value": "{distance} m away"
+    },
+    {
+      "name": "site_open_now",
+      "value": "Open now"
+    },
+    {
+      "name": "phone_label",
+      "value": "Tel:"
+    },
+    {
+      "name": "phone_number_sample",
+      "value": "012-5684325"
+    },
+    {
+      "name": "site_detail_distance_template",
+      "value": "{distance} m away"
+    },
+    {
+      "name": "walk_less_than_one_minute",
+      "value": "Under 1 min walk"
+    },
+    {
+      "name": "site_nearby_other_store",
+      "value": "Nearby stores"
+    },
+    {
+      "name": "site_arrival_rate_13",
+      "value": "13% arrival"
+    },
+    {
+      "name": "site_east_gate",
+      "value": "East Gate"
+    },
+    {
+      "name": "site_arrival_rate_87",
+      "value": "87% arrival"
+    },
+    {
+      "name": "site_scenic_tickets",
+      "value": "Attraction Tickets"
+    },
+    {
+      "name": "ask_section_title",
+      "value": "Q&A"
+    },
+    {
+      "name": "ask_icon_text",
+      "value": "Q"
+    },
+    {
+      "name": "ask_parking_question",
+      "value": "Is there parking nearby?"
+    },
+    {
+      "name": "ask_parking_answers",
+      "value": "1 answer"
+    },
+    {
+      "name": "ask_charging_question",
+      "value": "Are there charging stations nearby?"
+    },
+    {
+      "name": "ask_charging_answers",
+      "value": "4 answers"
+    },
+    {
+      "name": "no_site_detail",
+      "value": "No place details available"
+    },
+    {
+      "name": "route_strategy_primary",
+      "value": "Major roads"
+    },
+    {
+      "name": "route_strategy_secondary",
+      "value": "Alternative 2"
+    },
+    {
+      "name": "route_strategy_short",
+      "value": "Shorter distance"
+    },
+    {
+      "name": "route_planning_loading",
+      "value": "Planning route..."
+    },
+    {
+      "name": "route_time_template",
+      "value": "{time} min"
+    },
+    {
+      "name": "route_distance_template",
+      "value": "{distance} km"
+    },
+    {
+      "name": "route_error_destination_not_selected",
+      "value": "No destination selected"
+    },
+    {
+      "name": "route_error_current_location_failed",
+      "value": "Failed to get current location"
+    },
+    {
+      "name": "route_error_no_routes",
+      "value": "No routes available"
+    },
+    {
+      "name": "route_error_empty_roads",
+      "value": "Route data is empty"
+    },
+    {
+      "name": "route_error_failed",
+      "value": "Route planning failed"
+    },
+    {
+      "name": "site_brief_great_scenery",
+      "value": "Great scenery"
+    },
+    {
+      "name": "site_brief_many_shops",
+      "value": "Many shops"
+    },
+    {
+      "name": "site_brief_crowded",
+      "value": "Busy area"
+    },
+    {
+      "name": "site_brief_snack_shops",
+      "value": "Snack vendors"
+    },
+    {
+      "name": "site_price_60",
+      "value": "60"
+    },
+    {
+      "name": "site_price_32",
+      "value": "32"
+    },
+    {
+      "name": "site_price_free",
+      "value": "Free"
+    },
+    {
+      "name": "site_discount_75",
+      "value": "25% off"
+    },
+    {
+      "name": "site_name_optics_valley",
+      "value": "Optics Valley"
+    }
+  ]
+}

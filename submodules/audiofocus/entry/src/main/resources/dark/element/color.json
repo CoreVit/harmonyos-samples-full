@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "home_page_bg",
+      "value": "#020203"
+    },
+    {
+      "name": "list_item_bg",
+      "value": "#202224"
+    },
+    {
+      "name": "status_bar",
+      "value": "#F1F3F5"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "color": [
+    {
+      "name": "sheet_background_color",
+      "value": "#F9F9F9"
+    },
+    {
+      "name": "card_background_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "button_primary_color",
+      "value": "#E53137"
+    },
+    {
+      "name": "divider_color",
+      "value": "#33000000"
+    },
+    {
+      "name": "plate_tag_font_color",
+      "value": "#1E6CF3"
+    },
+    {
+      "name": "plate_tag_background_color",
+      "value": "#E8F0FE"
+    },
+    {
+      "name": "text_secondary_color",
+      "value": "#999999"
+    },
+    {
+      "name": "text_tertiary_color",
+      "value": "#979797"
+    },
+    {
+      "name": "text_primary_color",
+      "value": "#000000"
+    },
+    {
+      "name": "securities_tag_font_color",
+      "value": "#9801FF"
+    },
+    {
+      "name": "securities_tag_background_color",
+      "value": "#F4E3FD"
+    },
+    {
+      "name": "growth_tag_font_color",
+      "value": "#FF5501"
+    },
+    {
+      "name": "growth_tag_background_color",
+      "value": "#FFEEE5"
+    }
+  ]
+}

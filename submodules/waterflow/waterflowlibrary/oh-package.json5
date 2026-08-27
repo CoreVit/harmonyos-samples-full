@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/waterflowlibrary",
+  "version": "1.0.0",
+  "description": "This sample describes how to implement the waterfall layout based on the WaterFlow container. Sections are used to implement hybrid layout, and functions such as tab ceiling, pull-down refresh, and unlimited loading are also implemented in this sample.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/water-flow/tree/br_release_hmos/",
+  "dependencies": {}
+}

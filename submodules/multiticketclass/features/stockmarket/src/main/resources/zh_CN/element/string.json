@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "certain_index",
+      "value": "某某指数"
+    },
+    {
+      "name": "deep_number",
+      "value": "深某某数"
+    },
+    {
+      "name": "science_technology",
+      "value": "科创某某"
+    },
+    {
+      "name": "stock_company",
+      "value": "券某某股"
+    },
+    {
+      "name": "stock_text_start",
+      "value": "本期这些股"
+    },
+    {
+      "name": "stock_text_end",
+      "value": "票最被看好"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "PcAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "PcAbility_label",
+      "value": "shoppingpricecomparison"
+    },
+    {
+      "name": "LIVE_PAGE_BUY_NOW",
+      "value": "Buy now"
+    },
+    {
+      "name": "PC_NAV_TITLE",
+      "value": "Shopping"
+    }
+  ]
+}

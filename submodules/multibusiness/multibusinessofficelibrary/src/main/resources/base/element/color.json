@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "orange",
+      "value": "#F76045"
+    },
+    {
+      "name": "background_gray",
+      "value": "#0d000000"
+    },
+    {
+      "name": "notes_sidebar_color",
+      "value": "#E6BA0B"
+    },
+    {
+      "name": "purple",
+      "value": "#7A6FEB"
+    },
+    {
+      "name": "trip_background_color",
+      "value": "#337a6feb"
+    },
+    {
+      "name": "notes_sidebar_content",
+      "value": "#33e6ba0b"
+    },
+    {
+      "name": "gray",
+      "value": "#808080"
+    },
+    {
+      "name": "sidebar_color",
+      "value": "#F1F3F5"
+    }
+  ]
+}

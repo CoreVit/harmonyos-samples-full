@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "HOME_TITLES1",
+      "value": "福利专区"
+    },
+    {
+      "name": "BUTTON_TEXTS1",
+      "value": "立即领券"
+    },
+    {
+      "name": "BUTTON_TEXTS2",
+      "value": "更多"
+    },
+    {
+      "name": "TIP_TEXTS1",
+      "value": "用券价"
+    },
+    {
+      "name": "PRICE_UNIT",
+      "value": "起"
+    },
+    {
+      "name": "HOME_TITLES2",
+      "value": "甄选推荐"
+    },
+    {
+      "name": "HOME_REVIEW",
+      "value": "2571人评论 95%好评"
+    },
+    {
+      "name": "SECTION_PRODUCTS_INFO1",
+      "value": "北斗卫星消息 | 低电量应急模式"
+    },
+    {
+      "name": "SECTION_PRODUCTS_INFO2",
+      "value": "144Hz高割全面屏"
+    },
+    {
+      "name": "SECTION_PRODUCTS_INFO3",
+      "value": "32GB大内存 | 13代酷睿处理器 | 超级终端"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES2",
+      "value": "新一代直屏旗舰机"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES3",
+      "value": "最高省100"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES4",
+      "value": "限时直降300"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES5",
+      "value": "最高省300"
+    },
+    {
+      "name": "HOME_PREFERRED_MATEBOOK_TITLE",
+      "value": "MateBook X Pro 12代"
+    },
+    {
+      "name": "HOME_PREFERRED_MATEBOOK_FEATURE",
+      "value": "V1-V5优惠400元/12期免息"
+    },
+    {
+      "name": "HOME_PREFERRED_MATE50_NEW_TITLE",
+      "value": "HUAWEI Mate 50 新品"
+    }
+  ]
+}

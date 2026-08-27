@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "month_day_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "bind_sheet_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "bottom_bind_sheet_background",
+      "value": "#F1F3F5"
+    }
+  ]
+}

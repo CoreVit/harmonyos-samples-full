@@ -1,0 +1,80 @@
+{
+  "color": [
+    {
+      "name": "vd_page_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "vd_card_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "vd_input_background",
+      "value": "#0d000000"
+    },
+    {
+      "name": "vd_placeholder",
+      "value": "#99000000"
+    },
+    {
+      "name": "vd_tv_episode_background",
+      "value": "#0D000000"
+    },
+    {
+      "name": "vd_tv_episode_border",
+      "value": "#26FFFFFF"
+    },
+    {
+      "name": "vd_input_shadow",
+      "value": "#2600001E"
+    },
+    {
+      "name": "vd_episode_row_background",
+      "value": "#33FFFFFF"
+    },
+    {
+      "name": "vd_font_selected",
+      "value": "#ED6F21"
+    },
+    {
+      "name": "vd_tv_page_background",
+      "value": "#FF202224"
+    },
+    {
+      "name": "vd_slider_selected",
+      "value": "#ED6F21"
+    },
+    {
+      "name": "vd_black",
+      "value": "#000000"
+    },
+    {
+      "name": "vd_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "vd_transparent",
+      "value": "#00000000"
+    },
+    {
+      "name": "vd_comment_divider",
+      "value": "#0D000000"
+    },
+    {
+      "name": "vd_text_primary",
+      "value": "#000000"
+    },
+    {
+      "name": "vd_gradient_overlay_start",
+      "value": "#00000000"
+    },
+    {
+      "name": "vd_gradient_overlay_end",
+      "value": "#99000000"
+    },
+    {
+      "name": "vd_player_back_button_background",
+      "value": "#1AFFFFFF"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  module: {
+    name: 'tv',
+    type: 'feature',
+    description: '$string:module_desc',
+    mainElement: 'TvAbility',
+    deviceTypes: [
+      'tv',
+    ],
+    deliveryWithInstall: false,
+    installationFree: false,
+    pages: '$profile:main_pages',
+    abilities: [
+      {
+        name: 'TvAbility',
+        srcEntry: './ets/tvability/TvAbility.ets',
+        description: '$string:TvAbility_desc',
+        icon: '$media:layered_image',
+        label: '$string:TvAbility_label',
+        startWindowIcon: '$media:startIcon',
+        startWindowBackground: '$color:start_window_background',
+        exported: true,
+        skills: [
+          {
+            entities: [
+              'entity.system.home',
+            ],
+            actions: [
+              'ohos.want.action.home',
+            ],
+          },
+        ],
+      },
+    ],
+  },
+}

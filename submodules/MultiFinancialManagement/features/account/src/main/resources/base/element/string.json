@@ -1,0 +1,128 @@
+{
+  "string": [
+    {
+      "name": "account_yesterday_income",
+      "value": "Yesterday Income"
+    },
+    {
+      "name": "account_demand",
+      "value": "Demand+"
+    },
+    {
+      "name": "account_investment",
+      "value": "Investment"
+    },
+    {
+      "name": "account_monthly_interest_due",
+      "value": "Monthly Interest Due"
+    },
+    {
+      "name": "account_invest_section_title",
+      "value": "Investment"
+    },
+    {
+      "name": "account_wealth",
+      "value": "Wealth"
+    },
+    {
+      "name": "account_half_year_treasure",
+      "value": "Half-Year Treasure"
+    },
+    {
+      "name": "account_position_income",
+      "value": "Position Income"
+    },
+    {
+      "name": "account_recent_redeem_date",
+      "value": "Recent Redeem Date:"
+    },
+    {
+      "name": "account_position_amount",
+      "value": "Position Amount"
+    },
+    {
+      "name": "account_fund",
+      "value": "Fund"
+    },
+    {
+      "name": "account_index_fund_c",
+      "value": "XXXXXX Index C"
+    },
+    {
+      "name": "account_savings_card",
+      "value": "Savings Card"
+    },
+    {
+      "name": "account_demand_deposit",
+      "value": "Demand Deposit"
+    },
+    {
+      "name": "account_daily_treasure",
+      "value": "Daily Treasure"
+    },
+    {
+      "name": "account_yesterday_income_value",
+      "value": "Yesterday Income 1.33"
+    },
+    {
+      "name": "account_liability_section_title",
+      "value": "Liability"
+    },
+    {
+      "name": "account_available_limit",
+      "value": "Available Limit"
+    },
+    {
+      "name": "account_remaining_rmb_due",
+      "value": "Remaining RMB Due"
+    },
+    {
+      "name": "account_credit_card_personal_consume",
+      "value": "CC Personal Consumption Acct"
+    },
+    {
+      "name": "account_unbilled_statement_amount",
+      "value": "Unbilled: 11111"
+    },
+    {
+      "name": "account_statement_date",
+      "value": "11-23 Statement Date"
+    },
+    {
+      "name": "message_announcement",
+      "value": "Ann."
+    },
+    {
+      "name": "message_announcement_content",
+      "value": "Regarding adjustments to precious metals and gold fixed investment business."
+    },
+    {
+      "name": "message_transaction",
+      "value": "Trade"
+    },
+    {
+      "name": "message_transaction_content",
+      "value": "June 06, you have an automatic transfer please check."
+    },
+    {
+      "name": "message_selection",
+      "value": "Featured"
+    },
+    {
+      "name": "message_selection_content",
+      "value": "Pursue positive returns, reject roller coasters."
+    },
+    {
+      "name": "bank_card_balance",
+      "value": "Bank Card Balance"
+    },
+    {
+      "name": "bank_card_info",
+      "value": "Certain Bank | Tail number 6749"
+    },
+    {
+      "name": "view_details",
+      "value": "View Details"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "title",
+      "value": "WaterFlow瀑布流实例"
+    },
+    {
+      "name": "grid_work",
+      "value": "智慧办公"
+    },
+    {
+      "name": "grid_sport",
+      "value": "运动健康"
+    },
+    {
+      "name": "grid_life",
+      "value": "智联"
+    },
+    {
+      "name": "grid_phone",
+      "value": "手机"
+    },
+    {
+      "name": "grid_play",
+      "value": "影音娱乐"
+    },
+    {
+      "name": "nav_index",
+      "value": "首页"
+    },
+    {
+      "name": "nav_shopping_cart",
+      "value": "购物车"
+    },
+    {
+      "name": "nav_mine",
+      "value": "我的"
+    },
+    {
+      "name": "loading",
+      "value": "正在加载"
+    },
+    {
+      "name": "sticky_tab_all",
+      "value": "综合"
+    },
+    {
+      "name": "sticky_tab_merchant",
+      "value": "商户"
+    },
+    {
+      "name": "sticky_tab_note",
+      "value": "笔记"
+    },
+    {
+      "name": "sticky_tab_group_buy",
+      "value": "团购"
+    },
+    {
+      "name": "sticky_tab_user",
+      "value": "用户"
+    },
+    {
+      "name": "recommend",
+      "value": "推荐"
+    },
+    {
+      "name": "computer",
+      "value": "电脑"
+    },
+    {
+      "name": "phone",
+      "value": "手机"
+    },
+    {
+      "name": "speaker",
+      "value": "音箱"
+    },
+    {
+      "name": "fold",
+      "value": "折叠"
+    },
+    {
+      "name": "pad",
+      "value": "平板"
+    },
+    {
+      "name": "str_bonus_points_data_demo",
+      "value": "赠送积分"
+    },
+    {
+      "name": "str_name_data_demo",
+      "value": "XX设备  一起探索，一起体验"
+    },
+    {
+      "name": "str_promotion_data_demo",
+      "value": "限时"
+    },
+    {
+      "name": "scenario_sections",
+      "value": "实现多列混排"
+    },
+    {
+      "name": "scenario_embed",
+      "value": "Scroll嵌套WaterFlow实现首页"
+    }
+  ]
+}

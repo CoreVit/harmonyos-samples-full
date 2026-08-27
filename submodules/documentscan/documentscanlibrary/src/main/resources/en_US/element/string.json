@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "main_title",
+      "value": "Document Scanning Component Example"
+    },
+    {
+      "name": "scan_result",
+      "value": "Document Scanning Result"
+    },
+    {
+      "name": "button_scan",
+      "value": "Document Scanner"
+    },
+    {
+      "name": "button_home",
+      "value": "Back to Home"
+    }
+  ]
+}

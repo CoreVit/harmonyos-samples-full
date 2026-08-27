@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "gradient_start_color",
+      "value": "#FFF9F9"
+    },
+    {
+      "name": "gradient_mid1_color",
+      "value": "#FFFAFA"
+    },
+    {
+      "name": "gradient_mid2_color",
+      "value": "#FFFEFE"
+    },
+    {
+      "name": "gradient_end_color",
+      "value": "#FFFFFF"
+    }
+  ]
+}

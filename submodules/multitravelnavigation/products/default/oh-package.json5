@@ -1,0 +1,13 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "multitravelbase": "file:../../commons/multitravelbase",
+    "mapcontainer": "file:../../features/mapcontainer",
+    "maplive": "file:../../features/maplive"
+  }
+}

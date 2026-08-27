@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/multinewsreadlibrary",
+  "version": "1.0.0",
+  "description": "This sample implements a news page based on the adaptive layout and responsive layout, allowing the same set of codebase to fit into device of different sizes, such as mobile phones, foldable devices, and tablets.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/multi-news-read/tree/br_release_hmos/",
+  "dependencies": {}
+}

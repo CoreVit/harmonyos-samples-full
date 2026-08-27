@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "智感握姿"
+    },
+    {
+      "name": "SmartReachAbility_desc",
+      "value": "智感握姿"
+    },
+    {
+      "name": "SmartReachAbility_label",
+      "value": "智感握姿"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_video",
+      "value": "视频"
+    },
+    {
+      "name": "tab_shopping",
+      "value": "好物"
+    },
+    {
+      "name": "tab_mine",
+      "value": "我的"
+    },
+    {
+      "name": "alert_title",
+      "value": "功能提示"
+    },
+    {
+      "name": "alert_msg",
+      "value": "更换左、右手握持，轻松体验智感握姿智能交互。"
+    },
+    {
+      "name": "alert_desc",
+      "value": "*部分机型暂不支持该功能，请以设备实际体验为准。"
+    },
+    {
+      "name": "no_more_prompts",
+      "value": "不再提示"
+    },
+    {
+      "name": "okay",
+      "value": "知道了"
+    },
+    {
+      "name": "gesture_reason",
+      "value": "需要获取您的操作手状态变化来实现跟手操作"
+    }
+  ]
+}

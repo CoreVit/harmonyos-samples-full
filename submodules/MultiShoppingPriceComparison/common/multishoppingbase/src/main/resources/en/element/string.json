@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "tab_home",
+      "value": "Home"
+    },
+    {
+      "name": "tab_category",
+      "value": "Categories"
+    },
+    {
+      "name": "tab_discover",
+      "value": "Discover"
+    },
+    {
+      "name": "tab_cart",
+      "value": "Bag"
+    },
+    {
+      "name": "tab_my",
+      "value": "Me"
+    },
+    {
+      "name": "TOP_BAR_TEXTS1",
+      "value": "HUAWEI"
+    },
+    {
+      "name": "TOP_BAR_TEXTS2",
+      "value": "AITO"
+    },
+    {
+      "name": "TOP_BAR_TEXTS3",
+      "value": "HUAWEI Selection"
+    },
+    {
+      "name": "TOP_BAR_TEXTS4",
+      "value": "Ecosystem"
+    },
+    {
+      "name": "searching",
+      "value": "Search…"
+    },
+    {
+      "name": "search_goods",
+      "value": "Search"
+    }
+  ]
+}

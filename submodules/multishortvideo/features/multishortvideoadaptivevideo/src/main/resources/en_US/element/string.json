@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "author_id",
+      "value": "National Geographic"
+    },
+    {
+      "name": "release_time",
+      "value": "two hours ago"
+    },
+    {
+      "name": "body_text",
+      "value": "The Sanjiangyuan region is located in the southern part of Qinghai Province, China, situated in the hinterland of the Qinghai-Tibet Plateau, with an average elevation of approximately 4,700 meters. It is home to the world's highest national park, a vast expanse of land. This region is the birthplace of the three major rivers: the Yangtze River, the Yellow River, and the Lancang River. Therefore, it is known as the \"Water Tower of China\" and holds an extremely important ecological position."
+    },
+    {
+      "name": "original_music",
+      "value": "original music"
+    },
+    {
+      "name": "comment_title",
+      "value": "comment(%d)"
+    }
+  ]
+}

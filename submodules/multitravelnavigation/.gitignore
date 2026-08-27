@@ -1,0 +1,10 @@
+.DS_Store
+.hvigor/
+.idea/
+oh_modules/
+package-lock.json
+
+**/.DS_Store
+**/.preview/
+**/oh_modules/
+**/build/

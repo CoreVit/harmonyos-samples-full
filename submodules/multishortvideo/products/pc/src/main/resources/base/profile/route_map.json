@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name": "SplitComment",
+      "pageSourceFile": "src/main/ets/view/SplitComment.ets",
+      "buildFunction": "SplitCommentBuilder"
+    }
+  ]
+}

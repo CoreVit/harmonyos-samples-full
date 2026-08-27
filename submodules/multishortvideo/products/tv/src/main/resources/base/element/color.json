@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "tv_tab_bg",
+      "value": "#26FFFFFF"
+    },
+    {
+      "name": "tv_header_bg",
+      "value": "#80000000"
+    }
+  ]
+}

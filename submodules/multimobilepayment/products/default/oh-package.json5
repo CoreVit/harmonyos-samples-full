@@ -1,0 +1,14 @@
+{
+  "name": "multimobilepaymentdefaultsample",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "multimobilepaymentbase": "file:../../common/multimobilepaymentbase",
+    "multimobilepaymentrecommend": "file:../../features/multimobilepaymentrecommend",
+    "multimobilepaymentpay": "file:../../features/multimobilepaymentpay",
+    "multimobilepaymentscan": "file:../../features/multimobilepaymentscan"
+  }
+}

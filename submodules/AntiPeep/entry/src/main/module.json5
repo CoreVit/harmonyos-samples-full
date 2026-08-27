@@ -1,0 +1,51 @@
+{
+  module: {
+    name: 'antipeepsample',
+    type: 'feature',
+    description: '$string:module_desc',
+    mainElement: 'AntipeepAbility',
+    deviceTypes: [
+      'phone',
+      'tablet',
+      '2in1',
+    ],
+    requestPermissions: [
+      {
+        name: 'ohos.permission.DLP_GET_HIDE_STATUS',
+        reason: '$string:permission_hide',
+        usedScene: {
+          abilities: [
+            'AntipeepAbility',
+          ],
+          when: 'always',
+        },
+      },
+    ],
+    deliveryWithInstall: false,
+    installationFree: false,
+    pages: '$profile:main_pages',
+    abilities: [
+      {
+        name: 'AntipeepAbility',
+        srcEntry: './ets/entryability/EntryAbility.ets',
+        description: '$string:EntryAbility_desc',
+        icon: '$media:layered_image',
+        label: '$string:EntryAbility_label',
+        startWindowIcon: '$media:startIcon',
+        startWindowBackground: '$color:start_window_background',
+        exported: true,
+        skills: [
+          {
+            entities: [
+              'entity.system.home',
+            ],
+            actions: [
+              'ohos.want.action.home',
+            ],
+          },
+        ],
+      },
+    ],
+    extensionAbilities: [],
+  },
+}

@@ -1,0 +1,20 @@
+{
+  "float": [
+    {
+      "name": "title_margin_top",
+      "value": "56.0vp"
+    },
+    {
+      "name": "margin_12",
+      "value": "12.0vp"
+    },
+    {
+      "name": "row_height_64",
+      "value": "64.0vp"
+    },
+    {
+      "name": "row_height_48",
+      "value": "48.0vp"
+    }
+  ]
+}

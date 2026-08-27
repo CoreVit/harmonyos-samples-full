@@ -1,0 +1,112 @@
+{
+  "float": [
+    {
+      "name": "index_button_width_lg",
+      "value": "448vp"
+    },
+    {
+      "name": "button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "button_height_small",
+      "value": "24vp"
+    },
+    {
+      "name": "image_size",
+      "value": "24vp"
+    },
+    {
+      "name": "image_size_32",
+      "value": "32vp"
+    },
+    {
+      "name": "image_size_48",
+      "value": "48vp"
+    },
+    {
+      "name": "right_icon_width",
+      "value": "12vp"
+    },
+    {
+      "name": "tag_circle_size",
+      "value": "12vp"
+    },
+    {
+      "name": "text_circle_size",
+      "value": "18vp"
+    },
+    {
+      "name": "setting_toggle_width",
+      "value": "36vp"
+    },
+    {
+      "name": "setting_toggle_height",
+      "value": "20vp"
+    },
+    {
+      "name": "item_height",
+      "value": "56vp"
+    },
+    {
+      "name": "item_height_48",
+      "value": "48vp"
+    },
+    {
+      "name": "mail_account_margin_top",
+      "value": "78vp"
+    },
+    {
+      "name": "mail_inbox_height",
+      "value": "140vp"
+    },
+    {
+      "name": "mail_inbox_margin_top",
+      "value": "80vp"
+    },
+    {
+      "name": "mail_mail_height",
+      "value": "96vp"
+    },
+    {
+      "name": "mail_title_height",
+      "value": "162vp"
+    },
+    {
+      "name": "content_image_height",
+      "value": "166vp"
+    },
+    {
+      "name": "albums_image_column_gap",
+      "value": "22vp"
+    },
+    {
+      "name": "albums_image_row_gap",
+      "value": "17vp"
+    },
+    {
+      "name": "setting_navBar_width",
+      "value": "293vp"
+    },
+    {
+      "name": "line_height_12",
+      "value": "12fp"
+    },
+    {
+      "name": "line_height_19",
+      "value": "19fp"
+    },
+    {
+      "name": "line_height_22",
+      "value": "22fp"
+    },
+    {
+      "name": "line_height_23",
+      "value": "23fp"
+    },
+    {
+      "name": "line_height_25",
+      "value": "25fp"
+    }
+  ]
+}

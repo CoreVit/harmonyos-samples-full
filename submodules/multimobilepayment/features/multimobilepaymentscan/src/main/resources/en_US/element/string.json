@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "permission_reason",
+      "value": "scan bar code"
+    },
+    {
+      "name": "scan_payment",
+      "value": "payment"
+    },
+    {
+      "name": "scan_album",
+      "value": "album"
+    }
+  ]
+}

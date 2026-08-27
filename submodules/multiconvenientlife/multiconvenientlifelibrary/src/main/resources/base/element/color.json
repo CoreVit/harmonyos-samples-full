@@ -1,0 +1,88 @@
+{
+  "color": [
+    {
+      "name": "sixty_white",
+      "value": "#99ffffff"
+    },
+    {
+      "name": "sixty_black",
+      "value": "#99000000"
+    },
+    {
+      "name": "five_white",
+      "value": "#0d000000"
+    },
+    {
+      "name": "forty_black",
+      "value": "#66000000"
+    },
+    {
+      "name": "currency_symbol",
+      "value": "#ED6F21"
+    },
+    {
+      "name": "orange_background",
+      "value": "#1aed6f21"
+    },
+    {
+      "name": "food_background",
+      "value": "#1aed6f21"
+    },
+    {
+      "name": "city_park_font",
+      "value": "#EA763F"
+    },
+    {
+      "name": "swiper_img_background",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "swiper_choose_background",
+      "value": "#1a000000"
+    },
+    {
+      "name": "candy_pocket",
+      "value": "#EA3F4A"
+    },
+    {
+      "name": "quiet_years",
+      "value": "#EABB3F"
+    },
+    {
+      "name": "ten_white",
+      "value": "#1affffff"
+    },
+    {
+      "name": "twenty_black",
+      "value": "#33000000"
+    },
+    {
+      "name": "send_background",
+      "value": "#232426"
+    },
+    {
+      "name": "shadow_start_color",
+      "value": "#00000000"
+    },
+    {
+      "name": "shadow_end_color",
+      "value": "#80000000"
+    },
+    {
+      "name": "symbol_circle_bg_color_dark",
+      "value": "#0C000000"
+    },
+    {
+      "name": "symbol_circle_bg_color_light",
+      "value": "#19FFFFFF"
+    },
+    {
+      "name": "symbol_icon_dark",
+      "value": "#E5000000"
+    },
+    {
+      "name": "symbol_icon_light",
+      "value": "#FFFFFF"
+    }
+  ]
+}

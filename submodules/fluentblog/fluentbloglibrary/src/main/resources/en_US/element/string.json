@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "show_text",
+      "value": "Close to the sea, understand the sea, experience the voice of the sea, the sea naturally resonates with you, no need to force, no need to search, the sea, will always be with the sound of the tide and you are comfortable with its sea color."
+    },
+    {
+      "name": "show_netname",
+      "value": "small fish"
+    },
+    {
+      "name": "show_time",
+      "value": "19:12 Yesterday"
+    },
+    {
+      "name": "nav_bar_return_text",
+      "value": "Back"
+    }
+  ]
+}

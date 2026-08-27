@@ -1,0 +1,51 @@
+{
+  module: {
+    name: 'multishortvideopcsample',
+    type: 'feature',
+    description: '$string:module_desc',
+    mainElement: 'MultiShortVideoPcAbility',
+    deviceTypes: [
+      '2in1',
+    ],
+    deliveryWithInstall: false,
+    installationFree: false,
+    pages: '$profile:main_pages',
+    routerMap: '$profile:route_map',
+    abilities: [
+      {
+        name: 'MultiShortVideoPcAbility',
+        srcEntry: './ets/pcability/MultiShortVideoPcAbility.ets',
+        description: '$string:PcAbility_desc',
+        icon: '$media:layered_image',
+        label: '$string:PcAbility_label',
+        startWindowIcon: '$media:startIcon',
+        startWindowBackground: '$color:start_window_background',
+        exported: true,
+        skills: [
+          {
+            entities: [
+              'entity.system.home',
+            ],
+            actions: [
+              'ohos.want.action.home',
+            ],
+          },
+        ],
+      },
+    ],
+    extensionAbilities: [
+      {
+        name: 'MultiShortVideoPcBackupAbility',
+        srcEntry: './ets/pcbackupability/MultiShortVideoPcBackupAbility.ets',
+        type: 'backup',
+        exported: false,
+        metadata: [
+          {
+            name: 'ohos.extension.backup',
+            resource: '$profile:backup_config',
+          },
+        ],
+      },
+    ],
+  },
+}

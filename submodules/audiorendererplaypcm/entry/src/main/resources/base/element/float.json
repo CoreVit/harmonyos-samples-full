@@ -1,0 +1,84 @@
+{
+  "float": [
+    {
+      "name": "list_item_title_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "list_item_image_size",
+      "value": "16vp"
+    },
+    {
+      "name": "list_item_image_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "list_item_height",
+      "value": "60vp"
+    },
+    {
+      "name": "list_item_padding",
+      "value": "14vp"
+    },
+    {
+      "name": "singer_opacity",
+      "value": "0.38"
+    },
+    {
+      "name": "stroke_width",
+      "value": "0.5vp"
+    },
+    {
+      "name": "options_padding",
+      "value": "10vp"
+    },
+    {
+      "name": "music_info_margin_top",
+      "value": "24vp"
+    },
+    {
+      "name": "slider_height",
+      "value": "16vp"
+    },
+    {
+      "name": "slider_margin_top",
+      "value": "24vp"
+    },
+    {
+      "name": "control_padding",
+      "value": "36vp"
+    },
+    {
+      "name": "label_border",
+      "value": "4vp"
+    },
+    {
+      "name": "singer_margin_top",
+      "value": "2vp"
+    },
+    {
+      "name": "info_margin_bottom",
+      "value": "24vp"
+    },
+    {
+      "name": "control_lyric_margin",
+      "value": "35vp"
+    },
+    {
+      "name": "common_padding",
+      "value": "24vp"
+    },
+    {
+      "name": "music_component_bottom",
+      "value": "20vp"
+    },
+    {
+      "name": "title_font_play",
+      "value": "20vp"
+    },
+    {
+      "name": "shadow_radius",
+      "value": "12vp"
+    }
+  ]
+}

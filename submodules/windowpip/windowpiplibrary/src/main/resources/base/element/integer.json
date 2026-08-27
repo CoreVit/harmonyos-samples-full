@@ -1,0 +1,16 @@
+{
+  "integer": [
+    {
+      "name": "auto_pip_height",
+      "value": 56
+    },
+    {
+      "name": "auto_button_height",
+      "value": 20
+    },
+    {
+      "name": "auto_button_width",
+      "value": 36
+    }
+  ]
+}

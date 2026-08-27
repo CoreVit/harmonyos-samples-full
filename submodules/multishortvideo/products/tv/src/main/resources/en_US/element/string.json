@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "TvAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "TvAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "friend_title",
+      "value": "Friend"
+    },
+    {
+      "name": "add_title",
+      "value": "Add"
+    },
+    {
+      "name": "message_title",
+      "value": "Message"
+    },
+    {
+      "name": "follow_title",
+      "value": "Follow"
+    }
+  ]
+}

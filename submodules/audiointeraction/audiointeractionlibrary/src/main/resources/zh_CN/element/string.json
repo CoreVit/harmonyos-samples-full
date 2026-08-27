@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "play_list",
+      "value": "歌单(%d)"
+    },
+    {
+      "name": "sequential_playback",
+      "value": "顺序播放"
+    },
+    {
+      "name": "single_playback",
+      "value": "单曲播放"
+    },
+    {
+      "name": "random_playback",
+      "value": "随机播放"
+    },
+    {
+      "name": "lyrics",
+      "value": "词"
+    },
+    {
+      "name": "page_show",
+      "value": "页面"
+    },
+    {
+      "name": "reason_background",
+      "value": "允许应用在音乐播放器场景后台运行。"
+    }
+  ]
+}

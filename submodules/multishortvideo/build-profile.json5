@@ -1,0 +1,95 @@
+{
+  "app": {
+    "signingConfigs": [
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "targetSdkVersion": "6.1.0(23)",
+        "compatibleSdkVersion": "6.1.0(23)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "multishortvideodefaultsample",
+      "srcPath": "./products/default",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "multishortvideopcsample",
+      "srcPath": "./products/pc",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "multishortvideotvsample",
+      "srcPath": "./products/tv",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "multishortvideowearablesample",
+      "srcPath": "./products/wearable",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "multishortvideobase",
+      "srcPath": "./common/multishortvideobase"
+    },
+    {
+      "name": "multishortvideoadaptivevideo",
+      "srcPath": "./features/multishortvideoadaptivevideo"
+    },
+    {
+      "name": "multishortvideoindividual",
+      "srcPath": "./features/multishortvideoindividual"
+    },
+    {
+      "name": "multishortvideocomment",
+      "srcPath": "./features/multishortvideocomment"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "color": [
+    {
+      "name": "surface_tertiary",
+      "value": "#F7F7F7"
+    },
+    {
+      "name": "divider_color",
+      "value": "#F0F0F0"
+    },
+    {
+      "name": "tag_background",
+      "value": "#F2F2F2"
+    },
+    {
+      "name": "page_section_background",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "living_badge_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "living_badge_border",
+      "value": "#1A000000"
+    },
+    {
+      "name": "text_muted",
+      "value": "#66000000"
+    },
+    {
+      "name": "time_chip_background",
+      "value": "#33FFFFFF"
+    },
+    {
+      "name": "buy_outline_background",
+      "value": "#00FFFFFF"
+    }
+  ]
+}

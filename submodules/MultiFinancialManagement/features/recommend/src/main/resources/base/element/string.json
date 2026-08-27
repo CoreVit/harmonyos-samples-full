@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "pension_money",
+      "value": "600 yuan"
+    },
+    {
+      "name": "personal_pension",
+      "value": "Personal Pension"
+    },
+    {
+      "name": "max_monthly_receive",
+      "value": "Max monthly receive "
+    },
+    {
+      "name": "buy_now",
+      "value": "Buy Now"
+    },
+    {
+      "name": "wealth_selection",
+      "value": "Wealth Selection"
+    },
+    {
+      "name": "seven_day_annualized",
+      "value": "7D Ann."
+    },
+    {
+      "name": "medium_low_risk",
+      "value": "M-L Risk"
+    },
+    {
+      "name": "weekly_open_product",
+      "value": "Weekly Open Product"
+    },
+    {
+      "name": "purchased_count",
+      "value": "67788 Purchased"
+    },
+    {
+      "name": "wealth_product_1",
+      "value": "Wealth Product No.1 · Wealth Connect"
+    },
+    {
+      "name": "wealth_product_2",
+      "value": "Wealth Product No.2 · Wealth Connect"
+    },
+    {
+      "name": "wealth_product_3",
+      "value": "Wealth Product No.3 · Wealth Connect"
+    },
+    {
+      "name": "wealth_product_4",
+      "value": "Wealth Product No.4 · Wealth Connect"
+    },
+    {
+      "name": "wealth_product_5",
+      "value": "Wealth Product No.5 · Wealth Connect"
+    },
+    {
+      "name": "wealth_product_6",
+      "value": "Wealth Product No.6 · Wealth Connect"
+    },
+    {
+      "name": "duration_3_months",
+      "value": "3M"
+    },
+    {
+      "name": "duration_4_months",
+      "value": "4M"
+    },
+    {
+      "name": "duration_6_months",
+      "value": "6M"
+    },
+    {
+      "name": "duration_9_months",
+      "value": "9M"
+    },
+    {
+      "name": "notice",
+      "value": "Prepare early for exams, worry-free for retirement. New users enjoy 3 exclusive gifts >>"
+    }
+  ]
+}

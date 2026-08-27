@@ -1,0 +1,16 @@
+{
+  "name": "multifinancialmanagementpcsample",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "financialbase": "file:../../commons/financialbase",
+    "account": "file:../../features/account",
+    "investment": "file:../../features/investment",
+    "wealth": "file:../../features/wealth",
+    "recommend": "file:../../features/recommend"
+  }
+}
+

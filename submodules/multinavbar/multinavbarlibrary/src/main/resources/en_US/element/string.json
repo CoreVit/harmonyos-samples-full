@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "project_name",
+      "value": "MultiNavBar"
+    },
+    {
+      "name": "tab_home",
+      "value": "Home"
+    },
+    {
+      "name": "tab_moments",
+      "value": "Moments"
+    },
+    {
+      "name": "tab_shopping",
+      "value": "Shopping"
+    },
+    {
+      "name": "tab_me",
+      "value": "Me"
+    },
+    {
+      "name": "selected",
+      "value": "Selected"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "community",
+      "value": "Community"
+    },
+    {
+      "name": "news",
+      "value": "News"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/multitabnavigationlibrary",
+  "version": "1.0.0",
+  "description": "This sample provides common tab navigation UI styles, including bottom navigation, top navigation, and side navigation.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/multi-tab-navigation/tree/br_release_hmos/",
+  "dependencies": {}
+}

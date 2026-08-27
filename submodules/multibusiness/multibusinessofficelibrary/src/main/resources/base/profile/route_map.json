@@ -1,0 +1,14 @@
+{
+  "routerMap": [
+    {
+      "name": "NotesPage",
+      "pageSourceFile": "src/main/ets/view/NotesPageView.ets",
+      "buildFunction": "NotesPageBuilder"
+    },
+    {
+      "name": "CalendarPage",
+      "pageSourceFile": "src/main/ets/view/CalendarPageView.ets",
+      "buildFunction": "CalendarPageBuilder"
+    }
+  ]
+}

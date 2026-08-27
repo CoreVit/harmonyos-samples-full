@@ -1,0 +1,12 @@
+{
+  "color": [
+    {
+      "name": "ohos_id_color_list_alert",
+      "value": "#ED6F21"
+    },
+    {
+      "name": "ohos_id_color_warning",
+      "value": "#E84026"
+    }
+  ]
+}

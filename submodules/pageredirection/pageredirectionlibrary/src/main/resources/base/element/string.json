@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "toast_msg",
+      "value": "This function is not developed yet. Please look forward to it."
+    },
+    {
+      "name": "btn_pay_now",
+      "value": "Pay now"
+    },
+    {
+      "name": "hw_wallet_payment",
+      "value": "Huawei Wallet Payment"
+    },
+    {
+      "name": "SELECT_NAME_LIST1",
+      "value": "Color"
+    },
+    {
+      "name": "SELECT_NAME_LIST2",
+      "value": "Storage capacity"
+    },
+    {
+      "name": "SELECT_NAME_LIST3",
+      "value": "Package type"
+    },
+    {
+      "name": "order_payment",
+      "value": "Order payment"
+    }
+  ]
+}

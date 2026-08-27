@@ -1,0 +1,115 @@
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "6.0.2(22)",
+        "targetSdkVersion": "6.1.0(23)",
+        "runtimeOS": "HarmonyOS"
+      },
+      {
+        "name": "phone",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "6.0.2(22)",
+        "targetSdkVersion": "6.1.0(23)",
+        "runtimeOS": "HarmonyOS"
+      },
+      {
+        "name": "2in1",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "6.0.2(22)",
+        "targetSdkVersion": "6.1.0(23)",
+        "runtimeOS": "HarmonyOS"
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ],
+    "capabilities": [
+      {
+        "bundleName": "com.example.multitravelnavigation",
+        "config": [
+          {
+            "name": "Map Kit",
+            "capability": "com.huawei.service.mapkit"
+          }
+        ]
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "default",
+      "srcPath": "./products/default",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default",
+            "phone"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "pc",
+      "srcPath": "./products/pc",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        },
+        {
+          "name": "2in1",
+          "applyToProducts": [
+            "2in1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "multitravelbase",
+      "srcPath": "./commons/multitravelbase",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default",
+            "phone",
+            "2in1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "mapcontainer",
+      "srcPath": "./features/mapcontainer"
+    },
+    {
+      "name": "poiexplore",
+      "srcPath": "./features/poiexplore"
+    },
+    {
+      "name": "maplive",
+      "srcPath": "./features/maplive",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default",
+            "phone"
+          ]
+        }
+      ]
+    }
+  ]
+}

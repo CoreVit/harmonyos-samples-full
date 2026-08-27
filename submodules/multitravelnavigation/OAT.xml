@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (c) 2026 Huawei Device Co., Ltd. All rights reserved.
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+
+    This is the configuration file template for OpenHarmony OSS Audit Tool, please copy it to your project root dir and modify it refer to OpenHarmony/tools_oat/README.
+-->
+
+<configuration>
+    <oatconfig>
+        <licensefile>LICENSE</licensefile>
+        <policylist>
+            <policy name="projectPolicy" desc="">
+                <policyitem type="license" name="Apache-2.0" path=".*" rule="may" group="defaultGroup" filefilter="defaultPolicyFilter" desc=""/>
+                <policyitem type="copyright" name="Huawei Device Co., Ltd." path=".*" rule="may" group="defaultGroup" filefilter="copyrightPolicyFilter" desc=""/>
+            </policy>
+        </policylist>
+        <filefilterlist>
+            <filefilter name="defaultFilter" desc="Files not to check">
+                <filteritem type="filename" name="*.iml|*.json|*.txt|*.md|*.json5|*.log" desc="Configuration, documentation, and log files"/>
+                <filteritem type="filepath" name="hvigor/.*" desc="Build configuration files"/>
+                <filteritem type="filepath" name=".hvigor/.*" desc="Hvigor build cache files"/>
+                <filteritem type="filepath" name=".trae/.*" desc="IDE configuration files"/>
+                <filteritem type="filepath" name=".*/build/.*" desc="Build output files"/>
+                <filteritem type="filepath" name=".*/oh_modules/.*" desc="Installed dependency files"/>
+                <filteritem type="filepath" name=".*/.preview/.*" desc="Preview generated files"/>
+                <filteritem type="filepath" name="output/.*" desc="Generated output files"/>
+            </filefilter>
+            <filefilter name="defaultPolicyFilter" desc="Filters for compatibility, license header policies">
+                <filteritem type="filename" name="*.iml|*.json|*.txt|*.md|*.json5|*.ts|*.ets" desc="Configuration and source files"/>
+            </filefilter>
+            <filefilter name="copyrightPolicyFilter" desc="Filters for copyright header policies">
+                <filteritem type="filename" name="*.iml|*.json|*.txt|*.md|*.json5" desc="Configuration and documentation files"/>
+            </filefilter>
+            <filefilter name="licenseFileNamePolicyFilter" desc="Filters for LICENSE file policies">
+                <filteritem type="filename" name="LICENSE" desc="License file"/>
+            </filefilter>
+            <filefilter name="readmeFileNamePolicyFilter" desc="Filters for README file policies">
+                <filteritem type="filename" name="README.md|README_EN.md" desc="README files"/>
+            </filefilter>
+            <filefilter name="readmeOpenSourcefileNamePolicyFilter" desc="Filters for README.OpenSource file policies">
+            </filefilter>
+            <filefilter name="binaryFileTypePolicyFilter" desc="Filters for binary file policies">
+                <filteritem type="filepath" name="AppScope/resources/base/media/app_icon.png" desc="Application icon resource, self-developed, source code is in this repository, licensed under Apache-2.0"/>
+                <filteritem type="filepath" name="commons/multitravelbase/src/main/resources/base/media/.*" desc="Application UI icon resources for map markers and navigation, self-developed, source code is in this repository, licensed under Apache-2.0"/>
+                <filteritem type="filepath" name="features/mapcontainer/src/main/resources/base/media/.*" desc="Map container feature UI icon resources for location and toolbar icons, self-developed, source code is in this repository, licensed under Apache-2.0"/>
+                <filteritem type="filepath" name="features/poiexplore/src/main/resources/base/media/.*" desc="POI explore feature UI icon resources for attractions, hotels, transportation icons, self-developed, source code is in this repository, licensed under Apache-2.0"/>
+                <filteritem type="filepath" name="features/maplive/src/main/resources/rawfile/.*" desc="Live navigation feature UI icon resources, self-developed, source code is in this repository, licensed under Apache-2.0"/>
+                <filteritem type="filepath" name="products/default/src/main/resources/base/media/.*" desc="Default product application icon resources for UI display, self-developed, source code is in this repository, licensed under Apache-2.0"/>
+                <filteritem type="filepath" name="products/pc/src/main/resources/base/media/.*" desc="PC product application icon resources, self-developed, source code is in this repository, licensed under Apache-2.0"/>
+                <filteritem type="filepath" name="screenshots/device/.*" desc="Application screenshot images for README documentation, self-developed, source code is in this repository, licensed under Apache-2.0"/>
+                <filteritem type="filepath" name="screenshots/device_en/.*" desc="Application screenshot images for README documentation, self-developed, source code is in this repository, licensed under Apache-2.0"/>
+            </filefilter>
+        </filefilterlist>
+    </oatconfig>
+</configuration>

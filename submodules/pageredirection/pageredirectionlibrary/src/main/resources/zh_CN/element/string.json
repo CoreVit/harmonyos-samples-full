@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "toast_msg",
+      "value": "该功能暂未开发，敬请期待"
+    },
+    {
+      "name": "btn_pay_now",
+      "value": "立即支付"
+    },
+    {
+      "name": "hw_wallet_payment",
+      "value": "华为钱包支付"
+    },
+    {
+      "name": "SELECT_NAME_LIST1",
+      "value": "机身颜色"
+    },
+    {
+      "name": "SELECT_NAME_LIST2",
+      "value": "储存容量"
+    },
+    {
+      "name": "SELECT_NAME_LIST3",
+      "value": "套餐类型"
+    },
+    {
+      "name": "order_payment",
+      "value": "订单支付"
+    }
+  ]
+}

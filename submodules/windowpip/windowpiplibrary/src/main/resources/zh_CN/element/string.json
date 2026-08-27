@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "auto",
+      "value": "自动启动画中画"
+    },
+    {
+      "name": "current_status",
+      "value": "当前状态:"
+    },
+    {
+      "name": "current_error",
+      "value": "错误原因:"
+    },
+    {
+      "name": "current_action",
+      "value": "按钮事件和状态:"
+    },
+    {
+      "name": "callback_message",
+      "value": "回调信息"
+    },
+    {
+      "name": "current_error_hint",
+      "value": "无"
+    },
+    {
+      "name": "notsupport",
+      "value": "PC暂时不支持画中画"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "targetSdkVersion": "6.1.0(23)",
+        "compatibleSdkVersion": "6.0.2(22)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "multimobilepaymentdefaultsample",
+      "srcPath": "./products/default",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "multimobilepaymentpcsample",
+      "srcPath": "./products/pc",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "multimobilepaymentwatchsample",
+      "srcPath": "./products/watch",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "multimobilepaymentrecommend",
+      "srcPath": "./features/multimobilepaymentrecommend"
+    },
+    {
+      "name": "multimobilepaymentpay",
+      "srcPath": "./features/multimobilepaymentpay"
+    },
+    {
+      "name": "multimobilepaymentbase",
+      "srcPath": "./common/multimobilepaymentbase"
+    },
+    {
+      "name": "multimobilepaymentscan",
+      "srcPath": "./features/multimobilepaymentscan"
+    }
+  ]
+}

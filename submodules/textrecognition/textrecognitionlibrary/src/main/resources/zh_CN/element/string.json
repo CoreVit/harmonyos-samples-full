@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "title",
+      "value": "文字识别"
+    },
+    {
+      "name": "btn_result_title",
+      "value": "识别结果"
+    },
+    {
+      "name": "btn_recognize_title",
+      "value": "文字识别"
+    },
+    {
+      "name": "btn_recognize_result",
+      "value": "查看结果"
+    }
+  ]
+}

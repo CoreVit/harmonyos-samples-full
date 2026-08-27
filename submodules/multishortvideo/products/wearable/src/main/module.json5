@@ -1,0 +1,50 @@
+{
+  module: {
+    name: 'multishortvideowearablesample',
+    type: 'feature',
+    description: '$string:module_desc',
+    mainElement: 'MultiShortVideoWearableAbility',
+    deviceTypes: [
+      'wearable',
+    ],
+    deliveryWithInstall: false,
+    installationFree: false,
+    pages: '$profile:main_pages',
+    abilities: [
+      {
+        name: 'MultiShortVideoWearableAbility',
+        srcEntry: './ets/wearableability/MultiShortVideoWearableAbility.ets',
+        description: '$string:WearableAbility_desc',
+        icon: '$media:layered_image',
+        label: '$string:WearableAbility_label',
+        startWindowIcon: '$media:startIcon',
+        startWindowBackground: '$color:start_window_background',
+        exported: true,
+        skills: [
+          {
+            entities: [
+              'entity.system.home',
+            ],
+            actions: [
+              'ohos.want.action.home',
+            ],
+          },
+        ],
+      },
+    ],
+    extensionAbilities: [
+      {
+        name: 'MultiShortVideoWearableBackupAbility',
+        srcEntry: './ets/wearablebackupability/MultiShortVideoWearableBackupAbility.ets',
+        type: 'backup',
+        exported: false,
+        metadata: [
+          {
+            name: 'ohos.extension.backup',
+            resource: '$profile:backup_config',
+          },
+        ],
+      },
+    ],
+  },
+}

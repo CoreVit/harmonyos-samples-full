@@ -1,0 +1,82 @@
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "targetSdkVersion": "6.1.0(23)",
+        "compatibleSdkVersion": "6.0.2(22)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "multishoppingsample",
+      "srcPath": "./products/default",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "multishoppingbase",
+      "srcPath": "./common/multishoppingbase",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "multishoppingpcsample",
+      "srcPath": "./products/pc",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "multishoppingproduct",
+      "srcPath": "./features/multishoppingproduct"
+    },
+    {
+      "name": "multishoppingrecommend",
+      "srcPath": "./features/multishoppingrecommend"
+    },
+    {
+      "name": "multishoppinglive",
+      "srcPath": "./features/multishoppinglive"
+    },
+    {
+      "name": "multishoppingpay",
+      "srcPath": "./features/multishoppingpay"
+    }
+  ]
+}

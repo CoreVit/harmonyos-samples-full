@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ScreenPrivacyProtection"
+    },
+    {
+      "name": "asset_overview",
+      "value": "Asset Overview"
+    },
+    {
+      "name": "yesterday_earnings",
+      "value": "Yesterday's earnings"
+    },
+    {
+      "name": "anti_peep_not_enable_title",
+      "value": "Privacy Protection Not Enabled"
+    },
+    {
+      "name": "anti_peep_not_enable",
+      "value": "Go to Settings > Privacy & Security > Privacy Protection to find this app and turn it on"
+    },
+    {
+      "name": "anti_peep_face_not_enable",
+      "value": "Please go to Settings and enable Face Recognition"
+    },
+    {
+      "name": "anti_peep_face_not_enable_title",
+      "value": "Face Recognition Not Enabled"
+    },
+    {
+      "name": "know_it",
+      "value": "Got It"
+    },
+    {
+      "name": "device_not_supported",
+      "value": "Your device does not support privacy protection capability"
+    },
+    {
+      "name": "my_assets",
+      "value": "My assets (￥)"
+    },
+    {
+      "name": "flexible_access",
+      "value": "Flexible access"
+    },
+    {
+      "name": "stable_financial_management",
+      "value": "Pension Insurance"
+    },
+    {
+      "name": "advanced_financial_management",
+      "value": "Equity Fund"
+    },
+    {
+      "name": "permission_hide",
+      "value": "Enable the system's anti-peep feature to protect the app's privacy."
+    },
+    {
+      "name": "ignore_info",
+      "value": "To prevent any disturbance, the anti-peep overlay will not be triggered again until this page becomes visible."
+    },
+    {
+      "name": "privacy_screen",
+      "value": "Show the privacy screen"
+    },
+    {
+      "name": "Confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "ignore_info_title",
+      "value": "Hide Anti-Peek Overlay"
+    }
+  ]
+}

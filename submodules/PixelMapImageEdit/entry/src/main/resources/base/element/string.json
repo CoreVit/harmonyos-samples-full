@@ -1,0 +1,140 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ImageEdit"
+    },
+    {
+      "name": "preview",
+      "value": "Preview"
+    },
+    {
+      "name": "picture_information",
+      "value": "Picture information"
+    },
+    {
+      "name": "none",
+      "value": "none"
+    },
+    {
+      "name": "grayscale",
+      "value": "grayscale"
+    },
+    {
+      "name": "brightness",
+      "value": "brightness"
+    },
+    {
+      "name": "invert",
+      "value": "invert"
+    },
+    {
+      "name": "blur",
+      "value": "blur"
+    },
+    {
+      "name": "customize",
+      "value": "customize"
+    },
+    {
+      "name": "horizontal",
+      "value": "horizontal"
+    },
+    {
+      "name": "vertical",
+      "value": "vertical"
+    },
+    {
+      "name": "crop",
+      "value": "crop"
+    },
+    {
+      "name": "filter",
+      "value": "filter"
+    },
+    {
+      "name": "translate",
+      "value": "translate"
+    },
+    {
+      "name": "zoom",
+      "value": "zoom"
+    },
+    {
+      "name": "adjust",
+      "value": "adjust"
+    },
+    {
+      "name": "light",
+      "value": "light"
+    },
+    {
+      "name": "transparency",
+      "value": "transparency"
+    },
+    {
+      "name": "saturation",
+      "value": "saturation"
+    },
+    {
+      "name": "save_image",
+      "value": "saveImage"
+    },
+    {
+      "name": "confirm_save",
+      "value": "are you sure to save image"
+    },
+    {
+      "name": "save",
+      "value": "save"
+    },
+    {
+      "name": "cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "confirm",
+      "value": "confirm"
+    },
+    {
+      "name": "save_crop",
+      "value": "Do you want to save the crop?"
+    },
+    {
+      "name": "save_adjust",
+      "value": "Do you want to save the adjust?"
+    },
+    {
+      "name": "save_filter",
+      "value": "Do you want to save the filter?"
+    },
+    {
+      "name": "edit",
+      "value": "Edit"
+    },
+    {
+      "name": "compare",
+      "value": "Compare"
+    },
+    {
+      "name": "folded_tip",
+      "value": "Current page is inconvenient, please switch to inner screen!"
+    },
+    {
+      "name": "got_it",
+      "value": "Got it"
+    },
+    {
+      "name": "free_ratio",
+      "value": "Freeform"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "LIVE_HEADER_STORE_NAME",
+      "value": "官方直播间"
+    },
+    {
+      "name": "LIVE_HEADER_VIEWERS",
+      "value": "73.86万人观看"
+    },
+    {
+      "name": "LIVE_COMMENT_PLACEHOLDER",
+      "value": "说点什么…"
+    },
+    {
+      "name": "LIVE_OFFICIAL_REVIEW",
+      "value": "官方主播"
+    },
+    {
+      "name": "LIVE_COMMENTS_LIST1",
+      "value": "远见卓识，智见万象。华为Mate60 Pro系列新品发布精彩回顾。"
+    },
+    {
+      "name": "LIVE_COMMENTS_LIST2",
+      "value": "点点关注停留直播间，超多专属福利、惊喜好物限时放送。"
+    },
+    {
+      "name": "LIVE_COMMENTS_LIST3",
+      "value": "欢迎每位走进直播间的朋友，停留互动不迷路，超值福利实时更新。"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_1",
+      "value": "HUAWEI Mate 60 Pro"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_2",
+      "value": "XXXXXXXXXXX"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_3",
+      "value": "XXXXXXXXXXX"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_4",
+      "value": "XXXXXXXXXXX"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_5",
+      "value": "XXXXXXXXXXX"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_6",
+      "value": "XXXXXXXXXXX"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_7",
+      "value": "XXXXXXXXXXX"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_8",
+      "value": "XXXXXXXXXXX"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_1",
+      "value": "￥ 6999"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_2",
+      "value": "XXXX"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_3",
+      "value": "XXXX"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_4",
+      "value": "XXXX"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_5",
+      "value": "XXXX"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_6",
+      "value": "XXXX"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_7",
+      "value": "XXXX"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_8",
+      "value": "XXXX"
+    }
+  ]
+}

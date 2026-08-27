@@ -1,0 +1,52 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "common_color_dark_blue",
+      "value": "#18183C"
+    },
+    {
+      "name": "stack_background_color",
+      "value": "#A4AE77"
+    },
+    {
+      "name": "title_font_color",
+      "value": "#182431"
+    },
+    {
+      "name": "friends_page_divider_color",
+      "value": "#0C000000"
+    },
+    {
+      "name": "transparent_color",
+      "value": "#00000000"
+    },
+    {
+      "name": "music_icon",
+      "value": "#c8102e"
+    },
+    {
+      "name": "ohos_id_color_emphasize",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "swiper_selected_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "swiper_unselected_color",
+      "value": "#cccccc"
+    },
+    {
+      "name": "color_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "badge_color",
+      "value": "#EEFD5217"
+    }
+  ]
+}

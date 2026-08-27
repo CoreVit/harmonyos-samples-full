@@ -1,0 +1,248 @@
+{
+  "string": [
+    {
+      "name": "GOOD_CATEGORIES1",
+      "value": "Smart Office"
+    },
+    {
+      "name": "GOOD_CATEGORIES2",
+      "value": "Smart Home"
+    },
+    {
+      "name": "GOOD_CATEGORIES3",
+      "value": "HUAWEI Phones"
+    },
+    {
+      "name": "GOOD_CATEGORIES4",
+      "value": "Audio & Video"
+    },
+    {
+      "name": "GOOD_CATEGORIES5",
+      "value": "Sports & Health"
+    },
+    {
+      "name": "GOOD_CATEGORIES6",
+      "value": "AITO"
+    },
+    {
+      "name": "GOOD_CATEGORIES7",
+      "value": "HUAWEI Selection"
+    },
+    {
+      "name": "GOOD_CATEGORIES8",
+      "value": "HarmonyOS Link"
+    },
+    {
+      "name": "GOOD_CATEGORIES9",
+      "value": "Business"
+    },
+    {
+      "name": "GOOD_CATEGORIES10",
+      "value": "Whole-home Smart"
+    },
+    {
+      "name": "NAV_ROUTER_LIST1",
+      "value": "Phones"
+    },
+    {
+      "name": "NAV_ROUTER_LIST2",
+      "value": "Wearables"
+    },
+    {
+      "name": "NAV_ROUTER_LIST3",
+      "value": "Tablets"
+    },
+    {
+      "name": "NAV_ROUTER_LIST4",
+      "value": "Laptops"
+    },
+    {
+      "name": "NAV_ROUTER_LIST5",
+      "value": "Desktop & display & print"
+    },
+    {
+      "name": "NAV_ROUTER_LIST6",
+      "value": "Audio"
+    },
+    {
+      "name": "NAV_ROUTER_LIST7",
+      "value": "Smart Screen"
+    },
+    {
+      "name": "NAV_ROUTER_LIST8",
+      "value": "Lock & router"
+    },
+    {
+      "name": "NAV_ROUTER_LIST9",
+      "value": "Travel & auto"
+    },
+    {
+      "name": "NAV_ROUTER_LIST10",
+      "value": "Accessories"
+    },
+    {
+      "name": "NAV_ROUTER_LIST11",
+      "value": "HUAWEI Services"
+    },
+    {
+      "name": "NAV_ROUTER_LIST12",
+      "value": "Digital content"
+    },
+    {
+      "name": "NAV_ROUTER_LIST13",
+      "value": "Business devices"
+    },
+    {
+      "name": "NAV_ROUTER_LIST14",
+      "value": "HUAWEI Selection"
+    },
+    {
+      "name": "NAV_ROUTER_LIST15",
+      "value": "Appliances"
+    },
+    {
+      "name": "SHOP_TITLE_LIST1",
+      "value": "New"
+    },
+    {
+      "name": "SHOP_TITLE_LIST2",
+      "value": "HUAWEI Mate series"
+    },
+    {
+      "name": "SHOP_TITLE_LIST3",
+      "value": "HUAWEI P series"
+    },
+    {
+      "name": "PRODUCT_DETAIL_BUTTON1",
+      "value": "Add to cart"
+    },
+    {
+      "name": "PRODUCT_DETAIL_BUTTON2",
+      "value": "Buy"
+    },
+    {
+      "name": "PRODUCT_SWIPER_LIVING",
+      "value": "Live"
+    },
+    {
+      "name": "PRODUCT_SWIPER_3D",
+      "value": "3D"
+    },
+    {
+      "name": "PRODUCT_SWIPER_COMPARE",
+      "value": "Compare"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES1",
+      "value": "Selected"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES2",
+      "value": "Phantom Purple · 512GB · In stock"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES3",
+      "value": "Bundle"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES4",
+      "value": ""
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES5",
+      "value": "Trade-in"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES6",
+      "value": "High trade-in bonus"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES7",
+      "value": "Free ship over ¥48"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES8",
+      "value": "Sold & shipped by HUAWEI"
+    },
+    {
+      "name": "USER_COMMENT_NAMES1",
+      "value": "Reviews (1500+)"
+    },
+    {
+      "name": "USER_COMMENT_NAMES2",
+      "value": "Hot 77"
+    },
+    {
+      "name": "USER_COMMENT_NAMES3",
+      "value": "With text 858"
+    },
+    {
+      "name": "USER_COMMENT_NAMES4",
+      "value": "With photos 217"
+    },
+    {
+      "name": "USER_COMMENT_NAMES5",
+      "value": "**********"
+    },
+    {
+      "name": "USER_COMMENT_NAMES6",
+      "value": "Great battery & camera; smooth UI—highly recommend."
+    },
+    {
+      "name": "USER_COMMENT_NAMES7",
+      "value": "All reviews"
+    },
+    {
+      "name": "USER_COMMENT_NAMES8",
+      "value": "Black Gold, 256GB, in stock"
+    },
+    {
+      "name": "PRODUCT_DISCOUNT_NAMES1",
+      "value": "[In stock] Mate X5 12GB+512GB Phantom Purple"
+    },
+    {
+      "name": "PRODUCT_DISCOUNT_NAMES2",
+      "value": "Super season: gift case ¥299 · student ¥100 · trade-in ¥500 · slim fold dual screens"
+    },
+    {
+      "name": "PRODUCT_DISCOUNT_NAMES3",
+      "value": "Limited free earbuds (Vitality)"
+    },
+    {
+      "name": "PRODUCT_DISCOUNT_MATE",
+      "value": "Mate X5:"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES1",
+      "value": "Ends in"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES2",
+      "value": "Up to 12× 0% APR"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES3",
+      "value": "Essentials"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES4",
+      "value": "¥800 off (limited)"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES5",
+      "value": "Trade-in bonus"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES6",
+      "value": "Off"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES7",
+      "value": "Longgang, Shenzhen, GD"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES8",
+      "value": "In stock"
+    }
+  ]
+}

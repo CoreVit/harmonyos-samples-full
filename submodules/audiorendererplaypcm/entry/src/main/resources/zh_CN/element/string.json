@@ -1,0 +1,144 @@
+{
+  "string": [
+    {
+      "name": "play_list",
+      "value": "当前播放列表 %d"
+    },
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AudioRender播放PCM音频"
+    },
+    {
+      "name": "sequential_playback",
+      "value": "顺序播放"
+    },
+    {
+      "name": "single_playback",
+      "value": "单曲播放"
+    },
+    {
+      "name": "random_playback",
+      "value": "随机播放"
+    },
+    {
+      "name": "reason_background",
+      "value": "允许应用在音乐播放器场景后台运行。"
+    },
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "volume_setting",
+      "value": "音量设置"
+    },
+    {
+      "name": "speed_setting",
+      "value": "倍速设置"
+    },
+    {
+      "name": "singer_one",
+      "value": "Delacey"
+    },
+    {
+      "name": "song_title_one",
+      "value": "Dream It Possible"
+    },
+    {
+      "name": "song_title_two",
+      "value": "不知道"
+    },
+    {
+      "name": "singer_two",
+      "value": "第二个歌手"
+    },
+    {
+      "name": "song_title_three",
+      "value": "第三首歌"
+    },
+    {
+      "name": "singer_three",
+      "value": "第三个歌手"
+    },
+    {
+      "name": "song_title_four",
+      "value": "第四首歌"
+    },
+    {
+      "name": "singer_four",
+      "value": "第四个歌手"
+    },
+    {
+      "name": "song_title_five",
+      "value": "第五首歌"
+    },
+    {
+      "name": "singer_five",
+      "value": "第五个歌手"
+    },
+    {
+      "name": "song_title_six",
+      "value": "第六首歌"
+    },
+    {
+      "name": "singer_six",
+      "value": "第六个歌手"
+    },
+    {
+      "name": "song_title_seven",
+      "value": "第七首歌"
+    },
+    {
+      "name": "singer_seven",
+      "value": "第七个歌手"
+    },
+    {
+      "name": "song_title_eight",
+      "value": "第八首歌"
+    },
+    {
+      "name": "singer_eight",
+      "value": "第八个歌手"
+    },
+    {
+      "name": "song_title_nine",
+      "value": "第九首歌"
+    },
+    {
+      "name": "singer_nine",
+      "value": "第九个歌手"
+    },
+    {
+      "name": "song_title_ten",
+      "value": "第十个歌手"
+    },
+    {
+      "name": "singer_ten",
+      "value": "第十首歌"
+    },
+    {
+      "name": "no_lyric",
+      "value": "此歌曲为纯音乐"
+    },
+    {
+      "name": "no_operate",
+      "value": "请回内屏体验此sample!"
+    },
+    {
+      "name": "Ultra_high_definition_audio",
+      "value": "超高清音频"
+    },
+    {
+      "name": "Spatial_audio",
+      "value": "空间音频"
+    }
+  ]
+}

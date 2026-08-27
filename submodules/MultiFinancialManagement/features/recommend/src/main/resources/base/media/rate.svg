@@ -1,0 +1,24 @@
+<svg viewBox="0 0 170 69" xmlns="http://www.w3.org/2000/svg"
+	 width="170.000000" height="69.000000" fill="none">
+    <defs>
+        <filter id="pixso_custom_mask_type_alpha">
+            <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 "/>
+        </filter>
+        <linearGradient id="paint_linear_1" x1="84.9999924" x2="84.9999924" y1="10.3948326" y2="68.9999771"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="rgb(255,194,184)" offset="0" stop-opacity="1"/>
+            <stop stop-color="rgb(255,244,234)" offset="1" stop-opacity="1"/>
+        </linearGradient>
+    </defs>
+    <mask id="mask_0" width="170.000000" height="69.000000" x="0.000000" y="0.000000" maskUnits="userSpaceOnUse">
+        <g filter="url(#pixso_custom_mask_type_alpha)">
+            <rect id="矩形 293" width="170.000000" height="69.000000" x="0.000000" y="0.000000"
+                  fill="rgb(255,254.745,254.745)"/>
+        </g>
+    </mask>
+    <g id="蒙版" mask="url(#mask_0)">
+        <path id="矢量 1"
+              d="M46.8245 45.0238C35.0131 45.0238 27.1039 36.5209 13.0777 45.0238C-0.944058 53.5239 0.560816 68.988 0 68.9978L170 69L170 3.15632C170 3.15632 154.814 -1.20166 143.424 14.9334C132.035 31.0684 123.599 15.3695 111.787 17.1139C99.9758 18.8583 93.6482 35.8659 82.2587 41.535C76.5977 44.3528 68.7767 38.7475 62.8543 38.9185C56.8611 39.0915 52.7653 45.0238 46.8245 45.0238Z"
+              fill="url(#paint_linear_1)" fill-rule="evenodd"/>
+    </g>
+</svg>

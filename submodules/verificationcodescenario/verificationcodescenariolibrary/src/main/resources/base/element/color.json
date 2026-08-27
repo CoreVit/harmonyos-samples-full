@@ -1,0 +1,28 @@
+{
+  "color": [
+    {
+      "name": "theme_color",
+      "value": "#0a59f7"
+    },
+    {
+      "name": "phone_color",
+      "value": "#6e6e6e"
+    },
+    {
+      "name": "theme_color_m",
+      "value": "#330a59f7"
+    },
+    {
+      "name": "select_color",
+      "value": "#B8D9F9"
+    },
+    {
+      "name": "word_color",
+      "value": "#191919"
+    },
+    {
+      "name": "shadow",
+      "value": "#1A000000"
+    }
+  ]
+}

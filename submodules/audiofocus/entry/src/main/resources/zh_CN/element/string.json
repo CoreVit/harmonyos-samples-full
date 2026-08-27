@@ -1,0 +1,204 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AudioFocusDemo"
+    },
+    {
+      "name": "audio_demo_title",
+      "value": "AudioFocusDemo"
+    },
+    {
+      "name": "video_scene_button",
+      "value": "基于AVPlayer开发视频"
+    },
+    {
+      "name": "short_video_scene_button",
+      "value": "基于AVPlayer开发短视频"
+    },
+    {
+      "name": "audio_scene_button",
+      "value": "基于AudioRender开发音频"
+    },
+    {
+      "name": "voip_chart_button",
+      "value": "基于AudioCapturer开发VoIP通话"
+    },
+    {
+      "name": "sound_pool_button",
+      "value": "基于SoundPool开发短音播放"
+    },
+    {
+      "name": "dialog_play_speed",
+      "value": "播放倍速"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "pip_start",
+      "value": "自动启动画中画"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "Chinese",
+      "value": "中文"
+    },
+    {
+      "name": "English",
+      "value": "英文"
+    },
+    {
+      "name": "language_switch",
+      "value": "语言切换"
+    },
+    {
+      "name": "embedded_short_video_scene",
+      "value": "基于AVPlayer开发嵌入式短视频"
+    },
+    {
+      "name": "title",
+      "value": "保持热爱"
+    },
+    {
+      "name": "info_detail",
+      "value": "亲近海，体会海的心声，海自然与你共鸣，无须刻意强求，海始终都会以潮声与你相亲，以海色伴你舒适。"
+    },
+    {
+      "name": "user_name",
+      "value": "摄影爱好者"
+    },
+    {
+      "name": "currentCaption",
+      "value": "指尖轻触触发季节音效"
+    },
+    {
+      "name": "comment1",
+      "value": "很好"
+    },
+    {
+      "name": "comment2",
+      "value": "精彩"
+    },
+    {
+      "name": "comment3",
+      "value": "再来一个"
+    },
+    {
+      "name": "previousFrame",
+      "value": "上一帧"
+    },
+    {
+      "name": "nextFrame",
+      "value": "下一帧"
+    },
+    {
+      "name": "placeholder",
+      "value": "点我发弹幕吧"
+    },
+    {
+      "name": "caption_title",
+      "value": "字幕设置"
+    },
+    {
+      "name": "video_scale_fit",
+      "value": "拉伸至与窗口等大"
+    },
+    {
+      "name": "video_scale_fit_crop",
+      "value": "缩放至最短边填满窗口"
+    },
+    {
+      "name": "dialog_play_scale",
+      "value": "窗口缩放模式"
+    },
+    {
+      "name": "caption_color",
+      "value": "颜色"
+    },
+    {
+      "name": "caption_size",
+      "value": "字号"
+    },
+    {
+      "name": "caption_family",
+      "value": "字体"
+    },
+    {
+      "name": "mute_playback",
+      "value": "开发静音播放场景"
+    },
+    {
+      "name": "audio_render_mute_playback",
+      "value": "AudioRender静音播放"
+    },
+    {
+      "name": "av_player_mute_playback",
+      "value": "AVPlayer静音播放"
+    },
+    {
+      "name": "multi_audio_stream_play_scene",
+      "value": "同应用内多音频流播放场景"
+    },
+    {
+      "name": "focus_mode_share",
+      "value": "焦点共享模式"
+    },
+    {
+      "name": "focus_mode_independent",
+      "value": "焦点独立模式"
+    },
+    {
+      "name": "call",
+      "value": "来电"
+    },
+    {
+      "name": "on_the_phone",
+      "value": "通话中"
+    },
+    {
+      "name": "dialing",
+      "value": "正在拨号"
+    },
+    {
+      "name": "the_call_is_over",
+      "value": "通话结束"
+    },
+    {
+      "name": "activate_the_incoming_call_scene",
+      "value": "激活来电场景"
+    },
+    {
+      "name": "play",
+      "value": "播放"
+    },
+    {
+      "name": "text_message",
+      "value": "短信"
+    },
+    {
+      "name": "remind",
+      "value": "提醒"
+    },
+    {
+      "name": "mic_permission",
+      "value": "通话场景下使用"
+    },
+    {
+      "name": "background_permission",
+      "value": "申请并执行后台任务场景下使用"
+    }
+  ]
+}

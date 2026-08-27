@@ -1,0 +1,13 @@
+{
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "author": "",
+  "name": "multivideodetail",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "version": "1.0.0",
+  "dynamicDependencies": {},
+  "dependencies": {
+    "multivideobase": "file:../../common/multivideobase"
+  }
+}

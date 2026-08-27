@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "payment_receipt_title",
+      "value": "Personal Receipt"
+    },
+    {
+      "name": "payment_receipt_subtitle",
+      "value": "Receive Money"
+    },
+    {
+      "name": "payment_set_amount",
+      "value": "Set Amount"
+    },
+    {
+      "name": "payment_save_image",
+      "value": "Save Image"
+    },
+    {
+      "name": "payment_record",
+      "value": "Receipt Records"
+    },
+    {
+      "name": "merchant_service",
+      "value": "Merchant Services"
+    },
+    {
+      "name": "voice_reminder",
+      "value": "Voice Reminder"
+    },
+    {
+      "name": "payment_name",
+      "value": "Alice"
+    }
+  ]
+}

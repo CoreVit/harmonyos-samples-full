@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "title",
+      "value": "Text recognition demo"
+    },
+    {
+      "name": "btn_result_title",
+      "value": "Recognition result"
+    },
+    {
+      "name": "btn_recognize_title",
+      "value": "Text Recognition"
+    },
+    {
+      "name": "btn_recognize_result",
+      "value": "View Results"
+    }
+  ]
+}

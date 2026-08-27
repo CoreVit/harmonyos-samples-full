@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/listexchangelibrary",
+  "version": "1.0.0",
+  "description": "This sample implements the functions of exchanging and deleting list items.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/list-exchange/tree/br_release_hmos/",
+  "dependencies": {}
+}

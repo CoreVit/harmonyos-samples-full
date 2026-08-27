@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "permission_reason",
+      "value": "用于扫码"
+    },
+    {
+      "name": "scan_payment",
+      "value": "收付款"
+    },
+    {
+      "name": "scan_album",
+      "value": "相册"
+    }
+  ]
+}

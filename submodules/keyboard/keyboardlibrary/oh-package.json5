@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/keyboardlibrary",
+  "version": "1.0.0",
+  "description": "This example shows the effect of a soft keyboard popping up on the page layout when the input box is at the top and bottom of the screen, respectively",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/keyboard/tree/br_release_hmos/",
+  "dependencies": {}
+}

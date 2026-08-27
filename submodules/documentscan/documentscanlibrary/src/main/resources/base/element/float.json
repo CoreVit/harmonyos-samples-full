@@ -1,0 +1,16 @@
+{
+  "float": [
+    {
+      "name": "button_width",
+      "value": "448vp"
+    },
+    {
+      "name": "avoid_bottom",
+      "value": "44vp"
+    },
+    {
+      "name": "result_item_height",
+      "value": "72vp"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "multishoppingsample",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "multishoppingbase": "file:../../common/multishoppingbase",
+    "multishoppingproduct": "file:../../features/multishoppingproduct",
+    "multishoppingrecommend": "file:../../features/multishoppingrecommend",
+    "multishoppingpay": "file:../../features/multishoppingpay",
+    "multishoppinglive": "file:../../features/multishoppinglive"
+  }
+}

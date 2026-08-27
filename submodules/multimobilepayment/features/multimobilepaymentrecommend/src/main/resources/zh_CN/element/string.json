@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "city",
+      "value": "城市"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "搜索"
+    },
+    {
+      "name": "wealth_selected",
+      "value": "财富精选"
+    },
+    {
+      "name": "device_not_support",
+      "value": "当前设备不支持扫一扫"
+    }
+  ]
+}

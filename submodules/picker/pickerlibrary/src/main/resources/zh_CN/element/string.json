@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "last_open",
+      "value": "选择并查看文件"
+    },
+    {
+      "name": "editable",
+      "value": "进入编辑状态"
+    },
+    {
+      "name": "saved",
+      "value": "已保存"
+    },
+    {
+      "name": "show_toast_message",
+      "value": "保存失败，文件操作无权限"
+    },
+    {
+      "name": "new_file",
+      "value": "新建文件"
+    },
+    {
+      "name": "picture",
+      "value": "选择并查看媒体文件"
+    },
+    {
+      "name": "edit_file",
+      "value": "选择并查看/编辑文件"
+    }
+  ]
+}

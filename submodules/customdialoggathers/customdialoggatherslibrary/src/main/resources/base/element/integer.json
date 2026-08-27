@@ -1,0 +1,48 @@
+{
+  "integer": [
+    {
+      "name": "nav_bar_width",
+      "value": 432
+    },
+    {
+      "name": "button_height",
+      "value": 56
+    },
+    {
+      "name": "bind_sheet_width",
+      "value": 480
+    },
+    {
+      "name": "button_height_small",
+      "value": 40
+    },
+    {
+      "name": "full_screen_icon_width",
+      "value": 248
+    },
+    {
+      "name": "full_screen_icon_height",
+      "value": 300
+    },
+    {
+      "name": "text_icon_height",
+      "value": 22
+    },
+    {
+      "name": "padding_max",
+      "value": 80
+    },
+    {
+      "name": "passenger_text_height",
+      "value": 24
+    },
+    {
+      "name": "icon_size",
+      "value": 32
+    },
+    {
+      "name": "blank_height",
+      "value": 60
+    }
+  ]
+}

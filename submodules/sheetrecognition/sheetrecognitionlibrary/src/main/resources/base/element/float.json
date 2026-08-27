@@ -1,0 +1,20 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "margin_size_SM",
+      "value": "16vp"
+    },
+    {
+      "name": "margin_size_MD",
+      "value": "24vp"
+    },
+    {
+      "name": "margin_size_LG",
+      "value": "32vp"
+    }
+  ]
+}

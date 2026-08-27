@@ -1,0 +1,10 @@
+{
+  license: 'ISC',
+  devDependencies: {},
+  name: 'locationservicesample',
+  description: 'example description',
+  version: '1.0.0',
+  dependencies: {
+    locationservicelibrary: 'file:../locationservicelibrary',
+  },
+}

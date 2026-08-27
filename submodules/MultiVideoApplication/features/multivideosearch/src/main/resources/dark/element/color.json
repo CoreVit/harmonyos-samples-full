@@ -1,0 +1,88 @@
+{
+  "color": [
+    {
+      "name": "srh_input_background",
+      "value": "#19FFFFFF"
+    },
+    {
+      "name": "srh_input_placeholder",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "srh_header_icon",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "srh_header_icon_background",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "srh_text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "srh_button_background",
+      "value": "#0DFFFFFF"
+    },
+    {
+      "name": "srh_text_title",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "srh_card_background",
+      "value": "#202224"
+    },
+    {
+      "name": "srh_text_secondary",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "srh_type_tabs_font_selected",
+      "value": "#ED6F21"
+    },
+    {
+      "name": "srh_button_primary_background",
+      "value": "#ED6F21"
+    },
+    {
+      "name": "srh_list_divider",
+      "value": "#0D000000"
+    },
+    {
+      "name": "srh_tv_search_placeholder",
+      "value": "#99ffffff"
+    },
+    {
+      "name": "srh_tv_search_border",
+      "value": "#26FFFFFF"
+    },
+    {
+      "name": "srh_tv_search_background",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "srh_tv_header_border",
+      "value": "#33FFFFFF"
+    },
+    {
+      "name": "srh_black",
+      "value": "#000000"
+    },
+    {
+      "name": "srh_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "srh_transparent",
+      "value": "#00000000"
+    },
+    {
+      "name": "srh_keyword_divider",
+      "value": "#0DFFFFFF"
+    },
+    {
+      "name": "srh_tv_keyboard_key_background",
+      "value": "#33F1F3F5"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "tab_bar_color_normal",
+      "value": "#00FFFFFF"
+    },
+    {
+      "name": "tab_bar_color_selected",
+      "value": "#1A0A59F7"
+    },
+    {
+      "name": "side_bar_backgroundColor",
+      "value": "#0D000000"
+    }
+  ]
+}

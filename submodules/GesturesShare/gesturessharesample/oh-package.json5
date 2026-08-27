@@ -1,0 +1,12 @@
+{
+  "name": "gesturessharesample",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "gesturessharecommon": "file:../gesturessharecommon",
+    "gesturesshareshare": "file:../feature/gesturesshareshare"
+  }
+}

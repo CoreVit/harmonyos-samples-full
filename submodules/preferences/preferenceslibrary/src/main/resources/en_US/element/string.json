@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "dialer",
+      "value": "Dialer"
+    },
+    {
+      "name": "shopping",
+      "value": "Shopping"
+    },
+    {
+      "name": "notes",
+      "value": "Notes"
+    },
+    {
+      "name": "settings",
+      "value": "Mail"
+    },
+    {
+      "name": "camera",
+      "value": "Camera"
+    },
+    {
+      "name": "album",
+      "value": "Album"
+    },
+    {
+      "name": "music",
+      "value": "Music"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "map",
+      "value": "Map"
+    },
+    {
+      "name": "wallet",
+      "value": "Wallet"
+    },
+    {
+      "name": "safe",
+      "value": "Safe"
+    },
+    {
+      "name": "browser",
+      "value": "Browser"
+    },
+    {
+      "name": "title",
+      "value": "Preference"
+    }
+  ]
+}

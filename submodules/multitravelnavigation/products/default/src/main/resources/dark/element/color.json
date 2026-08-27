@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#1F1F1F"
+    },
+    {
+      "name": "text_area_background",
+      "value": "#0dFFFFFF"
+    },
+    {
+      "name": "text_area_holder",
+      "value": "#99FFFFFF"
+    }
+  ]
+}

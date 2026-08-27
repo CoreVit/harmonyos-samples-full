@@ -1,0 +1,136 @@
+{
+  "string": [
+    {
+      "name": "tab_home",
+      "value": "Home"
+    },
+    {
+      "name": "tab_cards",
+      "value": "Cards"
+    },
+    {
+      "name": "tab_fortunes",
+      "value": "Fortunes"
+    },
+    {
+      "name": "tab_mine",
+      "value": "Mine"
+    },
+    {
+      "name": "tab_life",
+      "value": "Life"
+    },
+    {
+      "name": "search_value",
+      "value": "Monthly Member Benefits Redemption"
+    },
+    {
+      "name": "city_name",
+      "value": "Shenzhen"
+    },
+    {
+      "name": "account_inquiry",
+      "value": "Account"
+    },
+    {
+      "name": "transfer_remittance",
+      "value": "Transfer"
+    },
+    {
+      "name": "borrow_loan",
+      "value": "Loan"
+    },
+    {
+      "name": "asset_overview",
+      "value": "Asset"
+    },
+    {
+      "name": "account_overview_title",
+      "value": "Account Overview"
+    },
+    {
+      "name": "fund_investment",
+      "value": "Fund Inv."
+    },
+    {
+      "name": "wealth_management_products",
+      "value": "Wealth Mgmt"
+    },
+    {
+      "name": "view_bills",
+      "value": "Bills"
+    },
+    {
+      "name": "branch_information",
+      "value": "Branches"
+    },
+    {
+      "name": "wealth_no_1",
+      "value": "Wealth 1"
+    },
+    {
+      "name": "investment_calendar",
+      "value": "Inv. Calendar"
+    },
+    {
+      "name": "pension",
+      "value": "Pension"
+    },
+    {
+      "name": "life_payments",
+      "value": "Life Payments / Utility Bills"
+    },
+    {
+      "name": "deposit_products",
+      "value": "Deposit Products"
+    },
+    {
+      "name": "loans",
+      "value": "Loans"
+    },
+    {
+      "name": "make_repayment",
+      "value": "Make Repayment"
+    },
+    {
+      "name": "account_application",
+      "value": "Account Application"
+    },
+    {
+      "name": "announcements",
+      "value": "Notice"
+    },
+    {
+      "name": "income_expense_ledger",
+      "value": "Income & Expense Ledger"
+    },
+    {
+      "name": "community",
+      "value": "Community"
+    },
+    {
+      "name": "more",
+      "value": "More"
+    },
+    {
+      "name": "financial_detail_follow",
+      "value": "Follow"
+    },
+    {
+      "name": "financial_detail_buy",
+      "value": "Buy"
+    },
+    {
+      "name": "financial_detail_title",
+      "value": "Wealth Product"
+    },
+    {
+      "name": "financial_detail_product_name",
+      "value": "Wealth No.1 · Wealth Connect Monthly Redemption Open Product A"
+    },
+    {
+      "name": "financial_detail_sheet_confirm",
+      "value": "Confirm"
+    }
+  ]
+}

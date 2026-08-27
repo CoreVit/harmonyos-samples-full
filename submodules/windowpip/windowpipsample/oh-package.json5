@@ -1,0 +1,11 @@
+{
+  name: 'windowpipsample',
+  version: '1.0.0',
+  description: 'Please describe the basic information.',
+  main: '',
+  author: '',
+  license: '',
+  dependencies: {
+    '@ohos_samples/windowpiplibrary': 'file:../windowpiplibrary',
+  },
+}

@@ -1,0 +1,28 @@
+{
+  "float": [
+    {
+      "name": "index_button_width_lg",
+      "value": "448vp"
+    },
+    {
+      "name": "button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "index_tab",
+      "value": "56vp"
+    },
+    {
+      "name": "bind_sheet_height_sm",
+      "value": "748vp"
+    },
+    {
+      "name": "bind_sheet_height_non_sm",
+      "value": "560vp"
+    },
+    {
+      "name": "bind_sheet_width",
+      "value": "480vp"
+    }
+  ]
+}

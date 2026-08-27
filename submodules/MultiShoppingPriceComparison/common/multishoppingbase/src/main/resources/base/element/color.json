@@ -1,0 +1,28 @@
+{
+  "color": [
+    {
+      "name": "text_primary",
+      "value": "#000000"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#99000000"
+    },
+    {
+      "name": "overlay_low",
+      "value": "#0D000000"
+    },
+    {
+      "name": "surface_secondary",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "surface_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "live_stage_background",
+      "value": "#000000"
+    }
+  ]
+}

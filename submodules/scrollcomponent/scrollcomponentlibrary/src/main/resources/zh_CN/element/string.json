@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "title",
+      "value": "Scroll组件嵌套滑动"
+    },
+    {
+      "name": "Promotional",
+      "value": "促销活动"
+    },
+    {
+      "name": "Travel",
+      "value": "行程服务"
+    },
+    {
+      "name": "goods",
+      "value": "促销商品"
+    },
+    {
+      "name": "Itinerary",
+      "value": "行程安排"
+    }
+  ]
+}

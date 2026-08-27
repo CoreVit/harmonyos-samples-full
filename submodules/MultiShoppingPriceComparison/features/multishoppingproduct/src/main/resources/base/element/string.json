@@ -1,0 +1,248 @@
+{
+  "string": [
+    {
+      "name": "GOOD_CATEGORIES1",
+      "value": "智慧办公"
+    },
+    {
+      "name": "GOOD_CATEGORIES2",
+      "value": "智慧家居"
+    },
+    {
+      "name": "GOOD_CATEGORIES3",
+      "value": "华为手机"
+    },
+    {
+      "name": "GOOD_CATEGORIES4",
+      "value": "影音娱乐"
+    },
+    {
+      "name": "GOOD_CATEGORIES5",
+      "value": "运动健康"
+    },
+    {
+      "name": "GOOD_CATEGORIES6",
+      "value": "AITO汽车"
+    },
+    {
+      "name": "GOOD_CATEGORIES7",
+      "value": "华为智选"
+    },
+    {
+      "name": "GOOD_CATEGORIES8",
+      "value": "鸿蒙智联"
+    },
+    {
+      "name": "GOOD_CATEGORIES9",
+      "value": "企业商用"
+    },
+    {
+      "name": "GOOD_CATEGORIES10",
+      "value": "全屋智能"
+    },
+    {
+      "name": "NAV_ROUTER_LIST1",
+      "value": "手机"
+    },
+    {
+      "name": "NAV_ROUTER_LIST2",
+      "value": "穿戴"
+    },
+    {
+      "name": "NAV_ROUTER_LIST3",
+      "value": "平板"
+    },
+    {
+      "name": "NAV_ROUTER_LIST4",
+      "value": "笔记本"
+    },
+    {
+      "name": "NAV_ROUTER_LIST5",
+      "value": "台显打印"
+    },
+    {
+      "name": "NAV_ROUTER_LIST6",
+      "value": "耳机音响"
+    },
+    {
+      "name": "NAV_ROUTER_LIST7",
+      "value": "智慧屏"
+    },
+    {
+      "name": "NAV_ROUTER_LIST8",
+      "value": "门锁路由"
+    },
+    {
+      "name": "NAV_ROUTER_LIST9",
+      "value": "出行车品"
+    },
+    {
+      "name": "NAV_ROUTER_LIST10",
+      "value": "数码配件"
+    },
+    {
+      "name": "NAV_ROUTER_LIST11",
+      "value": "华为服务"
+    },
+    {
+      "name": "NAV_ROUTER_LIST12",
+      "value": "数字内容"
+    },
+    {
+      "name": "NAV_ROUTER_LIST13",
+      "value": "商用终端"
+    },
+    {
+      "name": "NAV_ROUTER_LIST14",
+      "value": "华为智选"
+    },
+    {
+      "name": "NAV_ROUTER_LIST15",
+      "value": "家用电器"
+    },
+    {
+      "name": "SHOP_TITLE_LIST1",
+      "value": "新品上市"
+    },
+    {
+      "name": "SHOP_TITLE_LIST2",
+      "value": "HUAWEI Mate系列"
+    },
+    {
+      "name": "SHOP_TITLE_LIST3",
+      "value": "HUAWEI P系列"
+    },
+    {
+      "name": "PRODUCT_DETAIL_BUTTON1",
+      "value": "加入购物车"
+    },
+    {
+      "name": "PRODUCT_DETAIL_BUTTON2",
+      "value": "购买"
+    },
+    {
+      "name": "PRODUCT_SWIPER_LIVING",
+      "value": "直播中"
+    },
+    {
+      "name": "PRODUCT_SWIPER_3D",
+      "value": "3D"
+    },
+    {
+      "name": "PRODUCT_SWIPER_COMPARE",
+      "value": "机型对比"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES1",
+      "value": "已选"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES2",
+      "value": "幻影紫·512GB·现货速发"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES3",
+      "value": "搭配"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES4",
+      "value": "推荐"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES5",
+      "value": "回收"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES6",
+      "value": "高价回收送多重新补贴"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES7",
+      "value": "满48元包邮"
+    },
+    {
+      "name": "PRODUCT_CONFIG_NAMES8",
+      "value": "由华为终端提供商品、发货开票及售后服务"
+    },
+    {
+      "name": "USER_COMMENT_NAMES1",
+      "value": "用户评价（1500+）"
+    },
+    {
+      "name": "USER_COMMENT_NAMES2",
+      "value": "最热门77"
+    },
+    {
+      "name": "USER_COMMENT_NAMES3",
+      "value": "有内容858"
+    },
+    {
+      "name": "USER_COMMENT_NAMES4",
+      "value": "有图217"
+    },
+    {
+      "name": "USER_COMMENT_NAMES5",
+      "value": "几**********"
+    },
+    {
+      "name": "USER_COMMENT_NAMES6",
+      "value": "华为手机续航很好，拍照清晰，运行畅快，功能也很强大，关键是颜值出众，非常值得推荐！"
+    },
+    {
+      "name": "USER_COMMENT_NAMES7",
+      "value": "全部评价"
+    },
+    {
+      "name": "USER_COMMENT_NAMES8",
+      "value": "曜金黑，256GB，现货速发"
+    },
+    {
+      "name": "PRODUCT_DISCOUNT_NAMES1",
+      "value": "【现货速发】HUAWEI Mate X5 12GB+512GB 幻影紫"
+    },
+    {
+      "name": "PRODUCT_DISCOUNT_NAMES2",
+      "value": "【华为超级新品季】1.限量买赠价值299元智能视窗保护套 2.学生认证优惠100元（下拉了了解详情）3.以旧换新至高补贴500元｜更多甄选手机点击了解>>超清临镜双屏｜超轻薄四曲折叠"
+    },
+    {
+      "name": "PRODUCT_DISCOUNT_NAMES3",
+      "value": "限量赠无限耳机活力版"
+    },
+    {
+      "name": "PRODUCT_DISCOUNT_MATE",
+      "value": "Mate X5："
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES1",
+      "value": "距离结束还剩"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES2",
+      "value": "最高可享12期0分期利息"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES3",
+      "value": "精品"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES4",
+      "value": "限时直降800元"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES5",
+      "value": "以旧换新补贴"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES6",
+      "value": "优惠"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES7",
+      "value": "广东 深圳市 龙岗区"
+    },
+    {
+      "name": "PRODUCT_PRICE_NAMES8",
+      "value": "现货"
+    }
+  ]
+}

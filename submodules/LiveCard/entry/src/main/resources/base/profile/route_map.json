@@ -1,0 +1,29 @@
+{
+  "routerMap": [
+    {
+      "name": "SleepReport",
+      "pageSourceFile": "src/main/ets/view/sleep/SleepReportPageView.ets",
+      "buildFunction": "SleepReportPageViewBuilder"
+    },
+    {
+      "name": "CloverPage",
+      "pageSourceFile": "src/main/ets/view/sleep/CloverPageView.ets",
+      "buildFunction": "CloverPageViewBuilder"
+    },
+    {
+      "name": "DeliveryPage",
+      "pageSourceFile": "src/main/ets/view/delivery/DeliveryPageView.ets",
+      "buildFunction": "DeliveryPageViewBuilder"
+    },
+    {
+      "name": "ExercisePage",
+      "pageSourceFile": "src/main/ets/view/exercise/ExercisePageView.ets",
+      "buildFunction": "ExercisePageViewBuilder"
+    },
+    {
+      "name": "MusicPage",
+      "pageSourceFile": "src/main/ets/view/music/MusicPageView.ets",
+      "buildFunction": "MusicPageViewBuilder"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "payment_receipt_title",
+      "value": "个人收款"
+    },
+    {
+      "name": "payment_receipt_subtitle",
+      "value": "个人收钱"
+    },
+    {
+      "name": "payment_set_amount",
+      "value": "设置金额"
+    },
+    {
+      "name": "payment_save_image",
+      "value": "保存图片"
+    },
+    {
+      "name": "payment_record",
+      "value": "收款记录"
+    },
+    {
+      "name": "merchant_service",
+      "value": "商家服务"
+    },
+    {
+      "name": "voice_reminder",
+      "value": "收钱语音提醒"
+    },
+    {
+      "name": "payment_name",
+      "value": "Alice"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "live_module_desc",
+      "value": "实况窗模块"
+    },
+    {
+      "name": "live_view_title",
+      "value": "178米后左转"
+    },
+    {
+      "name": "live_view_content",
+      "value": "去往 "
+    },
+    {
+      "name": "live_view_destination",
+      "value": "南京东路"
+    },
+    {
+      "name": "capsule_title",
+      "value": "行驶中"
+    },
+    {
+      "name": "capsule_content",
+      "value": "178米后左转"
+    }
+  ]
+}

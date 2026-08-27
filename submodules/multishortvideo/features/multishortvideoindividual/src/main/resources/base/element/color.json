@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "channel_color",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "tags_bg_xs",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "tags_bg_md",
+      "value": "#37393A"
+    },
+    {
+      "name": "bg_dark",
+      "value": "#202224"
+    },
+    {
+      "name": "all_icon_bg_10",
+      "value": "#19FFFFFF"
+    }
+  ]
+}

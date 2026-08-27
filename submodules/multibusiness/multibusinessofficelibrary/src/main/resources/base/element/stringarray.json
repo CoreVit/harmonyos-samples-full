@@ -1,0 +1,249 @@
+{
+  "strarray": [
+    {
+      "name": "trip_schedule_view",
+      "value": [
+        {
+          "value": "Today"
+        },
+        {
+          "value": "Lunar"
+        },
+        {
+          "value": "August"
+        },
+        {
+          "value": "September"
+        }
+      ]
+    },
+    {
+      "name": "calendar_side_bar_text",
+      "value": [
+        {
+          "value": "Calendar"
+        },
+        {
+          "value": "Calendar Account"
+        },
+        {
+          "value": "Add"
+        },
+        {
+          "value": "Huawei Account"
+        },
+        {
+          "value": "My Calendar"
+        },
+        {
+          "value": "Chinese Mainland Holidays"
+        },
+        {
+          "value": "Welink"
+        },
+        {
+          "value": "0012345678..."
+        },
+        {
+          "value": "Subscription"
+        },
+        {
+          "value": "Adm."
+        },
+        {
+          "value": "Huangli (Chinese almanac)"
+        },
+        {
+          "value": "Constellation"
+        },
+        {
+          "value": "Message Center"
+        },
+        {
+          "value": "Unread"
+        },
+        {
+          "value": "Read Already"
+        }
+      ]
+    },
+    {
+      "name": "entrances",
+      "value": [
+        {
+          "value": "Multi business office entrance"
+        },
+        {
+          "value": "One click access, efficient office work."
+        }
+      ]
+    },
+    {
+      "name": "title_list",
+      "value": [
+        {
+          "value": "Memorandum"
+        },
+        {
+          "value": "Calendar"
+        }
+      ]
+    },
+    {
+      "name": "notes_list",
+      "value": [
+        {
+          "value": "All Memos"
+        },
+        {
+          "value": "18 Memos"
+        },
+        {
+          "value": "Search..."
+        },
+        {
+          "value": "Today"
+        },
+        {
+          "value": "Last month"
+        }
+      ]
+    },
+    {
+      "name": "notes_content",
+      "value": [
+        {
+          "value": "Default"
+        },
+        {
+          "value": "This morning at 11:56"
+        },
+        {
+          "value": "Familiar images will automatically evoke a sense of calm and nostalgia. Familiar images will automatically evoke a sense of calm and nostalgia. Familiar images will automatically evoke a sense of calm and nostalgia."
+        },
+        {
+          "value": "Share"
+        },
+        {
+          "value": "Collection"
+        },
+        {
+          "value": "Delete"
+        },
+        {
+          "value": "More"
+        }
+      ]
+    },
+    {
+      "name": "september",
+      "value": [
+        {
+          "value": "Nian Jiu"
+        },
+        {
+          "value": "San Shi"
+        },
+        {
+          "value": "August"
+        },
+        {
+          "value": "Chu Er"
+        },
+        {
+          "value": "Chu San"
+        },
+        {
+          "value": "Chu Si"
+        },
+        {
+          "value": "White Dew"
+        },
+        {
+          "value": "Chu liu"
+        },
+        {
+          "value": "Chu Qi"
+        },
+        {
+          "value": "Chu Ba"
+        },
+        {
+          "value": "Chu Jiu"
+        },
+        {
+          "value": "Chu Shi"
+        },
+        {
+          "value": "Shi Yi"
+        },
+        {
+          "value": "Shi Er"
+        },
+        {
+          "value": "Shi San"
+        },
+        {
+          "value": "Shi Si"
+        },
+        {
+          "value": "Mid-Autumn"
+        },
+        {
+          "value": "Mukden Incident"
+        },
+        {
+          "value": "Shi Qi"
+        },
+        {
+          "value": "Shi Ba"
+        },
+        {
+          "value": "Shi Jiu"
+        },
+        {
+          "value": "Fall Equinox"
+        },
+        {
+          "value": "Nian Yi"
+        },
+        {
+          "value": "Nian Er"
+        },
+        {
+          "value": "Nian San"
+        },
+        {
+          "value": "Nian Si"
+        },
+        {
+          "value": "Nian Wu"
+        },
+        {
+          "value": "Nian liu"
+        },
+        {
+          "value": "Nian Qi"
+        },
+        {
+          "value": "Nian Ba"
+        },
+        {
+          "value": "Nian Jiu"
+        },
+        {
+          "value": "San shi"
+        },
+        {
+          "value": "September"
+        },
+        {
+          "value": "Chu Er"
+        },
+        {
+          "value": "Chu San"
+        }
+      ]
+    }
+  ]
+}

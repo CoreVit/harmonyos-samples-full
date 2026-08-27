@@ -1,0 +1,10 @@
+{
+  license: 'ISC',
+  devDependencies: {},
+  name: 'preferencessample',
+  description: 'example description',
+  version: '1.0.0',
+  dependencies: {
+    '@ohos_samples/preferenceslibrary': 'file:../preferenceslibrary',
+  },
+}

@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "index_title",
+      "value": "Soft keyboard pops up"
+    },
+    {
+      "name": "Search_text",
+      "value": "search contact"
+    },
+    {
+      "name": "prompt_text",
+      "value": "Search function is not supported yet"
+    },
+    {
+      "name": "prompt_text2",
+      "value": "Send function is not supported yet"
+    },
+    {
+      "name": "chat_list",
+      "value": "ChatListPage"
+    },
+    {
+      "name": "mail_page",
+      "value": "MailPage"
+    },
+    {
+      "name": "comment_page",
+      "value": "CommentDialog"
+    },
+    {
+      "name": "new_email",
+      "value": "New Email"
+    },
+    {
+      "name": "from",
+      "value": "From"
+    },
+    {
+      "name": "to",
+      "value": "To"
+    },
+    {
+      "name": "subject",
+      "value": "Subject"
+    },
+    {
+      "name": "comment_time",
+      "value": "just now"
+    },
+    {
+      "name": "commenter_name",
+      "value": "Suger"
+    },
+    {
+      "name": "email_address",
+      "value": "Email Address"
+    },
+    {
+      "name": "entry_content",
+      "value": "Entry content"
+    },
+    {
+      "name": "chat_message1",
+      "value": "Hi, How can I help you？"
+    },
+    {
+      "name": "chat_message2",
+      "value": "Hey"
+    },
+    {
+      "name": "chat_message3",
+      "value": "I am very interested in your products, and they seem quite impressive."
+    },
+    {
+      "name": "chat_message4",
+      "value": "That is great!"
+    },
+    {
+      "name": "chat_message5",
+      "value": "Can we connect on call now?"
+    },
+    {
+      "name": "chat_message6",
+      "value": "Yeah sure"
+    },
+    {
+      "name": "comment1",
+      "value": "Comment1"
+    },
+    {
+      "name": "comment2",
+      "value": "Comment2"
+    },
+    {
+      "name": "comment3",
+      "value": "Comment3"
+    },
+    {
+      "name": "comment4",
+      "value": "Comment4"
+    },
+    {
+      "name": "comment5",
+      "value": "Comment5"
+    },
+    {
+      "name": "comment6",
+      "value": "Comment6"
+    },
+    {
+      "name": "comment7",
+      "value": "Comment7"
+    },
+    {
+      "name": "comment8",
+      "value": "Comment8"
+    },
+    {
+      "name": "comment_input_placeholder",
+      "value": "Please input content"
+    }
+  ]
+}

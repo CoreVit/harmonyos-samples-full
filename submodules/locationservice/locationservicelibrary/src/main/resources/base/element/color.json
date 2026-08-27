@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "green",
+      "value": "#00C19C"
+    },
+    {
+      "name": "white_e6",
+      "value": "#E6FFFFFF"
+    },
+    {
+      "name": "black_e6",
+      "value": "#E6000000"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "Location Service"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Location Service"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Location Service"
+    }
+  ]
+}

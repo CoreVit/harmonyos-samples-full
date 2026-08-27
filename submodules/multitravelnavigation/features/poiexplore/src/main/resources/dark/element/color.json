@@ -1,0 +1,104 @@
+{
+  "color": [
+    {
+      "name": "black",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "black_90",
+      "value": "#E6FFFFFF"
+    },
+    {
+      "name": "font_add_color",
+      "value": "#A0A0A0"
+    },
+    {
+      "name": "blur",
+      "value": "#14FFFFFF"
+    },
+    {
+      "name": "font_recommend_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "have_more_color",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "button_left",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "button_right",
+      "value": "#1880FC"
+    },
+    {
+      "name": "start_navigate",
+      "value": "#E6FFFFFF"
+    },
+    {
+      "name": "back_button",
+      "value": "#2A2A2A"
+    },
+    {
+      "name": "input_area",
+      "value": "#2A2A2A"
+    },
+    {
+      "name": "tab_font_selected",
+      "value": "#E6FFFFFF"
+    },
+    {
+      "name": "tab_font_unselected",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "tab_font_selected_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "tab_selected",
+      "value": "#45598E"
+    },
+    {
+      "name": "public_text_color",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "button_5",
+      "value": "#0CFFFFFF"
+    },
+    {
+      "name": "font_color_heavy_selected",
+      "value": "#E66694F1"
+    },
+    {
+      "name": "font_color_light_selected",
+      "value": "#E699B8FF"
+    },
+    {
+      "name": "route_radius",
+      "value": "#14FFFFFF"
+    },
+    {
+      "name": "route_font_color_unselected",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "site_tag_background",
+      "value": "#33E02020"
+    },
+    {
+      "name": "tab_gradient_mask",
+      "value": "#661F1F1F"
+    },
+    {
+      "name": "route_tab_fade_start",
+      "value": "#001F1F1F"
+    },
+    {
+      "name": "route_tab_fade_end",
+      "value": "#FF1F1F1F"
+    }
+  ]
+}

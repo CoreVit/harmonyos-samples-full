@@ -1,0 +1,44 @@
+{
+  "color": [
+    {
+      "name": "mapcontainer_toolbar_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "mapcontainer_panel_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "mapcontainer_panel_gradient_background",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "mapcontainer_panel_site_gradient_start",
+      "value": "#80FFE3B4"
+    },
+    {
+      "name": "mapcontainer_panel_site_gradient_mid",
+      "value": "#3DFFFDF9"
+    },
+    {
+      "name": "mapcontainer_panel_site_gradient_end",
+      "value": "#80FFFFFF"
+    },
+    {
+      "name": "mapcontainer_dim_mask",
+      "value": "#000000"
+    },
+    {
+      "name": "back_background",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "mapcontainer_permission_tip_background",
+      "value": "#F7FFFFFF"
+    },
+    {
+      "name": "mapcontainer_permission_tip_shadow",
+      "value": "#24000000"
+    }
+  ]
+}

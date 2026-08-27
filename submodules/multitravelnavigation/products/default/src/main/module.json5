@@ -1,0 +1,66 @@
+{
+  module: {
+    name: 'default',
+    type: 'feature',
+    description: '$string:module_desc',
+    mainElement: 'MultitravelnavigationAbility',
+    deviceTypes: [
+      'phone',
+      'tablet',
+    ],
+    requestPermissions: [
+      {
+        name: 'ohos.permission.APPROXIMATELY_LOCATION',
+        reason: '$string:shared_desc',
+        usedScene: {
+          abilities: [
+            'MultitravelnavigationAbility',
+          ],
+          when: 'inuse',
+        },
+      },
+      {
+        name: 'ohos.permission.LOCATION',
+        reason: '$string:shared_desc',
+        usedScene: {
+          abilities: [
+            'MultitravelnavigationAbility',
+          ],
+          when: 'inuse',
+        },
+      },
+    ],
+    deliveryWithInstall: false,
+    installationFree: true,
+    pages: '$profile:main_pages',
+    abilities: [
+      {
+        name: 'MultitravelnavigationAbility',
+        srcEntry: './ets/defaultability/DefaultAbility.ets',
+        description: '$string:DefaultAbility_desc',
+        label: '$string:DefaultAbility_label',
+        startWindowIcon: '$media:app_icon',
+        startWindowBackground: '$color:start_window_background',
+        exported: true,
+        skills: [
+          {
+            entities: [
+              'entity.system.home',
+            ],
+            actions: [
+              'action.system.home',
+            ],
+          },
+        ],
+        minWindowHeight: 480,
+        minWindowWidth: 360,
+      },
+    ],
+    metadata: [
+      {
+        name: 'client_id',
+        value: '1912443980927245888',
+      },
+    ],
+  },
+}

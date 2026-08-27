@@ -1,0 +1,15 @@
+{
+  "license": "",
+  "devDependencies": {},
+  "author": "",
+  "name": "default",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "version": "1.0.0",
+  "dynamicDependencies": {},
+  "dependencies": {
+    "@stock/base": "file:../../commons/base",
+    "@stock/stockmarket": "file:../../features/stockmarket",
+    "@stock/stockdetail": "file:../../features/stockdetail"
+  }
+}

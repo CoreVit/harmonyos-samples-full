@@ -1,0 +1,35 @@
+/node_modules
+/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer
+**/oh-package-lock.json5
+**/BuildProfile.ets
+
+# Flattened full-snapshot repository: ignore generated files at every depth.
+**/node_modules/
+**/oh_modules/
+**/.hvigor/
+**/.idea/
+**/.cxx/
+**/.appanalyzer/
+**/local.properties
+verification/
+
+# Local signing and credential material must never be published.
+**/*.p12
+**/*.p7b
+**/*.pem
+**/*.key
+**/*.jks
+**/*.keystore
+**/*.cer
+**/.env
+**/.env.*

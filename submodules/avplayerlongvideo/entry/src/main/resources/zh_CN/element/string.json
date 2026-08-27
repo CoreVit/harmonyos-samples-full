@@ -1,0 +1,136 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AVPlayer长视频"
+    },
+    {
+      "name": "reason_background",
+      "value": "session公共控制类和后台任务相关工具类需要设置后台权限"
+    },
+    {
+      "name": "videoList",
+      "value": "视频列表"
+    },
+    {
+      "name": "video_description0",
+      "value": "#高山和日出"
+    },
+    {
+      "name": "video_description1",
+      "value": "#登山者"
+    },
+    {
+      "name": "video_description3",
+      "value": "#雨滴落下"
+    },
+    {
+      "name": "placeholder",
+      "value": "点我发弹幕吧"
+    },
+    {
+      "name": "comment1",
+      "value": "很好"
+    },
+    {
+      "name": "comment2",
+      "value": "精彩"
+    },
+    {
+      "name": "comment3",
+      "value": "再来一个"
+    },
+    {
+      "name": "HarmonyOS_Condensed",
+      "value": "缩写"
+    },
+    {
+      "name": "caption_title",
+      "value": "字幕设置"
+    },
+    {
+      "name": "caption_family",
+      "value": "字体"
+    },
+    {
+      "name": "caption_size",
+      "value": "字号"
+    },
+    {
+      "name": "caption_color",
+      "value": "颜色"
+    },
+    {
+      "name": "previousFrame",
+      "value": "上一帧"
+    },
+    {
+      "name": "nextFrame",
+      "value": "下一帧"
+    },
+    {
+      "name": "pip_start",
+      "value": "是否开启画中画"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "video_speed_1_0X",
+      "value": "1.0X"
+    },
+    {
+      "name": "video_speed_1_25X",
+      "value": "1.25X"
+    },
+    {
+      "name": "video_speed_1_75X",
+      "value": "1.75X"
+    },
+    {
+      "name": "video_speed_2_0X",
+      "value": "2.0X"
+    },
+    {
+      "name": "dialog_play_speed",
+      "value": "倍速播放"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "Chinese",
+      "value": "中文"
+    },
+    {
+      "name": "English",
+      "value": "英文"
+    },
+    {
+      "name": "language_switch",
+      "value": "语言切换"
+    },
+    {
+      "name": "local_video",
+      "value": "本地视频："
+    },
+    {
+      "name": "online_video",
+      "value": "网络视频："
+    },
+    {
+      "name": "title_name",
+      "value": "AVPlayer播放长视频"
+    }
+  ]
+}

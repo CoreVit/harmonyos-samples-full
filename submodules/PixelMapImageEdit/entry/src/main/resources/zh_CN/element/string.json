@@ -1,0 +1,140 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "描述"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "图片编辑"
+    },
+    {
+      "name": "preview",
+      "value": "预览"
+    },
+    {
+      "name": "picture_information",
+      "value": "图片信息"
+    },
+    {
+      "name": "none",
+      "value": "无"
+    },
+    {
+      "name": "free_ratio",
+      "value": "自由比例"
+    },
+    {
+      "name": "grayscale",
+      "value": "黑白"
+    },
+    {
+      "name": "brightness",
+      "value": "高亮"
+    },
+    {
+      "name": "invert",
+      "value": "反转"
+    },
+    {
+      "name": "blur",
+      "value": "模糊"
+    },
+    {
+      "name": "customize",
+      "value": "自定义"
+    },
+    {
+      "name": "horizontal",
+      "value": "横向"
+    },
+    {
+      "name": "vertical",
+      "value": "纵向"
+    },
+    {
+      "name": "crop",
+      "value": "裁剪"
+    },
+    {
+      "name": "filter",
+      "value": "滤镜"
+    },
+    {
+      "name": "translate",
+      "value": "平移"
+    },
+    {
+      "name": "zoom",
+      "value": "缩放"
+    },
+    {
+      "name": "adjust",
+      "value": "调节"
+    },
+    {
+      "name": "light",
+      "value": "亮度"
+    },
+    {
+      "name": "transparency",
+      "value": "透明度"
+    },
+    {
+      "name": "saturation",
+      "value": "饱和度"
+    },
+    {
+      "name": "save_image",
+      "value": "保存图片"
+    },
+    {
+      "name": "confirm_save",
+      "value": "确定要保存图片吗"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "confirm",
+      "value": "确认"
+    },
+    {
+      "name": "save_crop",
+      "value": "是否保存裁剪？"
+    },
+    {
+      "name": "save_adjust",
+      "value": "是否保存调节？"
+    },
+    {
+      "name": "save_filter",
+      "value": "是否保存滤镜？"
+    },
+    {
+      "name": "edit",
+      "value": "编辑"
+    },
+    {
+      "name": "compare",
+      "value": "对比"
+    },
+    {
+      "name": "folded_tip",
+      "value": "当前页面在外屏操作不便，推荐回内屏使用！"
+    },
+    {
+      "name": "got_it",
+      "value": "知道了"
+    }
+  ]
+}

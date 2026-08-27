@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "ActionSheet_Width",
+      "value": "100%"
+    },
+    {
+      "name": "ActionSheetContainer_Padding",
+      "value": "24"
+    },
+    {
+      "name": "ActionSheetItem_Width",
+      "value": "210"
+    },
+    {
+      "name": "ActionSheetItem_Image_Width",
+      "value": "30"
+    }
+  ]
+}

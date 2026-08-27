@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "financial_detail_timeline_tip",
+      "value": "Buy before 15:30 on May 17. Positions will be available on May 20 and returns will start accruing. This product has a minimum holding period; holdings can be redeemed daily."
+    },
+    {
+      "name": "financial_detail_timeline_today",
+      "value": "Today"
+    },
+    {
+      "name": "financial_detail_timeline_buy_in",
+      "value": "Buy in"
+    },
+    {
+      "name": "financial_detail_timeline_confirm_shares",
+      "value": "Confirm shares"
+    },
+    {
+      "name": "financial_detail_timeline_hold_and_redeem",
+      "value": "Hold; redeem daily"
+    },
+    {
+      "name": "financial_detail_timeline_continue_investing",
+      "value": "Continue investing"
+    },
+    {
+      "name": "financial_detail_buy_amount_title",
+      "value": "Buy Amount"
+    },
+    {
+      "name": "financial_detail_trading_rules",
+      "value": "Trading Rules"
+    },
+    {
+      "name": "financial_detail_buy_amount_placeholder",
+      "value": "Minimum 1.00, no upper limit"
+    },
+    {
+      "name": "financial_detail_buy_amount_desc",
+      "value": "0 fee for buying, estimated share confirmation on May 20 (Fri) based on May 19 (Thu) net value (see trading rules for details)"
+    },
+    {
+      "name": "financial_detail_payment_method",
+      "value": "Payment Method"
+    },
+    {
+      "name": "financial_detail_payment_bank_card",
+      "value": "XX Bank Debit Card (8**8)"
+    },
+    {
+      "name": "financial_detail_product_summary",
+      "value": "Product Summary"
+    },
+    {
+      "name": "financial_detail_product_summary_tip",
+      "value": "To protect your investment rights, please read the complete prospectus and other documents before making investment decisions."
+    },
+    {
+      "name": "financial_detail_summary_short_name",
+      "value": "Fund Short Name: Wealth No.1 Wealth Connect Monthly Redemption Open Product A"
+    },
+    {
+      "name": "financial_detail_summary_code",
+      "value": "Fund Code: 02***3"
+    },
+    {
+      "name": "financial_detail_summary_manager",
+      "value": "Fund Manager: XX Fund Management Co., Ltd."
+    },
+    {
+      "name": "financial_detail_summary_custodian",
+      "value": "Fund Custodian: China XX Bank Co., Ltd."
+    },
+    {
+      "name": "financial_detail_summary_date",
+      "value": "Fund Contract Effective Date: Nov 25, 2025"
+    },
+    {
+      "name": "financial_detail_summary_type",
+      "value": "Fund Type: Index"
+    },
+    {
+      "name": "financial_detail_summary_currency",
+      "value": "Currency: RMB"
+    }
+  ]
+}

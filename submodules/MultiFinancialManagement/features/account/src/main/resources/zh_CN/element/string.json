@@ -1,0 +1,128 @@
+{
+  "string": [
+    {
+      "name": "account_yesterday_income",
+      "value": "昨日收益"
+    },
+    {
+      "name": "account_demand",
+      "value": "活期+"
+    },
+    {
+      "name": "account_investment",
+      "value": "投资"
+    },
+    {
+      "name": "account_monthly_interest_due",
+      "value": "本月剩余应还"
+    },
+    {
+      "name": "account_invest_section_title",
+      "value": "投资"
+    },
+    {
+      "name": "account_wealth",
+      "value": "理财"
+    },
+    {
+      "name": "account_half_year_treasure",
+      "value": "半年宝"
+    },
+    {
+      "name": "account_position_income",
+      "value": "持仓收益"
+    },
+    {
+      "name": "account_recent_redeem_date",
+      "value": "最近赎回日："
+    },
+    {
+      "name": "account_position_amount",
+      "value": "持仓金额"
+    },
+    {
+      "name": "account_fund",
+      "value": "基金"
+    },
+    {
+      "name": "account_index_fund_c",
+      "value": "XXXXXX指数C"
+    },
+    {
+      "name": "account_savings_card",
+      "value": "储蓄卡"
+    },
+    {
+      "name": "account_demand_deposit",
+      "value": "活期存款"
+    },
+    {
+      "name": "account_daily_treasure",
+      "value": "日日宝"
+    },
+    {
+      "name": "account_yesterday_income_value",
+      "value": "昨日收益 1.33"
+    },
+    {
+      "name": "account_liability_section_title",
+      "value": "负债"
+    },
+    {
+      "name": "account_available_limit",
+      "value": "剩余可用额度"
+    },
+    {
+      "name": "account_remaining_rmb_due",
+      "value": "剩余应还人民币"
+    },
+    {
+      "name": "account_credit_card_personal_consume",
+      "value": "信用卡个人消费账户"
+    },
+    {
+      "name": "account_unbilled_statement_amount",
+      "value": "未出账单：11111"
+    },
+    {
+      "name": "account_statement_date",
+      "value": "11-23出账"
+    },
+    {
+      "name": "message_announcement",
+      "value": "公告"
+    },
+    {
+      "name": "message_announcement_content",
+      "value": "关于贵金属、黄金定投业务调整"
+    },
+    {
+      "name": "message_transaction",
+      "value": "交易"
+    },
+    {
+      "name": "message_transaction_content",
+      "value": "6月06日，您有一笔自动转账请查看"
+    },
+    {
+      "name": "message_selection",
+      "value": "精选"
+    },
+    {
+      "name": "message_selection_content",
+      "value": "追求正收益，拒绝过山车"
+    },
+    {
+      "name": "bank_card_balance",
+      "value": "银行卡余额"
+    },
+    {
+      "name": "bank_card_info",
+      "value": "某某银行 | 尾号6749"
+    },
+    {
+      "name": "view_details",
+      "value": "查看详情"
+    }
+  ]
+}

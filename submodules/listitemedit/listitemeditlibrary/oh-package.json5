@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/listitemeditlibrary",
+  "version": "1.0.0",
+  "description": "This sample uses the List component to implement the list editing effects in scenarios such as to-do list management, file management, and notepad.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/list-item-edit/tree/br_release_hmos/",
+  "dependencies": {}
+}

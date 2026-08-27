@@ -1,0 +1,9 @@
+{
+  "name": "@ohos_samples/preferenceslibrary",
+  "version": "1.0.1",
+  "description": "This sample describes how to implement preferences.",
+  "main": "Index.ets",
+  "author": "ohos_samples",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}

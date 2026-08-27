@@ -1,0 +1,284 @@
+{
+  "string": [
+    {
+      "name": "departure",
+      "value": "beijing"
+    },
+    {
+      "name": "destination",
+      "value": "shanghai"
+    },
+    {
+      "name": "ticket_inquiry",
+      "value": "Ticket Inquiry"
+    },
+    {
+      "name": "departure_date",
+      "value": "Departure date"
+    },
+    {
+      "name": "week_width",
+      "value": "14.3%"
+    },
+    {
+      "name": "button_scroll_option1",
+      "value": "TimePickerDialog 12 hour clock"
+    },
+    {
+      "name": "button_scroll_option2",
+      "value": "TextPickerDialog"
+    },
+    {
+      "name": "index_name",
+      "value": "Custom pop-up window collection"
+    },
+    {
+      "name": "scroll_option",
+      "value": "Sliding selection popup"
+    },
+    {
+      "name": "select_person",
+      "value": "Choose a rider"
+    },
+    {
+      "name": "add_person",
+      "value": "Add passengers"
+    },
+    {
+      "name": "confirmed",
+      "value": "Confirm"
+    },
+    {
+      "name": "confirm_order",
+      "value": "Confirm Order"
+    },
+    {
+      "name": "start_time",
+      "value": "00:25"
+    },
+    {
+      "name": "start_string",
+      "value": "Departure"
+    },
+    {
+      "name": "car_name",
+      "value": "G1234"
+    },
+    {
+      "name": "car_time",
+      "value": "8:01"
+    },
+    {
+      "name": "end_time",
+      "value": "08:26"
+    },
+    {
+      "name": "end_name",
+      "value": "Terminal"
+    },
+    {
+      "name": "button_select",
+      "value": "Choose a rider"
+    },
+    {
+      "name": "dialog_name",
+      "value": "Modal pop-up window"
+    },
+    {
+      "name": "tastes",
+      "value": "Taste and tableware"
+    },
+    {
+      "name": "choose_flavors",
+      "value": "Choose flavors and cutlery"
+    },
+    {
+      "name": "bind_sheet_dialog",
+      "value": "Semi-modal pop-up window"
+    },
+    {
+      "name": "click_successfully",
+      "value": "Click successfully !"
+    },
+    {
+      "name": "toast_dialog",
+      "value": "Toast pop-up window"
+    },
+    {
+      "name": "button_name2",
+      "value": "Kind Tips(Example)"
+    },
+    {
+      "name": "two_level_dialog",
+      "value": "Two semi-modal + full-screen window"
+    },
+    {
+      "name": "disagree",
+      "value": "Disagree"
+    },
+    {
+      "name": "agreed",
+      "value": "Agree"
+    },
+    {
+      "name": "full_screen",
+      "value": "Full screen pop-up window"
+    },
+    {
+      "name": "calendar_dialog",
+      "value": "Custom calendar picker popup"
+    },
+    {
+      "name": "button_one",
+      "value": "open sheet1"
+    },
+    {
+      "name": "button_two",
+      "value": "close sheet1"
+    },
+    {
+      "name": "button_three",
+      "value": "open sheet2"
+    },
+    {
+      "name": "button_four",
+      "value": "close sheet2"
+    },
+    {
+      "name": "button_five",
+      "value": "close sheet1 sheet2"
+    },
+    {
+      "name": "wang",
+      "value": "wang**"
+    },
+    {
+      "name": "song",
+      "value": "song*"
+    },
+    {
+      "name": "xu",
+      "value": "xu**"
+    },
+    {
+      "name": "tang",
+      "value": "tang*"
+    },
+    {
+      "name": "spicy",
+      "value": "Less spicy"
+    },
+    {
+      "name": "spicy1",
+      "value": "No need for spicy"
+    },
+    {
+      "name": "spicy2",
+      "value": "Need disposable cutlery"
+    },
+    {
+      "name": "spicy3",
+      "value": "Extra spicy"
+    },
+    {
+      "name": "spicy4",
+      "value": "No cilantro"
+    },
+    {
+      "name": "spicy5",
+      "value": "No disposable utensils"
+    },
+    {
+      "name": "click",
+      "value": "Click Toast"
+    },
+    {
+      "name": "back",
+      "value": "Back"
+    },
+    {
+      "name": "sun",
+      "value": "Sun"
+    },
+    {
+      "name": "mon",
+      "value": "Mon"
+    },
+    {
+      "name": "tue",
+      "value": "Tue"
+    },
+    {
+      "name": "wed",
+      "value": "Wed"
+    },
+    {
+      "name": "thu",
+      "value": "Thu"
+    },
+    {
+      "name": "fri",
+      "value": "Fri"
+    },
+    {
+      "name": "sat",
+      "value": "Sat"
+    },
+    {
+      "name": "year",
+      "value": "year"
+    },
+    {
+      "name": "month",
+      "value": "month"
+    },
+    {
+      "name": "day",
+      "value": "day"
+    },
+    {
+      "name": "sunday",
+      "value": "Sunday"
+    },
+    {
+      "name": "monday",
+      "value": "Monday"
+    },
+    {
+      "name": "tuesday",
+      "value": "Tuesday"
+    },
+    {
+      "name": "wednesday",
+      "value": "Wednesday"
+    },
+    {
+      "name": "thursday",
+      "value": "Thursday"
+    },
+    {
+      "name": "friday",
+      "value": "Friday"
+    },
+    {
+      "name": "saturday",
+      "value": "Saturday"
+    },
+    {
+      "name": "please_enter",
+      "value": "Please enter......"
+    },
+    {
+      "name": "passenger",
+      "value": "Passenger"
+    },
+    {
+      "name": "select",
+      "value": "Select"
+    },
+    {
+      "name": "ticket_list",
+      "value": "Ticket List"
+    }
+  ]
+}

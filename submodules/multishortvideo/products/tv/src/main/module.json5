@@ -1,0 +1,51 @@
+{
+  module: {
+    name: 'multishortvideotvsample',
+    type: 'feature',
+    description: '$string:module_desc',
+    mainElement: 'MultiShortVideoTvAbility',
+    deviceTypes: [
+      'tv',
+    ],
+    deliveryWithInstall: false,
+    installationFree: false,
+    pages: '$profile:main_pages',
+    routerMap: '$profile:route_map',
+    abilities: [
+      {
+        name: 'MultiShortVideoTvAbility',
+        srcEntry: './ets/tvability/MultiShortVideoTvAbility.ets',
+        description: '$string:TvAbility_desc',
+        icon: '$media:layered_image',
+        label: '$string:TvAbility_label',
+        startWindowIcon: '$media:startIcon',
+        startWindowBackground: '$color:start_window_background',
+        exported: true,
+        skills: [
+          {
+            entities: [
+              'entity.system.home',
+            ],
+            actions: [
+              'ohos.want.action.home',
+            ],
+          },
+        ],
+      },
+    ],
+    extensionAbilities: [
+      {
+        name: 'MultiShortVideoTvBackupAbility',
+        srcEntry: './ets/tvbackupability/MultiShortVideoTvBackupAbility.ets',
+        type: 'backup',
+        exported: false,
+        metadata: [
+          {
+            name: 'ohos.extension.backup',
+            resource: '$profile:backup_config',
+          },
+        ],
+      },
+    ],
+  },
+}

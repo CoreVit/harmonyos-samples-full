@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "slider_select",
+      "value": "#DBFFFFFF"
+    },
+    {
+      "name": "slider_track",
+      "value": "#33FFFFFF"
+    },
+    {
+      "name": "play_text_color",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "select_swiper",
+      "value": "#DBFFFFFF"
+    },
+    {
+      "name": "shadow_color",
+      "value": "#66000000"
+    }
+  ]
+}

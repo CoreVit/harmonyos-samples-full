@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "btn_recognize_title",
+      "value": "Sheet Recognition"
+    },
+    {
+      "name": "title",
+      "value": "Sheet recognition"
+    },
+    {
+      "name": "save_success",
+      "value": "The file is saved successfully"
+    },
+    {
+      "name": "save_error",
+      "value": "The file is saved error"
+    }
+  ]
+}

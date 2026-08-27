@@ -1,0 +1,63 @@
+/*
+* Copyright (C) 2025 Huawei Device Co., Ltd.
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+* http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+
+import { ConfigurationConstant, UIAbility } from '@kit.AbilityKit';
+import { window } from '@kit.ArkUI';
+import { BusinessError } from '@kit.BasicServicesKit';
+import { KnockShareController, Logger } from '@ohos_samples/knocksharelibrary';
+
+const TAG = 'EntryAbility';
+
+export default class EntryAbility extends UIAbility {
+  onCreate(): void {
+    Logger.info(TAG, 'Ability onCreate');
+    try {
+      KnockShareController.showTip(this.context);
+      this.context.getApplicationContext().setColorMode(ConfigurationConstant.ColorMode.COLOR_MODE_NOT_SET);
+    } catch (err) {
+      Logger.error(TAG, `Failed to setColorMode. error code: ${err.code}, message: ${err.message}`);
+    }
+  }
+
+  onWindowStageCreate(windowStage: window.WindowStage): void {
+    // Main window is created, set main page for this ability
+    Logger.info(TAG, 'Ability onWindowStageCreate');
+    windowStage.loadContent('pages/Index', (err: BusinessError) => {
+      if (err && err.code && err.message) {
+        Logger.error(TAG, `Failed to load the content. error code: ${err.code}, message: ${err.message}`);
+        return;
+      }
+      KnockShareController.initWindowConfig(windowStage);
+      Logger.info(TAG, 'Succeeded in loading the content.');
+    });
+  }
+
+  onDestroy(): void {
+    Logger.info(TAG, 'Ability onDestroy');
+  }
+
+  onWindowStageDestroy(): void {
+    Logger.info(TAG, 'Ability onWindowStageDestroy');
+    KnockShareController.destroyWindowConfig();
+  }
+
+  onForeground(): void {
+    Logger.info(TAG, 'Ability onForeground');
+  }
+
+  onBackground(): void {
+    Logger.info(TAG, 'Ability onBackground');
+  }
+}

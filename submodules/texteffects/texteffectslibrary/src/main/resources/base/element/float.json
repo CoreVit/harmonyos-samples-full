@@ -1,0 +1,16 @@
+{
+  "float": [
+    {
+      "name": "text_refection_height",
+      "value": "74vp"
+    },
+    {
+      "name": "text_effect_title_line_height",
+      "value": "22fp"
+    },
+    {
+      "name": "text_effect_title_row_height",
+      "value": "50vp"
+    }
+  ]
+}

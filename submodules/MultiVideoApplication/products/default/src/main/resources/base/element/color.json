@@ -1,0 +1,80 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dft_search_input_background",
+      "value": "#0d000000"
+    },
+    {
+      "name": "dft_search_input_background_on_immersive",
+      "value": "#1affffff"
+    },
+    {
+      "name": "dft_search_placeholder_on_immersive",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "dft_search_placeholder",
+      "value": "#99000000"
+    },
+    {
+      "name": "dft_header_icon_on_immersive",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dft_header_icon",
+      "value": "#000000"
+    },
+    {
+      "name": "dft_header_icon_background",
+      "value": "#0D000000"
+    },
+    {
+      "name": "dft_header_icon_background_on_immersive",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "dft_bottom_tab_icon_unselected_on_immersive",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dft_bottom_tab_icon_selected",
+      "value": "#E6ED6F21"
+    },
+    {
+      "name": "dft_bottom_tab_icon_unselected",
+      "value": "#8F9192"
+    },
+    {
+      "name": "dft_bottom_tab_icon_unselected_hds",
+      "value": "#E6000000"
+    },
+    {
+      "name": "dft_transparent",
+      "value": "#00000000"
+    },
+    {
+      "name": "dft_home_tab_background_on_immersive",
+      "value": "#0DFFFFFF"
+    },
+    {
+      "name": "dft_home_content_background",
+      "value": "#222A3E"
+    },
+    {
+      "name": "dft_text_title_on_immersive",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dft_page_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "dft_text_primary",
+      "value": "#000000"
+    }
+  ]
+}

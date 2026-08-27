@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "indicator_select",
+      "value": "#F74E42"
+    },
+    {
+      "name": "focus_color",
+      "value": "#E92F4F"
+    },
+    {
+      "name": "flow_image_bg_color",
+      "value": "#eaeaea"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "color": [
+    {
+      "name": "dialogContainerBackground",
+      "value": "#2D3033"
+    },
+    {
+      "name": "mainTextColor",
+      "value": "#D6FFFFFF"
+    },
+    {
+      "name": "subTextColor",
+      "value": "#E6000000"
+    },
+    {
+      "name": "sheetItemBackgroundColor1",
+      "value": "#000000"
+    },
+    {
+      "name": "sheetItemBackgroundColor2",
+      "value": "#2D3033"
+    },
+    {
+      "name": "sheetContainerBackground",
+      "value": "#2D3033"
+    }
+  ]
+}

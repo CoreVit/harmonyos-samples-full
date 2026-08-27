@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "main_title",
+      "value": "文档扫描控件示例"
+    },
+    {
+      "name": "scan_result",
+      "value": "文档扫描结果"
+    },
+    {
+      "name": "button_scan",
+      "value": "文档扫描"
+    },
+    {
+      "name": "button_home",
+      "value": "返回首页"
+    }
+  ]
+}

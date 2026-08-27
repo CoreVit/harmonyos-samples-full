@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "tab_content_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "tabs_background",
+      "value": "#F3F4F5"
+    },
+    {
+      "name": "tab_selected_color",
+      "value": "#E53137"
+    },
+    {
+      "name": "tab_unselected_color_light",
+      "value": "#33000000"
+    },
+    {
+      "name": "tab_unselected_color_dark",
+      "value": "#E6000000"
+    },
+    {
+      "name": "toolbar_selected_color",
+      "value": "#FA4337"
+    },
+    {
+      "name": "border_color",
+      "value": "#E5E5E5"
+    }
+  ]
+}

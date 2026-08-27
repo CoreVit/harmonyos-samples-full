@@ -1,0 +1,15 @@
+{
+  "name": "multishortvideopc",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "multishortvideobase": "file:../../common/multishortvideobase",
+    "multishortvideoadaptivevideo": "file:../../features/multishortvideoadaptivevideo",
+    "multishortvideoindividual": "file:../../features/multishortvideoindividual",
+    "multishortvideocomment": "file:../../features/multishortvideocomment"
+  }
+}
+

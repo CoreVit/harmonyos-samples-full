@@ -1,0 +1,68 @@
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "6.0.2(22)",
+        "targetSdkVersion": "6.1.0(23)",
+        "runtimeOS": "HarmonyOS"
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "multifinancialmanagementdefaultsample",
+      "srcPath": "./products/default",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "multifinancialmanagementpcsample",
+      "srcPath": "./products/pc",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "account",
+      "srcPath": "./features/account"
+    },
+    {
+      "name": "wealth",
+      "srcPath": "./features/wealth"
+    },
+    {
+      "name": "investment",
+      "srcPath": "./features/investment"
+    },
+    {
+      "name": "recommend",
+      "srcPath": "./features/recommend"
+    },
+    {
+      "name": "financialbase",
+      "srcPath": "./commons/financialbase"
+    }
+  ]
+}

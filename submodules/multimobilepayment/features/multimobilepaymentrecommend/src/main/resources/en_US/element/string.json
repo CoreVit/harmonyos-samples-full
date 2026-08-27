@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "city",
+      "value": "city"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "search"
+    },
+    {
+      "name": "wealth_selected",
+      "value": "wealth_selected"
+    },
+    {
+      "name": "device_not_support",
+      "value": "Current device does not support scan feature."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "multitravelbase",
+    "type": "har",
+    "description": "$string:shared_desc",
+    "deviceTypes": [
+      "phone",
+      "default",
+      "2in1"
+    ],
+  }
+}

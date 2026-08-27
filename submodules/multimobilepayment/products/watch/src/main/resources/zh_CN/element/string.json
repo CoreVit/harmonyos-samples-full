@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "WearableAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "WearableAbility_label",
+      "value": "多设备移动支付界面"
+    },
+    {
+      "name": "app_title",
+      "value": "支付sample"
+    },
+    {
+      "name": "city_default",
+      "value": "城市"
+    },
+    {
+      "name": "reminder",
+      "value": "加载失败"
+    }
+  ]
+}

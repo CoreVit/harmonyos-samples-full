@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "hyperlink_title",
+      "value": "HyperLink 拖拽"
+    },
+    {
+      "name": "hyperlink_none_text_column_name",
+      "value": "不允许超链接释放区"
+    },
+    {
+      "name": "hyperlink_text_column_name",
+      "value": "允许超链接释放区"
+    },
+    {
+      "name": "none_data",
+      "value": "无效数据"
+    },
+    {
+      "name": "data_detail",
+      "value": "HyperLink\nurl: %s\ndescription: %s"
+    },
+    {
+      "name": "image_text_title",
+      "value": "允许图片释放区"
+    },
+    {
+      "name": "image_none_text_title",
+      "value": "不允许图片释放区"
+    },
+    {
+      "name": "image_title",
+      "value": "Image 拖拽"
+    },
+    {
+      "name": "rich_editor_text_title",
+      "value": "文本接收拖拽区"
+    },
+    {
+      "name": "textarea_title",
+      "value": "TextArea 拖拽"
+    },
+    {
+      "name": "textarea_text_title",
+      "value": "允许文本释放区"
+    },
+    {
+      "name": "textarea_none_text_title",
+      "value": "不允许文本释放区"
+    },
+    {
+      "name": "text_input_title",
+      "value": "TextInput 拖拽"
+    },
+    {
+      "name": "index_title",
+      "value": "拖拽框架实践"
+    },
+    {
+      "name": "rich_editor_title",
+      "value": "RichEditor 拖拽"
+    },
+    {
+      "name": "rich_editor_text",
+      "value": "RichEditor 拖拽, 试一试！"
+    },
+    {
+      "name": "list_title",
+      "value": "List 拖拽"
+    },
+    {
+      "name": "background_title",
+      "value": "自定义拖拽背板"
+    },
+    {
+      "name": "watermark_title",
+      "value": "拖拽图片增加水印"
+    },
+    {
+      "name": "ai_recognition_title",
+      "value": "AI识别拖拽内容"
+    },
+    {
+      "name": "background_content",
+      "value": "雪山风景图"
+    },
+    {
+      "name": "drag_successfully",
+      "value": "拖拽成功"
+    },
+    {
+      "name": "drag_failed",
+      "value": "拖拽失败"
+    },
+    {
+      "name": "area_can_drag",
+      "value": "允许释放区域"
+    },
+    {
+      "name": "drag_time",
+      "value": "拖拽时间："
+    },
+    {
+      "name": "area_none_drag",
+      "value": "禁止释放区域"
+    }
+  ]
+}

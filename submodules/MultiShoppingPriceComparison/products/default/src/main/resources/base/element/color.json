@@ -1,0 +1,1 @@
+{  "color": [    {      "name": "start_window_background",      "value": "#F1F3F5"    },    {      "name": "tab_mask_color",      "value": "#66F1F3F5"    },    {      "name": "title_bar_clear",      "value": "#00000000"    },    {      "name": "title_bar_button_bg",      "value": "#0C000000"    }  ]}

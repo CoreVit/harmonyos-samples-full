@@ -1,0 +1,156 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "TransitionsCollection"
+    },
+    {
+      "name": "multimodaltransion_phone_back",
+      "value": "Mobile verification code login."
+    },
+    {
+      "name": "multimodaltransion_auto_after_login",
+      "value": "The first login will be automatically registered."
+    },
+    {
+      "name": "multimodaltransion_read_and_agree",
+      "value": "I have read and agree to the"
+    },
+    {
+      "name": "multimodaltransion_server_proxy_rule_detail",
+      "value": "Service Agreement and Personal Information Processing Rules"
+    },
+    {
+      "name": "multimodaltransion_phone_start_login",
+      "value": "One-click login using a mobile number"
+    },
+    {
+      "name": "multimodaltransion_login_success",
+      "value": "Login succeeded"
+    },
+    {
+      "name": "multimodaltransion_please_read_and_agree",
+      "value": "Please read and agree to the agreement first"
+    },
+    {
+      "name": "multimodaltransion_input_phone_number",
+      "value": "Enter a mobile number"
+    },
+    {
+      "name": "multimodaltransion_86",
+      "value": "+86"
+    },
+    {
+      "name": "multimodaltransion_size_full",
+      "value": "100%"
+    },
+    {
+      "name": "multimodaltransion_size_ninety_percent",
+      "value": "90%"
+    },
+    {
+      "name": "multimodaltransion_size_eighty_percent",
+      "value": "80%"
+    },
+    {
+      "name": "multimodaltransion_size_eighty_two_percent",
+      "value": "83%"
+    },
+    {
+      "name": "multimodaltransion_captcha_change_title_text",
+      "value": "Account and password login"
+    },
+    {
+      "name": "multimodaltransion_captcha_get",
+      "value": "Log In"
+    },
+    {
+      "name": "multimodaltransion_captcha_sent",
+      "value": "Verification code has been sent"
+    },
+    {
+      "name": "multimodaltransion_user_phone_number",
+      "value": "122****2222"
+    },
+    {
+      "name": "multimodaltransion_get_service",
+      "value": "XX in China provides certification services"
+    },
+    {
+      "name": "multimodaltransion_captcha_login_text",
+      "value": "Verification code login"
+    },
+    {
+      "name": "multimodaltransion_only_show_ui",
+      "value": "This style is only for case display"
+    },
+    {
+      "name": "multimodaltransion_after_login_more_service",
+      "value": "Log in to experience more services"
+    },
+    {
+      "name": "recent_reading",
+      "value": "Recent reading"
+    },
+    {
+      "name": "content",
+      "value": "The two nodes that appear and disappear are associated with location size content."
+    },
+    {
+      "name": "card_title",
+      "value": "Card to the end"
+    },
+    {
+      "name": "img",
+      "value": "image"
+    },
+    {
+      "name": "double_finger_amplification",
+      "value": "Double finger amplification"
+    },
+    {
+      "name": "semiView_larger_image_modal",
+      "value": "View larger image"
+    },
+    {
+      "name": "list_title",
+      "value": "A list to the end"
+    },
+    {
+      "name": "memorandum",
+      "value": "memorandum"
+    },
+    {
+      "name": "search_title",
+      "value": "Search to the end"
+    },
+    {
+      "name": "vedio_title",
+      "value": "Video to the end"
+    },
+    {
+      "name": "model_title",
+      "value": "Multimodal page transition"
+    },
+    {
+      "name": "model_transition",
+      "value": "Multi-modal page transition"
+    },
+    {
+      "name": "long_take_title",
+      "value": "A mirror to the end"
+    },
+    {
+      "name": "book_title",
+      "value": "Look through the pages of a book"
+    },
+    {
+      "name": "DetailPage_text",
+      "value": "All living things evolve freely. HarmonyOS is an operating system for multi-device experience, so providing users with a comfortable and convenient multi-device operating experience is the core point of HarmonyOS different from other operating systems.\n\nOn the one hand, interface design/component design needs to have a good adaptive ability to quickly develop different screen sizes.On the other hand, we want a multi-device experience that strikes a good balance between consistency and differentiation.\n\n● Consistency: The design of elements in the interface and the way of interaction should be consistent as far as possible in order to reduce the learning cost of users.\n\n● Difference: Different types of equipment in the screen size, interaction, use scenarios, user groups and other aspects will have a certain difference, in order to provide users with the right operating experience, we need to be differentiated for different types of equipment design."
+    },
+    {
+      "name": "login_mobile_error",
+      "value": "Invalid phone number format"
+    }
+  ]
+}

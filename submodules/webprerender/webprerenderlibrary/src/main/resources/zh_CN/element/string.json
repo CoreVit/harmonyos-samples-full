@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "title",
+      "value": "Web页面瞬开效果实践"
+    },
+    {
+      "name": "text_name",
+      "value": "点击打开Web页面"
+    },
+    {
+      "name": "full_height_width",
+      "value": "100%"
+    },
+    {
+      "name": "reason_internet",
+      "value": "用于Web页面的瞬开效果场景"
+    }
+  ]
+}

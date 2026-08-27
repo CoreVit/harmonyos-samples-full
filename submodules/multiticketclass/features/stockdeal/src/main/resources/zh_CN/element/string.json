@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "regular_way",
+      "value": "普通交易"
+    },
+    {
+      "name": "Stock_name_code",
+      "value": "某某科技 3****3"
+    },
+    {
+      "name": "shareholder_account",
+      "value": "股东账户：500****5"
+    },
+    {
+      "name": "price",
+      "value": "价格"
+    },
+    {
+      "name": "limit_down",
+      "value": "跌停  "
+    },
+    {
+      "name": "raising_limit",
+      "value": "  涨停  "
+    },
+    {
+      "name": "quantity",
+      "value": "数量"
+    },
+    {
+      "name": "already_held",
+      "value": "已持有"
+    },
+    {
+      "name": "stock",
+      "value": "股"
+    },
+    {
+      "name": "buy_able",
+      "value": "可买"
+    },
+    {
+      "name": "buy",
+      "value": "买入"
+    },
+    {
+      "name": "market_conditions",
+      "value": "千档行情"
+    },
+    {
+      "name": "transaction_details",
+      "value": "成交明细"
+    },
+    {
+      "name": "sell",
+      "value": "卖"
+    },
+    {
+      "name": "text_buy",
+      "value": "买"
+    },
+    {
+      "name": "order_quantity",
+      "value": "委托数量"
+    },
+    {
+      "name": "confirm_purchase",
+      "value": "确认买入"
+    },
+    {
+      "name": "commissioned_price",
+      "value": "委托价格"
+    }
+  ]
+}

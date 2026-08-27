@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "title",
+      "value": "Practice of Web Page Instant Open Effect"
+    },
+    {
+      "name": "text_name",
+      "value": "Click to open the web page."
+    },
+    {
+      "name": "full_height_width",
+      "value": "100%"
+    },
+    {
+      "name": "reason_internet",
+      "value": "Used for instant page loading effects in web scenarios."
+    }
+  ]
+}

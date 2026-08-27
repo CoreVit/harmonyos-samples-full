@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "edit",
+      "value": "编辑"
+    },
+    {
+      "name": "deleted",
+      "value": "删除成功"
+    },
+    {
+      "name": "todo",
+      "value": "待办"
+    },
+    {
+      "name": "undo",
+      "value": "未完成"
+    },
+    {
+      "name": "done",
+      "value": "已完成"
+    },
+    {
+      "name": "available_thing1",
+      "value": "读书"
+    },
+    {
+      "name": "available_thing2",
+      "value": "运动"
+    },
+    {
+      "name": "available_thing3",
+      "value": "旅游"
+    },
+    {
+      "name": "available_thing4",
+      "value": "听音乐"
+    },
+    {
+      "name": "available_thing5",
+      "value": "看电影"
+    },
+    {
+      "name": "available_thing6",
+      "value": "唱歌"
+    }
+  ]
+}

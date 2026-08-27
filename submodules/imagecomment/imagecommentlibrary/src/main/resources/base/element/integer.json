@@ -1,0 +1,80 @@
+{
+  "integer": [
+    {
+      "name": "text_input_height",
+      "value": 40
+    },
+    {
+      "name": "text_input_padding_right",
+      "value": 50
+    },
+    {
+      "name": "image_camera_margin_top",
+      "value": 10
+    },
+    {
+      "name": "button_publish_width",
+      "value": 80
+    },
+    {
+      "name": "button_publish_height",
+      "value": 35
+    },
+    {
+      "name": "border_radius",
+      "value": 16
+    },
+    {
+      "name": "relative_container_input_height",
+      "value": 50
+    },
+    {
+      "name": "image_avatar_height",
+      "value": 40
+    },
+    {
+      "name": "image_avatar_width",
+      "value": 40
+    },
+    {
+      "name": "logo_border_radius",
+      "value": 25
+    },
+    {
+      "name": "image_comment_image_width",
+      "value": 130
+    },
+    {
+      "name": "image_comment_image_height",
+      "value": 130
+    },
+    {
+      "name": "image_camera_image_width",
+      "value": 100
+    },
+    {
+      "name": "image_camera_image_height",
+      "value": 100
+    },
+    {
+      "name": "list_comment_image_height",
+      "value": 120
+    },
+    {
+      "name": "text_hot_comment_height",
+      "value": 40
+    },
+    {
+      "name": "border_width",
+      "value": 1
+    },
+    {
+      "name": "text_input_hint_height",
+      "value": 40
+    },
+    {
+      "name": "text_input_hint_border_radius",
+      "value": 30
+    }
+  ]
+}

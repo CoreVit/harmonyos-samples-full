@@ -1,0 +1,28 @@
+{
+  "float": [
+    {
+      "name": "tab_image_size",
+      "value": "24vp"
+    },
+    {
+      "name": "tab_font_size",
+      "value": "10vp"
+    },
+    {
+      "name": "tab_font_line_height",
+      "value": "13vp"
+    },
+    {
+      "name": "tab_space",
+      "value": "2vp"
+    },
+    {
+      "name": "bar_height",
+      "value": "56vp"
+    },
+    {
+      "name": "place_holder_font_size",
+      "value": "20fp"
+    }
+  ]
+}

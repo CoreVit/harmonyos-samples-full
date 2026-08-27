@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "market_title_color",
+      "value": "#FA7137"
+    },
+    {
+      "name": "market_background_color",
+      "value": "#FFEFEE"
+    },
+    {
+      "name": "transaction_background_color",
+      "value": "#F4F3F8"
+    },
+    {
+      "name": "price_rise_color",
+      "value": "#FA4337"
+    },
+    {
+      "name": "price_fall_color",
+      "value": "#1DB775"
+    },
+    {
+      "name": "limit_text_color",
+      "value": "#707070"
+    },
+    {
+      "name": "input_background_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "confirm_button_text_color",
+      "value": "#E53137"
+    }
+  ]
+}

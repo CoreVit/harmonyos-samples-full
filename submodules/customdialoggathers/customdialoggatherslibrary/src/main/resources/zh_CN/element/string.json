@@ -1,0 +1,284 @@
+{
+  "string": [
+    {
+      "name": "departure",
+      "value": "北京"
+    },
+    {
+      "name": "destination",
+      "value": "上海"
+    },
+    {
+      "name": "ticket_inquiry",
+      "value": "查询车票"
+    },
+    {
+      "name": "departure_date",
+      "value": "出发日期"
+    },
+    {
+      "name": "week_width",
+      "value": "14.3%"
+    },
+    {
+      "name": "button_scroll_option1",
+      "value": "TimePickerDialog 12小时制"
+    },
+    {
+      "name": "button_scroll_option2",
+      "value": "TextPickerDialog"
+    },
+    {
+      "name": "index_name",
+      "value": "自定义弹窗合集"
+    },
+    {
+      "name": "scroll_option",
+      "value": "滑动选择弹窗"
+    },
+    {
+      "name": "select_person",
+      "value": "选择乘车人"
+    },
+    {
+      "name": "add_person",
+      "value": "添加乘车人"
+    },
+    {
+      "name": "confirmed",
+      "value": "确认"
+    },
+    {
+      "name": "confirm_order",
+      "value": "确认订单"
+    },
+    {
+      "name": "start_time",
+      "value": "00:25"
+    },
+    {
+      "name": "start_string",
+      "value": "始发站"
+    },
+    {
+      "name": "car_name",
+      "value": "G1234"
+    },
+    {
+      "name": "car_time",
+      "value": "8时1分"
+    },
+    {
+      "name": "end_time",
+      "value": "08:26"
+    },
+    {
+      "name": "end_name",
+      "value": "终点站"
+    },
+    {
+      "name": "button_select",
+      "value": "选择乘车人"
+    },
+    {
+      "name": "dialog_name",
+      "value": "模态弹窗"
+    },
+    {
+      "name": "tastes",
+      "value": "口味与餐具"
+    },
+    {
+      "name": "choose_flavors",
+      "value": "选择点餐口味和餐具"
+    },
+    {
+      "name": "bind_sheet_dialog",
+      "value": "半模态弹窗"
+    },
+    {
+      "name": "click_successfully",
+      "value": "点击成功 !"
+    },
+    {
+      "name": "toast_dialog",
+      "value": "Toast弹窗"
+    },
+    {
+      "name": "button_name2",
+      "value": "温馨提示（示例）"
+    },
+    {
+      "name": "two_level_dialog",
+      "value": "两级半模态+全屏弹窗"
+    },
+    {
+      "name": "disagree",
+      "value": "不同意"
+    },
+    {
+      "name": "agreed",
+      "value": "同意"
+    },
+    {
+      "name": "full_screen",
+      "value": "全屏弹窗"
+    },
+    {
+      "name": "calendar_dialog",
+      "value": "自定义日历选择器弹窗"
+    },
+    {
+      "name": "button_one",
+      "value": "打开sheet1"
+    },
+    {
+      "name": "button_two",
+      "value": "关闭sheet1"
+    },
+    {
+      "name": "button_three",
+      "value": "打开sheet2"
+    },
+    {
+      "name": "button_four",
+      "value": "关闭sheet2"
+    },
+    {
+      "name": "button_five",
+      "value": "关闭sheet1 sheet2"
+    },
+    {
+      "name": "wang",
+      "value": "王**"
+    },
+    {
+      "name": "song",
+      "value": "宋*"
+    },
+    {
+      "name": "xu",
+      "value": "许**"
+    },
+    {
+      "name": "tang",
+      "value": "唐*"
+    },
+    {
+      "name": "spicy",
+      "value": "少放辣"
+    },
+    {
+      "name": "spicy1",
+      "value": "不需要辣"
+    },
+    {
+      "name": "spicy2",
+      "value": "需要一次性餐具"
+    },
+    {
+      "name": "spicy3",
+      "value": "多放辣"
+    },
+    {
+      "name": "spicy4",
+      "value": "不要香菜"
+    },
+    {
+      "name": "spicy5",
+      "value": "不要一次性餐具"
+    },
+    {
+      "name": "click",
+      "value": "点击Toast"
+    },
+    {
+      "name": "back",
+      "value": "返回"
+    },
+    {
+      "name": "sun",
+      "value": "日"
+    },
+    {
+      "name": "mon",
+      "value": "一"
+    },
+    {
+      "name": "tue",
+      "value": "二"
+    },
+    {
+      "name": "wed",
+      "value": "三"
+    },
+    {
+      "name": "thu",
+      "value": "四"
+    },
+    {
+      "name": "fri",
+      "value": "五"
+    },
+    {
+      "name": "sat",
+      "value": "六"
+    },
+    {
+      "name": "year",
+      "value": "年"
+    },
+    {
+      "name": "month",
+      "value": "月"
+    },
+    {
+      "name": "day",
+      "value": "日"
+    },
+    {
+      "name": "sunday",
+      "value": "星期日"
+    },
+    {
+      "name": "monday",
+      "value": "星期一"
+    },
+    {
+      "name": "tuesday",
+      "value": "星期二"
+    },
+    {
+      "name": "wednesday",
+      "value": "星期三"
+    },
+    {
+      "name": "thursday",
+      "value": "星期四"
+    },
+    {
+      "name": "friday",
+      "value": "星期五"
+    },
+    {
+      "name": "saturday",
+      "value": "星期六"
+    },
+    {
+      "name": "please_enter",
+      "value": "请输入......"
+    },
+    {
+      "name": "passenger",
+      "value": "乘车人"
+    },
+    {
+      "name": "select",
+      "value": "选择"
+    },
+    {
+      "name": "ticket_list",
+      "value": "车票列表"
+    }
+  ]
+}

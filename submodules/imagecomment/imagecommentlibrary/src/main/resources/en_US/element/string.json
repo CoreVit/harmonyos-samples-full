@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "most_select_image",
+      "value": "You can only select up to 9 images！"
+    },
+    {
+      "name": "publish",
+      "value": "publish"
+    },
+    {
+      "name": "hot_comment",
+      "value": "Hot Comment"
+    },
+    {
+      "name": "text_input_hint",
+      "value": "Please speak civilly"
+    },
+    {
+      "name": "name_mine",
+      "value": "Sea"
+    },
+    {
+      "name": "name_one",
+      "value": "Cloud"
+    },
+    {
+      "name": "comment_one",
+      "value": "The view is great"
+    },
+    {
+      "name": "name_two",
+      "value": "Morrowind"
+    },
+    {
+      "name": "comment_two",
+      "value": "Will come back next time!"
+    },
+    {
+      "name": "image_comment_title",
+      "value": "Image Comment"
+    },
+    {
+      "name": "2in1_not_support",
+      "value": "The camera feature is not supported on the current device"
+    }
+  ]
+}

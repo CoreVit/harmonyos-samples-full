@@ -1,0 +1,360 @@
+{
+  "string": [
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_locate",
+      "value": "附近"
+    },
+    {
+      "name": "tab_taxi",
+      "value": "打车"
+    },
+    {
+      "name": "tab_my",
+      "value": "我的"
+    },
+    {
+      "name": "drive",
+      "value": "驾车"
+    },
+    {
+      "name": "metro",
+      "value": "公交地铁"
+    },
+    {
+      "name": "taxi",
+      "value": "打车"
+    },
+    {
+      "name": "bus",
+      "value": "实时公交"
+    },
+    {
+      "name": "hotel",
+      "value": "订酒店"
+    },
+    {
+      "name": "attractions",
+      "value": "景点"
+    },
+    {
+      "name": "buy",
+      "value": "优惠团购"
+    },
+    {
+      "name": "download",
+      "value": "离线地图"
+    },
+    {
+      "name": "drive2",
+      "value": "叫代驾"
+    },
+    {
+      "name": "more",
+      "value": "更多工具"
+    },
+    {
+      "name": "loading_data",
+      "value": "搜索中"
+    },
+    {
+      "name": "poi_textInput_holder",
+      "value": "搜索地点、地址、公交"
+    },
+    {
+      "name": "frequent_locations",
+      "value": "常去地点"
+    },
+    {
+      "name": "all",
+      "value": "全部"
+    },
+    {
+      "name": "add_home",
+      "value": "添加家"
+    },
+    {
+      "name": "add_comp",
+      "value": "添加公司/学校"
+    },
+    {
+      "name": "add_address",
+      "value": "添加常去地址"
+    },
+    {
+      "name": "recommend_location",
+      "value": "推荐地点"
+    },
+    {
+      "name": "recommend",
+      "value": "江汉路步行街"
+    },
+    {
+      "name": "direction_desc",
+      "value": "距你直线距离<364米"
+    },
+    {
+      "name": "goto",
+      "value": "去看看"
+    },
+    {
+      "name": "discount_attraction",
+      "value": "优惠景点"
+    },
+    {
+      "name": "attraction1",
+      "value": "黄鹤楼"
+    },
+    {
+      "name": "attraction2",
+      "value": "汉口江滩"
+    },
+    {
+      "name": "attraction3",
+      "value": "江汉路"
+    },
+    {
+      "name": "attraction4",
+      "value": "昙华林"
+    },
+    {
+      "name": "have_more",
+      "value": "查看更多"
+    },
+    {
+      "name": "location_distance",
+      "value": "位置距离"
+    },
+    {
+      "name": "rank_recommendation",
+      "value": "排序推荐"
+    },
+    {
+      "name": "favor",
+      "value": "收藏"
+    },
+    {
+      "name": "share",
+      "value": "分享"
+    },
+    {
+      "name": "start_navigate",
+      "value": "开始导航"
+    },
+    {
+      "name": "live_view_started_toast",
+      "value": "实况窗已开启"
+    },
+    {
+      "name": "live_view_start_failed_toast",
+      "value": "实况窗开启失败"
+    },
+    {
+      "name": "navigate",
+      "value": "导航"
+    },
+    {
+      "name": "route",
+      "value": "路线"
+    },
+    {
+      "name": "location_name_width",
+      "value": "70%"
+    },
+    {
+      "name": "my_location",
+      "value": "我的位置"
+    },
+    {
+      "name": "input_terminal_point",
+      "value": "输入终点"
+    },
+    {
+      "name": "public_transportation",
+      "value": "公交地铁"
+    },
+    {
+      "name": "cycling",
+      "value": "骑行"
+    },
+    {
+      "name": "walk",
+      "value": "步行"
+    },
+    {
+      "name": "proxy_driving",
+      "value": "代驾"
+    },
+    {
+      "name": "train",
+      "value": "火车"
+    },
+    {
+      "name": "passenger_car",
+      "value": "客车"
+    },
+    {
+      "name": "convenience_store",
+      "value": "便利超市"
+    },
+    {
+      "name": "open_now_prefix",
+      "value": "营业中·"
+    },
+    {
+      "name": "search_result_distance_template",
+      "value": "距你{distance}米"
+    },
+    {
+      "name": "site_open_now",
+      "value": "营业中"
+    },
+    {
+      "name": "phone_label",
+      "value": "电话:"
+    },
+    {
+      "name": "phone_number_sample",
+      "value": "012-5684325"
+    },
+    {
+      "name": "site_detail_distance_template",
+      "value": "据你{distance} 米"
+    },
+    {
+      "name": "walk_less_than_one_minute",
+      "value": "步行<1分钟"
+    },
+    {
+      "name": "site_nearby_other_store",
+      "value": "附近其他超市"
+    },
+    {
+      "name": "site_arrival_rate_13",
+      "value": "13%到达"
+    },
+    {
+      "name": "site_east_gate",
+      "value": "东门"
+    },
+    {
+      "name": "site_arrival_rate_87",
+      "value": "87%到达"
+    },
+    {
+      "name": "site_scenic_tickets",
+      "value": "景点门票"
+    },
+    {
+      "name": "ask_section_title",
+      "value": "问问"
+    },
+    {
+      "name": "ask_icon_text",
+      "value": "问"
+    },
+    {
+      "name": "ask_parking_question",
+      "value": "附近有停车场吗？"
+    },
+    {
+      "name": "ask_parking_answers",
+      "value": "1个回答"
+    },
+    {
+      "name": "ask_charging_question",
+      "value": "附近有充电桩吗？"
+    },
+    {
+      "name": "ask_charging_answers",
+      "value": "4个回答"
+    },
+    {
+      "name": "no_site_detail",
+      "value": "暂无地点详情"
+    },
+    {
+      "name": "route_strategy_primary",
+      "value": "大路多"
+    },
+    {
+      "name": "route_strategy_secondary",
+      "value": "备选二"
+    },
+    {
+      "name": "route_strategy_short",
+      "value": "距离短"
+    },
+    {
+      "name": "route_planning_loading",
+      "value": "路线规划中…"
+    },
+    {
+      "name": "route_time_template",
+      "value": "{time}分钟"
+    },
+    {
+      "name": "route_distance_template",
+      "value": "{distance}公里"
+    },
+    {
+      "name": "route_error_destination_not_selected",
+      "value": "未选择目的地"
+    },
+    {
+      "name": "route_error_current_location_failed",
+      "value": "获取当前位置失败"
+    },
+    {
+      "name": "route_error_no_routes",
+      "value": "未获取到可用路线"
+    },
+    {
+      "name": "route_error_empty_roads",
+      "value": "路线数据为空"
+    },
+    {
+      "name": "route_error_failed",
+      "value": "路线规划失败"
+    },
+    {
+      "name": "site_brief_great_scenery",
+      "value": "风景很好"
+    },
+    {
+      "name": "site_brief_many_shops",
+      "value": "商户很多"
+    },
+    {
+      "name": "site_brief_crowded",
+      "value": "人流多"
+    },
+    {
+      "name": "site_brief_snack_shops",
+      "value": "小吃商家"
+    },
+    {
+      "name": "site_price_60",
+      "value": "60"
+    },
+    {
+      "name": "site_price_32",
+      "value": "32"
+    },
+    {
+      "name": "site_price_free",
+      "value": "免费"
+    },
+    {
+      "name": "site_discount_75",
+      "value": "75折"
+    },
+    {
+      "name": "site_name_optics_valley",
+      "value": "光谷"
+    }
+  ]
+}

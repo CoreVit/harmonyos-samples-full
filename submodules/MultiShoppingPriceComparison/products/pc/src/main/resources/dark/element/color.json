@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "tab_mask_color",
+      "value": "#662A2A2A"
+    },
+    {
+      "name": "title_bar_clear",
+      "value": "#00000000"
+    },
+    {
+      "name": "title_bar_button_bg",
+      "value": "#0CFFFFFF"
+    },
+    {
+      "name": "page_background",
+      "value": "#2A2A2A"
+    }
+  ]
+}

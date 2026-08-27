@@ -1,0 +1,12 @@
+{
+  "name": "mapcontainer",
+  "version": "1.0.0",
+  "description": "Map container feature module.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "multitravelbase": "file:../../commons/multitravelbase",
+    "poiexplore": "file:../../features/poiexplore"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "list_exchange_deduction_sort",
+      "value": "扣款排序"
+    },
+    {
+      "name": "list_exchange_custom_sort",
+      "value": "自定义排序"
+    },
+    {
+      "name": "bank_card_NO1",
+      "value": "账户余额"
+    },
+    {
+      "name": "bank_card_NO2",
+      "value": "xx银行储蓄卡（1234）"
+    },
+    {
+      "name": "bank_card_NO3",
+      "value": "xx银行储蓄卡（1238）"
+    },
+    {
+      "name": "bank_card_NO4",
+      "value": "xx银行储蓄卡（1236）"
+    }
+  ]
+}

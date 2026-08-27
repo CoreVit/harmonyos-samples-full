@@ -1,0 +1,48 @@
+{
+  module: {
+    name: 'liveviewlockscreensample',
+    type: 'feature',
+    description: '$string:module_desc',
+    mainElement: 'LiveviewlockscreensampleAbility',
+    deviceTypes: [
+      'phone',
+      'tablet',
+    ],
+    deliveryWithInstall: false,
+    installationFree: false,
+    pages: '$profile:main_pages',
+    abilities: [
+      {
+        name: 'LiveviewlockscreensampleAbility',
+        srcEntry: './ets/entryability/EntryAbility.ets',
+        description: '$string:EntryAbility_desc',
+        icon: '$media:layered_image',
+        label: '$string:EntryAbility_label',
+        startWindowIcon: '$media:startIcon',
+        startWindowBackground: '$color:start_window_background',
+        exported: false,
+        backgroundModes: [
+          'location',
+        ],
+        skills: [
+          {
+            entities: [
+              'entity.system.home',
+            ],
+            actions: [
+              'action.system.home',
+            ],
+          },
+        ],
+      },
+    ],
+    extensionAbilities: [
+      {
+        name: 'LiveViewExtAbility',
+        type: 'liveViewLockScreen',
+        srcEntry: './ets/liveview/LiveViewExtAbility.ets',
+        exported: false,
+      },
+    ],
+  },
+}

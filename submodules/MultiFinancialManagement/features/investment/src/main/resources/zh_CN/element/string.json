@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "financial_detail_timeline_tip",
+      "value": "05月17日前15:30购买，05月20日可查看持仓并开始计算收益。本产品设置最短持有期，持有份额可按日赎回。"
+    },
+    {
+      "name": "financial_detail_timeline_today",
+      "value": "今日"
+    },
+    {
+      "name": "financial_detail_timeline_buy_in",
+      "value": "买入"
+    },
+    {
+      "name": "financial_detail_timeline_confirm_shares",
+      "value": "确认份额"
+    },
+    {
+      "name": "financial_detail_timeline_hold_and_redeem",
+      "value": "持有天数可按日赎回"
+    },
+    {
+      "name": "financial_detail_timeline_continue_investing",
+      "value": "连续投资"
+    },
+    {
+      "name": "financial_detail_buy_amount_title",
+      "value": "买入金额"
+    },
+    {
+      "name": "financial_detail_trading_rules",
+      "value": "交易规则"
+    },
+    {
+      "name": "financial_detail_buy_amount_placeholder",
+      "value": "最低买入1.00元，买入无限额"
+    },
+    {
+      "name": "financial_detail_buy_amount_desc",
+      "value": "买入0费率，预计05月20日（星期五）以05月19日（星期四）净值确认份额（其他详见交易规则）"
+    },
+    {
+      "name": "financial_detail_payment_method",
+      "value": "付款方式"
+    },
+    {
+      "name": "financial_detail_payment_bank_card",
+      "value": "某某银行储蓄卡（8**8）"
+    },
+    {
+      "name": "financial_detail_product_summary",
+      "value": "产品概要"
+    },
+    {
+      "name": "financial_detail_product_summary_tip",
+      "value": "为了保障您的投资权益，在做出投资决定前，请您阅读完整的招募说明书等文件。"
+    },
+    {
+      "name": "financial_detail_summary_short_name",
+      "value": "基金简称：理财一号财富通月赎开放式产品A"
+    },
+    {
+      "name": "financial_detail_summary_code",
+      "value": "基金代号：02***3"
+    },
+    {
+      "name": "financial_detail_summary_manager",
+      "value": "基金管理人：某某基金管理有限公司"
+    },
+    {
+      "name": "financial_detail_summary_custodian",
+      "value": "基金托管人：中国某某银行股份有限公司"
+    },
+    {
+      "name": "financial_detail_summary_date",
+      "value": "基金合同生效日期：2025年11月25日"
+    },
+    {
+      "name": "financial_detail_summary_type",
+      "value": "基金类型：指数型"
+    },
+    {
+      "name": "financial_detail_summary_currency",
+      "value": "请勾选币种：人民币"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/multiconvenientlifelibrary",
+  "version": "1.0.0",
+  "description": "This Sample describes how to implement convenient living case with multi devices",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/multi-convenient-life/tree/br_release_hmos/",
+  "dependencies": {}
+}

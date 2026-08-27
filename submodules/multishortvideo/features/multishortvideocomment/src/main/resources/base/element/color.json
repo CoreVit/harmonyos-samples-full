@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "text_input_bg_xs",
+      "value": "#F2F2F2"
+    },
+    {
+      "name": "text_input_bg_md",
+      "value": "#2C2E2D"
+    },
+    {
+      "name": "search_icon_bg",
+      "value": "#19FFFFFF"
+    },
+    {
+      "name": "icon_bg_dark",
+      "value": "#2E2F2E"
+    },
+    {
+      "name": "font_emphasize_light",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "font_emphasize_dark",
+      "value": "#317AF7"
+    },
+    {
+      "name": "write_comment_bg",
+      "value": "#66000000"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SmartPhotoPicker"
+    },
+    {
+      "name": "title",
+      "value": "SmartPhotoPicker"
+    },
+    {
+      "name": "no_image_recommendation",
+      "value": "No image recommendation"
+    },
+    {
+      "name": "Service_specific_recommendations",
+      "value": "Service-specific recommendations"
+    },
+    {
+      "name": "identity_card",
+      "value": "identity card"
+    },
+    {
+      "name": "QR_code",
+      "value": "QR code"
+    },
+    {
+      "name": "text_recommendations",
+      "value": "Recommend images based on text"
+    },
+    {
+      "name": "Component_recommendation",
+      "value": "Component for image recommendation"
+    },
+    {
+      "name": "Interface_recommendation",
+      "value": "interface for image recommendation"
+    },
+    {
+      "name": "select_keywords",
+      "value": "select keywords"
+    },
+    {
+      "name": "confirm",
+      "value": "confirm"
+    },
+    {
+      "name": "cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "enter_keywords",
+      "value": "enter keywords"
+    },
+    {
+      "name": "input_text",
+      "value": "Please input text for image recommendation."
+    },
+    {
+      "name": "privacy_window",
+      "value": "Set the window to privacy mode."
+    }
+  ]
+}

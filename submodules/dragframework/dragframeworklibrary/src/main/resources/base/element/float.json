@@ -1,0 +1,32 @@
+{
+  "float": [
+    {
+      "name": "title_margin_top",
+      "value": "56.0vp"
+    },
+    {
+      "name": "title_height",
+      "value": "40.0vp"
+    },
+    {
+      "name": "nav_bar_width_sm",
+      "value": "360.0vp"
+    },
+    {
+      "name": "nav_bar_width_md",
+      "value": "300.0vp"
+    },
+    {
+      "name": "nav_bar_width_lg",
+      "value": "450.0vp"
+    },
+    {
+      "name": "input_height",
+      "value": "50.0vp"
+    },
+    {
+      "name": "textarea_height",
+      "value": "155.0vp"
+    }
+  ]
+}

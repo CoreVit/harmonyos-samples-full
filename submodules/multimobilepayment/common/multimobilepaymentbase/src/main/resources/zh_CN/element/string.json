@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "finance",
+      "value": "理财"
+    },
+    {
+      "name": "life",
+      "value": "生活"
+    },
+    {
+      "name": "message",
+      "value": "消息"
+    },
+    {
+      "name": "mine",
+      "value": "我的"
+    },
+    {
+      "name": "fund",
+      "value": "基金"
+    },
+    {
+      "name": "wealth",
+      "value": "理财产品"
+    },
+    {
+      "name": "credit_card",
+      "value": "信用卡"
+    },
+    {
+      "name": "bills",
+      "value": "账单"
+    },
+    {
+      "name": "metals",
+      "value": "贵金属"
+    },
+    {
+      "name": "deposit",
+      "value": "存款产品"
+    },
+    {
+      "name": "loan",
+      "value": "快贷"
+    },
+    {
+      "name": "profit",
+      "value": "速盈"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_wealth",
+      "value": "理财"
+    },
+    {
+      "name": "tab_life",
+      "value": "生活"
+    },
+    {
+      "name": "tab_message",
+      "value": "消息"
+    },
+    {
+      "name": "tab_mine",
+      "value": "我的"
+    },
+    {
+      "name": "scan",
+      "value": "扫一扫"
+    },
+    {
+      "name": "payment_code",
+      "value": "收付款"
+    },
+    {
+      "name": "travel",
+      "value": "出行"
+    },
+    {
+      "name": "card_bag",
+      "value": "卡包"
+    },
+    {
+      "name": "mode_scan",
+      "value": "扫码"
+    },
+    {
+      "name": "mode_recognize",
+      "value": "识物"
+    },
+    {
+      "name": "mode_ar",
+      "value": "AR"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "float": [
+    {
+      "name": "list_text_size",
+      "value": "46.0vp"
+    },
+    {
+      "name": "list_symbol_offset",
+      "value": "2.0vp"
+    },
+    {
+      "name": "list_container_size",
+      "value": "48.0vp"
+    }
+  ]
+}

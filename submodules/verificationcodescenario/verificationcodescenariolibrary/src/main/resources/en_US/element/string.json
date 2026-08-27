@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "select_verification_code",
+      "value": "Select verification code"
+    },
+    {
+      "name": "slider_verification_code",
+      "value": "Slider verification code"
+    },
+    {
+      "name": "enter_the_verification_code",
+      "value": "Please enter the verification code"
+    },
+    {
+      "name": "Verification_code_sent_to",
+      "value": "Verification code has been sent to"
+    },
+    {
+      "name": "phone_number",
+      "value": "+86 186****2770"
+    },
+    {
+      "name": "reacquire",
+      "value": "Reacquire"
+    },
+    {
+      "name": "phone_number1",
+      "value": "+86 186******70"
+    },
+    {
+      "name": "slide",
+      "value": "Slide right to fit the puzzle piece"
+    },
+    {
+      "name": "verification_passed",
+      "value": "Verification Passed"
+    },
+    {
+      "name": "verification_fail",
+      "value": "Validation failed"
+    },
+    {
+      "name": "change",
+      "value": "Can't see? Change it."
+    },
+    {
+      "name": "sentence",
+      "value": "Click \"Gu Yan Hua Xiang\""
+    },
+    {
+      "name": "change_another",
+      "value": "change"
+    },
+    {
+      "name": "commit",
+      "value": "Commit"
+    },
+    {
+      "name": "word",
+      "value": "Cursor style"
+    },
+    {
+      "name": "bottom",
+      "value": "Bottom bar style"
+    },
+    {
+      "name": "background",
+      "value": "Background change style"
+    },
+    {
+      "name": "hua",
+      "value": "Hua"
+    },
+    {
+      "name": "cause",
+      "value": "cause"
+    },
+    {
+      "name": "yan",
+      "value": "Yan"
+    },
+    {
+      "name": "xiang",
+      "value": "Xiang"
+    },
+    {
+      "name": "china",
+      "value": "china"
+    },
+    {
+      "name": "gu",
+      "value": "Gu"
+    },
+    {
+      "name": "hunan",
+      "value": "hunan"
+    },
+    {
+      "name": "project_name",
+      "value": "Collection Of Verification Codes"
+    },
+    {
+      "name": "prompt_message",
+      "value": "Keyboard input is currently not supported on 2-in-1 devices."
+    }
+  ]
+}

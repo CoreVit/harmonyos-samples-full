@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/dragframeworklibrary",
+  "version": "1.0.0",
+  "description": "This sample describes how to implement drag framework.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/DragFramework/tree/br_release_hmos/",
+  "dependencies": {}
+}

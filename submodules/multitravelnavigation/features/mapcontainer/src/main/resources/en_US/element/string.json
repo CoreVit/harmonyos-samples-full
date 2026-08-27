@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "panel_title",
+      "value": "Travel Navigation"
+    },
+    {
+      "name": "location_permission_denied_tip",
+      "value": "Location permission is required to show your current location and plan routes."
+    },
+    {
+      "name": "location_switch_off_tip",
+      "value": "Location services are off. Turn them on to show your current location."
+    },
+    {
+      "name": "location_tip_retry",
+      "value": "Enable"
+    },
+    {
+      "name": "location_tip_open",
+      "value": "Turn on"
+    }
+  ]
+}

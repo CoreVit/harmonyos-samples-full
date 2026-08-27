@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "hyperlink_title",
+      "value": "HyperLink Drag"
+    },
+    {
+      "name": "hyperlink_none_text_column_name",
+      "value": "Area that the hyperlink can not be dragged in"
+    },
+    {
+      "name": "hyperlink_text_column_name",
+      "value": "Area that the hyperlink can be dragged in"
+    },
+    {
+      "name": "none_data",
+      "value": "Invalid data"
+    },
+    {
+      "name": "data_detail",
+      "value": "HyperLink\nurl: %s\ndescription: %s"
+    },
+    {
+      "name": "image_text_title",
+      "value": "Area that the image can be dragged in"
+    },
+    {
+      "name": "image_none_text_title",
+      "value": "Area that the image can not be dragged in"
+    },
+    {
+      "name": "image_title",
+      "value": "Image Drag"
+    },
+    {
+      "name": "rich_editor_text_title",
+      "value": "Area that the text can be dragged in"
+    },
+    {
+      "name": "textarea_title",
+      "value": "TextArea Drag"
+    },
+    {
+      "name": "textarea_text_title",
+      "value": "Area that the text can be dragged in"
+    },
+    {
+      "name": "textarea_none_text_title",
+      "value": "Area that the text can not be dragged in"
+    },
+    {
+      "name": "text_input_title",
+      "value": "TextInput Drag"
+    },
+    {
+      "name": "index_title",
+      "value": "Drag Framework"
+    },
+    {
+      "name": "rich_editor_title",
+      "value": "RichEditor Drag"
+    },
+    {
+      "name": "rich_editor_text",
+      "value": "RichEditor drag, try it!"
+    },
+    {
+      "name": "list_title",
+      "value": "List Drag"
+    },
+    {
+      "name": "background_title",
+      "value": "Background customization"
+    },
+    {
+      "name": "watermark_title",
+      "value": "Add a watermark"
+    },
+    {
+      "name": "ai_recognition_title",
+      "value": "AI recognizes dragged content"
+    },
+    {
+      "name": "background_content",
+      "value": "Snow-capped mountain landscape"
+    },
+    {
+      "name": "drag_successfully",
+      "value": "Drag successfully"
+    },
+    {
+      "name": "drag_failed",
+      "value": "Drag failed"
+    },
+    {
+      "name": "area_can_drag",
+      "value": "Area that can be dragged in"
+    },
+    {
+      "name": "drag_time",
+      "value": "Drag time: "
+    },
+    {
+      "name": "area_none_drag",
+      "value": "No dragging area"
+    }
+  ]
+}

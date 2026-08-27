@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "ability_desc",
+      "value": "description"
+    },
+    {
+      "name": "ability_label",
+      "value": "shoppingpricecomparison"
+    },
+    {
+      "name": "LIVE_PAGE_BUY_NOW",
+      "value": "Buy now"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "HOME_TITLES1",
+      "value": "Deals"
+    },
+    {
+      "name": "BUTTON_TEXTS1",
+      "value": "Get coupon"
+    },
+    {
+      "name": "BUTTON_TEXTS2",
+      "value": "More"
+    },
+    {
+      "name": "TIP_TEXTS1",
+      "value": "price"
+    },
+    {
+      "name": "PRICE_UNIT",
+      "value": "& up"
+    },
+    {
+      "name": "HOME_TITLES2",
+      "value": "Featured"
+    },
+    {
+      "name": "HOME_REVIEW",
+      "value": "2571 reviews · 95% positive"
+    },
+    {
+      "name": "SECTION_PRODUCTS_INFO1",
+      "value": "Beidou SMS | Low-battery mode"
+    },
+    {
+      "name": "SECTION_PRODUCTS_INFO2",
+      "value": "144Hz display"
+    },
+    {
+      "name": "SECTION_PRODUCTS_INFO3",
+      "value": "32GB RAM | 13th Gen Intel | Super Device"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES2",
+      "value": "New flagship bar phone"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES3",
+      "value": "Save up to ¥100"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES4",
+      "value": "¥300 off (limited)"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES5",
+      "value": "Save up to ¥300"
+    },
+    {
+      "name": "HOME_PREFERRED_MATEBOOK_TITLE",
+      "value": "MateBook X Pro 12th Gen"
+    },
+    {
+      "name": "HOME_PREFERRED_MATEBOOK_FEATURE",
+      "value": "V1–V5 ¥400 off · 12× 0% APR"
+    },
+    {
+      "name": "HOME_PREFERRED_MATE50_NEW_TITLE",
+      "value": "HUAWEI Mate 50 · New"
+    }
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "互动卡片"
+    },
+    {
+      "name": "background_running_permission_reason",
+      "value": "为给您更好的音乐播控体验，本应用须在后台进行音乐播放。"
+    },
+    {
+      "name": "gyroscope_permission_reason",
+      "value": "快递卡片希望获取陀螺仪权限以展示更好的动画效果。"
+    },
+    {
+      "name": "SleepCard",
+      "value": "健康三叶草"
+    },
+    {
+      "name": "SleepCardDes",
+      "value": "健康三叶草卡片"
+    },
+    {
+      "name": "DeliveryCard",
+      "value": "快递配送"
+    },
+    {
+      "name": "DeliveryCardDes",
+      "value": "快递配送卡片"
+    },
+    {
+      "name": "ExerciseCard",
+      "value": "运动健康"
+    },
+    {
+      "name": "ExerciseCardDes",
+      "value": "运动健康卡片"
+    },
+    {
+      "name": "MusicCard",
+      "value": "音乐播控"
+    },
+    {
+      "name": "MusicCardDes",
+      "value": "音乐播控卡片"
+    },
+    {
+      "name": "pure_music",
+      "value": "此歌曲为纯音乐，请您欣赏"
+    },
+    {
+      "name": "pure_music_no_lyric",
+      "value": "此歌曲为纯音乐，请您欣赏"
+    },
+    {
+      "name": "dream_it_possible",
+      "value": "Dream It Possible"
+    },
+    {
+      "name": "china_is_promising",
+      "value": "中华有为"
+    },
+    {
+      "name": "remain_true_to_our_original_aspiration",
+      "value": "不忘初心"
+    },
+    {
+      "name": "i_got_it",
+      "value": "我知道了"
+    },
+    {
+      "name": "ha_ha_ha",
+      "value": "哈哈哈"
+    },
+    {
+      "name": "study_hard",
+      "value": "好好学习"
+    },
+    {
+      "name": "when_will_the_moon_be_clear_and_bright",
+      "value": "明月几时有"
+    },
+    {
+      "name": "serious",
+      "value": "正儿八经"
+    },
+    {
+      "name": "Delacey",
+      "value": "Delacey"
+    },
+    {
+      "name": "guitar",
+      "value": "吉他"
+    },
+    {
+      "name": "zhang_san",
+      "value": "张三"
+    },
+    {
+      "name": "li_si",
+      "value": "李四"
+    },
+    {
+      "name": "wang_wu",
+      "value": "王五"
+    },
+    {
+      "name": "zhao_liu",
+      "value": "赵六"
+    },
+    {
+      "name": "ming_yi",
+      "value": "名佚"
+    },
+    {
+      "name": "ming_yi_s",
+      "value": "名佚"
+    },
+    {
+      "name": "music_image",
+      "value": "词"
+    },
+    {
+      "name": "common_go_add",
+      "value": "去添加"
+    },
+    {
+      "name": "clover_title",
+      "value": "健康三叶草"
+    },
+    {
+      "name": "clover_self_task_title",
+      "value": "自选任务"
+    },
+    {
+      "name": "clover_weekday_1",
+      "value": "一"
+    },
+    {
+      "name": "clover_weekday_2",
+      "value": "二"
+    },
+    {
+      "name": "clover_weekday_3",
+      "value": "三"
+    },
+    {
+      "name": "clover_weekday_4",
+      "value": "四"
+    },
+    {
+      "name": "clover_weekday_5",
+      "value": "五"
+    },
+    {
+      "name": "clover_weekday_6",
+      "value": "六"
+    },
+    {
+      "name": "clover_weekday_7",
+      "value": "日"
+    },
+    {
+      "name": "task_wakeup_time",
+      "value": "规律起床"
+    },
+    {
+      "name": "task_exercise_time",
+      "value": "锻炼时长"
+    },
+    {
+      "name": "task_stress",
+      "value": "压力均值"
+    },
+    {
+      "name": "task_step_count",
+      "value": "步数"
+    },
+    {
+      "name": "task_water_intake",
+      "value": "喝水"
+    },
+    {
+      "name": "task_diet_record",
+      "value": "饮食记录"
+    },
+    {
+      "name": "task_mindfulness",
+      "value": "每日正念"
+    },
+    {
+      "name": "task_early_sleep",
+      "value": "早睡"
+    },
+    {
+      "name": "task_blood_pressure",
+      "value": "血压测量"
+    },
+    {
+      "name": "task_medication",
+      "value": "服药提醒"
+    },
+    {
+      "name": "task_weight_measure",
+      "value": "体重测量"
+    },
+    {
+      "name": "task_state_completed",
+      "value": "已完成"
+    },
+    {
+      "name": "task_state_view",
+      "value": "去查看"
+    },
+    {
+      "name": "task_state_record",
+      "value": "去记录"
+    },
+    {
+      "name": "task_state_meditate",
+      "value": "去冥想"
+    },
+    {
+      "name": "task_state_sleep",
+      "value": "去睡觉"
+    },
+    {
+      "name": "task_state_take_medication",
+      "value": "去服药"
+    },
+    {
+      "name": "delivery_detail_title",
+      "value": "快递详情"
+    },
+    {
+      "name": "delivery_tracking_number",
+      "value": "快递单号"
+    },
+    {
+      "name": "delivery_tracking_log",
+      "value": "物流轨迹"
+    },
+    {
+      "name": "delivery_status_in_transit",
+      "value": "运输中"
+    },
+    {
+      "name": "delivery_location_1",
+      "value": "北京市北京市朝阳区"
+    },
+    {
+      "name": "delivery_location_2",
+      "value": "河北省石家庄市长安区"
+    },
+    {
+      "name": "delivery_location_3",
+      "value": "河南省郑州市金水区"
+    },
+    {
+      "name": "delivery_location_4",
+      "value": "湖北省武汉市洪山区"
+    },
+    {
+      "name": "delivery_status_1",
+      "value": "快件已到达北京转运中心，正在分拣中"
+    },
+    {
+      "name": "delivery_status_2",
+      "value": "快件已发出，下一站北京转运中心"
+    },
+    {
+      "name": "delivery_status_3",
+      "value": "快件已到达石家庄转运中心"
+    },
+    {
+      "name": "delivery_status_4",
+      "value": "快件已发出，下一站石家庄转运中心"
+    },
+    {
+      "name": "delivery_status_5",
+      "value": "快件已到达郑州转运中心"
+    },
+    {
+      "name": "delivery_status_6",
+      "value": "快件已发出，下一站郑州转运中心"
+    },
+    {
+      "name": "delivery_status_7",
+      "value": "卖家已发货"
+    },
+    {
+      "name": "sleep_title",
+      "value": "睡眠"
+    },
+    {
+      "name": "sleep_tab_day",
+      "value": "日"
+    },
+    {
+      "name": "sleep_tab_week",
+      "value": "周"
+    },
+    {
+      "name": "sleep_tab_month",
+      "value": "月"
+    },
+    {
+      "name": "sleep_tab_half_year",
+      "value": "半年"
+    },
+    {
+      "name": "sleep_tab_year",
+      "value": "年"
+    },
+    {
+      "name": "sleep_duration_title",
+      "value": "睡眠时长"
+    },
+    {
+      "name": "sleep_nap_title",
+      "value": "零星小睡"
+    },
+    {
+      "name": "sleep_heart_rate_title",
+      "value": "睡眠心率"
+    },
+    {
+      "name": "sleep_analysis_title",
+      "value": "数据分析"
+    },
+    {
+      "name": "sleep_view_health_data",
+      "value": "查看睡眠期间健康数据"
+    },
+    {
+      "name": "sleep_manual_input",
+      "value": "手动输入"
+    },
+    {
+      "name": "sleep_record",
+      "value": "记录睡眠"
+    },
+    {
+      "name": "sleep_unit_hour",
+      "value": "小时"
+    },
+    {
+      "name": "sleep_unit_minute",
+      "value": "分钟"
+    },
+    {
+      "name": "sleep_stage_deep",
+      "value": "深度睡眠"
+    },
+    {
+      "name": "sleep_stage_light",
+      "value": "浅度睡眠"
+    },
+    {
+      "name": "sleep_stage_rem",
+      "value": "快速眼动"
+    },
+    {
+      "name": "sleep_stage_awake",
+      "value": "清醒"
+    },
+    {
+      "name": "sleep_ratio",
+      "value": "占比"
+    },
+    {
+      "name": "sleep_state_normal",
+      "value": "正常"
+    },
+    {
+      "name": "sleep_state_in_range",
+      "value": "范围内"
+    },
+    {
+      "name": "sleep_metric_duration",
+      "value": "睡眠时长"
+    },
+    {
+      "name": "sleep_metric_deep_percent",
+      "value": "深度睡眠"
+    },
+    {
+      "name": "sleep_metric_light_percent",
+      "value": "浅度睡眠 N1/N2 比例"
+    },
+    {
+      "name": "sleep_metric_rem_percent",
+      "value": "快速眼动 REM 比例"
+    },
+    {
+      "name": "sleep_metric_continuity",
+      "value": "深睡连续性"
+    },
+    {
+      "name": "sleep_metric_awake_count",
+      "value": "清醒次数"
+    },
+    {
+      "name": "sleep_metric_stability",
+      "value": "稳定睡眠比例"
+    },
+    {
+      "name": "sleep_metric_breathing",
+      "value": "呼吸质量"
+    },
+    {
+      "name": "sleep_metric_avg_heart_rate",
+      "value": "平均心率"
+    },
+    {
+      "name": "sleep_metric_avg_hrv",
+      "value": "平均心率变异性"
+    },
+    {
+      "name": "sleep_metric_avg_spo2",
+      "value": "平均血氧饱和度"
+    },
+    {
+      "name": "sleep_metric_avg_breathing_rate",
+      "value": "平均呼吸率"
+    },
+    {
+      "name": "sleep_analysis_quality_avg",
+      "value": "睡眠质量一般。睡眠期间醒了两次，略高于正常范围，存在易醒问题。易醒会影响人对于情绪的控制能力，容易引起烦躁、焦虑等负面情绪。"
+    },
+    {
+      "name": "sleep_total_sleep_format",
+      "value": "总睡眠 "
+    },
+    {
+      "name": "sleep_heart_rate_range_format",
+      "value": "次/分钟"
+    },
+    {
+      "name": "sleep_score_over_users_format",
+      "value": "分 超过45%的用户"
+    },
+    {
+      "name": "exercise_title",
+      "value": "运动记录"
+    },
+    {
+      "name": "exercise_overview_title",
+      "value": "运动总览"
+    },
+    {
+      "name": "exercise_selector_all_sports",
+      "value": "所有运动"
+    },
+    {
+      "name": "exercise_selector_all_time",
+      "value": "全部时间"
+    },
+    {
+      "name": "exercise_unit_hour",
+      "value": "时长（小时）"
+    },
+    {
+      "name": "exercise_unit_count",
+      "value": "次数（次）"
+    },
+    {
+      "name": "exercise_unit_calories",
+      "value": "总消耗（千卡）"
+    },
+    {
+      "name": "exercise_unit_running_km",
+      "value": "跑步（公里）"
+    },
+    {
+      "name": "exercise_unit_walking_km",
+      "value": "步行（公里）"
+    },
+    {
+      "name": "exercise_unit_swimming_m",
+      "value": "游泳（米）"
+    },
+    {
+      "name": "exercise_unit_jumping_count",
+      "value": "跳绳（个）"
+    },
+    {
+      "name": "exercise_unit_fitness_min",
+      "value": "健身课程（分钟）"
+    },
+    {
+      "name": "exercise_unit_golf_times",
+      "value": "高尔夫（次）"
+    },
+    {
+      "name": "exercise_unit_km",
+      "value": "公里"
+    },
+    {
+      "name": "exercise_unit_m",
+      "value": "米"
+    },
+    {
+      "name": "exercise_unit_per_km",
+      "value": "/公里"
+    },
+    {
+      "name": "exercise_unit_per_100m",
+      "value": "/100米"
+    },
+    {
+      "name": "exercise_unit_point",
+      "value": "分"
+    },
+    {
+      "name": "exercise_unit_kcal",
+      "value": "千卡"
+    },
+    {
+      "name": "exercise_unit_total_calories",
+      "value": "总消耗"
+    },
+    {
+      "name": "outdoor_run",
+      "value": "户外跑步"
+    },
+    {
+      "name": "basketball",
+      "value": "篮球·综合表现"
+    },
+    {
+      "name": "pool_swim",
+      "value": "泳池游泳"
+    },
+    {
+      "name": "indoor_run",
+      "value": "室内跑步"
+    },
+    {
+      "name": "exercise_start_button",
+      "value": "开始运动"
+    },
+    {
+      "name": "exercise_end_button",
+      "value": "结束运动"
+    },
+    {
+      "name": "exercise_month_summary_format",
+      "value": "运动 2.08 小时    运动 3 次"
+    },
+    {
+      "name": "background_playback_not_supported",
+      "value": "当前设备不支持后台播放"
+    },
+    {
+      "name": "sleep_status_sleeping",
+      "value": "呼呼大睡ing"
+    },
+    {
+      "name": "sleep_status_wakeup",
+      "value": "按时起床"
+    },
+    {
+      "name": "card_title_music",
+      "value": "音乐"
+    },
+    {
+      "name": "card_title_exercise",
+      "value": "运动"
+    },
+    {
+      "name": "card_title_delivery",
+      "value": "快递"
+    },
+    {
+      "name": "card_title_sleep",
+      "value": "睡眠"
+    },
+    {
+      "name": "sleep_stage_percent_deep",
+      "value": "1小时26分钟"
+    },
+    {
+      "name": "sleep_stage_percent_light",
+      "value": "3小时32分钟"
+    },
+    {
+      "name": "sleep_stage_percent_rem",
+      "value": "1小时38分钟"
+    },
+    {
+      "name": "task_target_25_min",
+      "value": "25 分钟"
+    },
+    {
+      "name": "task_target_8000_steps",
+      "value": "8000步"
+    },
+    {
+      "name": "task_target_3_times",
+      "value": "3次"
+    },
+    {
+      "name": "task_target_1_time",
+      "value": "1次"
+    },
+    {
+      "name": "task_target_2_times",
+      "value": "2次"
+    },
+    {
+      "name": "sleep_value_duration",
+      "value": "7小时15分钟"
+    },
+    {
+      "name": "sleep_ref_duration",
+      "value": "参考值: 6-10小时"
+    },
+    {
+      "name": "sleep_ref_deep_percent",
+      "value": "参考值: 10-30%"
+    },
+    {
+      "name": "sleep_ref_light_percent",
+      "value": "参考值: < 65%"
+    },
+    {
+      "name": "sleep_ref_rem_percent",
+      "value": "参考值: 10-30%"
+    },
+    {
+      "name": "sleep_value_continuity_score",
+      "value": "95分"
+    },
+    {
+      "name": "sleep_ref_continuity",
+      "value": "参考值: 70-100分"
+    },
+    {
+      "name": "sleep_value_1_time",
+      "value": "1次"
+    },
+    {
+      "name": "sleep_ref_awake_count",
+      "value": "参考值: 0-1次"
+    },
+    {
+      "name": "sleep_ref_stability",
+      "value": "参考值: ≥20%"
+    },
+    {
+      "name": "sleep_value_breathing_score",
+      "value": "100分"
+    },
+    {
+      "name": "sleep_ref_breathing",
+      "value": "参考值: 70-100分"
+    },
+    {
+      "name": "sleep_value_avg_heart_rate",
+      "value": "60 次/分钟"
+    },
+    {
+      "name": "sleep_ref_avg_heart_rate",
+      "value": "个人基准范围: 50-65 次/分钟"
+    },
+    {
+      "name": "sleep_value_avg_hrv",
+      "value": "100毫秒"
+    },
+    {
+      "name": "sleep_ref_avg_hrv",
+      "value": "个人基准范围: 60-120 毫秒"
+    },
+    {
+      "name": "sleep_ref_avg_spo2",
+      "value": "个人基准范围: 90-100%"
+    },
+    {
+      "name": "sleep_value_avg_breathing_rate",
+      "value": "14 次/分钟"
+    },
+    {
+      "name": "sleep_ref_avg_breathing_rate",
+      "value": "个人基准范围: 12-16 次/分钟"
+    },
+    {
+      "name": "delivery_in_transit",
+      "value": "快递运输中"
+    }
+  ]
+}

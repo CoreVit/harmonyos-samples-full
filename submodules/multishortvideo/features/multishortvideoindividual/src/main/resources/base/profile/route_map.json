@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name": "IndividualByRouter",
+      "pageSourceFile": "src/main/ets/view/IndividualByRouter.ets",
+      "buildFunction": "IndividualByRouterBuilder"
+    }
+  ]
+}

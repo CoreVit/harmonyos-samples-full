@@ -1,0 +1,11 @@
+{
+  name: 'webprerendersample',
+  version: '1.0.0',
+  description: 'Please describe the basic information.',
+  main: '',
+  author: '',
+  license: '',
+  dependencies: {
+    '@ohos_samples/webprerenderlibrary': 'file:../webprerenderlibrary',
+  },
+}

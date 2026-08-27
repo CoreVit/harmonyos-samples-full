@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "位置服务"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "位置服务"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "位置服务"
+    }
+  ]
+}

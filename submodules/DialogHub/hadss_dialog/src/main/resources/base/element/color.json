@@ -1,0 +1,56 @@
+{
+  "color": [
+    {
+      "name": "dialogContainerBackground",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "mainTextColor",
+      "value": "#E6000000"
+    },
+    {
+      "name": "subTextColor",
+      "value": "#E6000000"
+    },
+    {
+      "name": "primaryButtonBackground",
+      "value": "#FF0A59F7"
+    },
+    {
+      "name": "primaryButtonFontColor",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "normalButtonBackground",
+      "value": "#0C000000"
+    },
+    {
+      "name": "normalButtonFontColor",
+      "value": "#FF0A59F7"
+    },
+    {
+      "name": "shadowColor",
+      "value": "#CCCCCC"
+    },
+    {
+      "name": "sheetItemBackgroundColor1",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "sheetItemBackgroundColor2",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "sheetContainerBackground",
+      "value": "#E6FFFFFF"
+    },
+    {
+      "name": "primaryButtonColor",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "pressedPrimaryButtonColor",
+      "value": "#190A59F7"
+    }
+  ]
+}

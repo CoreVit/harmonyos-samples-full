@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/texteffectslibrary",
+  "version": "1.0.0",
+  "description": "This sample describes how to implement multiple text effects based on the Text component and common attributes.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/text-effects/tree/br_release_hmos/",
+  "dependencies": {}
+}

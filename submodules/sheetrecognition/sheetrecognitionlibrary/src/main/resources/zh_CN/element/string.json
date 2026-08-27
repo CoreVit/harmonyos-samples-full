@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "btn_recognize_title",
+      "value": "表格识别"
+    },
+    {
+      "name": "title",
+      "value": "表格识别"
+    },
+    {
+      "name": "save_success",
+      "value": "文件保存成功"
+    },
+    {
+      "name": "save_error",
+      "value": "文件保存失败"
+    }
+  ]
+}

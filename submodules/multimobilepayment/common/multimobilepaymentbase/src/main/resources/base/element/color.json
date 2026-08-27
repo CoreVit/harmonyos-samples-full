@@ -1,0 +1,112 @@
+{
+  "color": [
+    {
+      "name": "primary",
+      "value": "#000000"
+    },
+    {
+      "name": "primary5",
+      "value": "#0C000000"
+    },
+    {
+      "name": "primary20",
+      "value": "#33000000"
+    },
+    {
+      "name": "primary60",
+      "value": "#99000000"
+    },
+    {
+      "name": "primary90",
+      "value": "#E5000000"
+    },
+    {
+      "name": "brand",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "on_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "on_primary60",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "gray_01",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "text_primary",
+      "value": "#333333"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#999999"
+    },
+    {
+      "name": "accent_orange",
+      "value": "#FF9500"
+    },
+    {
+      "name": "accent_teal",
+      "value": "#0A5977"
+    },
+    {
+      "name": "gradient_blue_start",
+      "value": "#0954EA"
+    },
+    {
+      "name": "gradient_blue_mid1",
+      "value": "#6193F6"
+    },
+    {
+      "name": "gradient_blue_mid2",
+      "value": "#88AFFC"
+    },
+    {
+      "name": "gradient_dark_start",
+      "value": "#4F4F4F"
+    },
+    {
+      "name": "gradient_dark_end",
+      "value": "#000000"
+    },
+    {
+      "name": "gradient_overlay_start",
+      "value": "#000000"
+    },
+    {
+      "name": "gradient_overlay_end",
+      "value": "#00000000"
+    },
+    {
+      "name": "shadow_light",
+      "value": "#1A000000"
+    },
+    {
+      "name": "card_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "button_background_transparent",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "button_background_light",
+      "value": "#26FFFFFF"
+    },
+    {
+      "name": "button_background_overlay",
+      "value": "#33FFFFFF"
+    },
+    {
+      "name": "tab_unselected",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    }
+  ]
+}

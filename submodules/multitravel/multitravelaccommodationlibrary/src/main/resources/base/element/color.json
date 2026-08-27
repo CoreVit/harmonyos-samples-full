@@ -1,0 +1,44 @@
+{
+  "color": [
+    {
+      "name": "font_color_black",
+      "value": "#000000"
+    },
+    {
+      "name": "font_color_red",
+      "value": "#EA3F4A"
+    },
+    {
+      "name": "money_color",
+      "value": "#FF3B3D"
+    },
+    {
+      "name": "Calendar_selected_backgroundColor",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "Calendar_font_color",
+      "value": "#e6ffffff"
+    },
+    {
+      "name": "Hotel_top_fontColor",
+      "value": "#FFED6F21"
+    },
+    {
+      "name": "card_background",
+      "value": "#0d0a59f7"
+    },
+    {
+      "name": "down30_background",
+      "value": "#33ed6f21"
+    },
+    {
+      "name": "one_night_background",
+      "value": "#0d000000"
+    },
+    {
+      "name": "ticket_number",
+      "value": "#64BB5C"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "string": [
+    {
+      "name": "PAY_STORE",
+      "value": "HUAWEI Official Store"
+    },
+    {
+      "name": "PAY_BUY",
+      "value": "Buy"
+    },
+    {
+      "name": "PAY_CS_CONTENT_1",
+      "value": "HUAWEI Mate X5 12GB+512GB Phantom Purple · Fold · Dual screens · Communications"
+    },
+    {
+      "name": "PAY_CS_CONTENT_2",
+      "value": "Hi—about this fall’s new phones?"
+    },
+    {
+      "name": "PAY_CS_CONTENT_3",
+      "value": "Hi, I’m your chat assistant."
+    },
+    {
+      "name": "PAY_CS_CONTENT_4",
+      "value": "Welcome. Chats may be recorded. Try product pages or huawei.com first; type 人工 for a human agent."
+    },
+    {
+      "name": "PAY_COLOR_NAME_1",
+      "value": "Phantom Purple"
+    },
+    {
+      "name": "PAY_COLOR_NAME_2",
+      "value": "Sand Black"
+    },
+    {
+      "name": "PAY_COLOR_NAME_3",
+      "value": "Sand White"
+    },
+    {
+      "name": "PAY_COLOR_NAME_4",
+      "value": "Mountain Blue"
+    },
+    {
+      "name": "PAY_OFFICIAL_STANDARD",
+      "value": "Standard bundle"
+    },
+    {
+      "name": "PAY_SELECT_SECTION_1",
+      "value": "Color"
+    },
+    {
+      "name": "PAY_SELECT_SECTION_2",
+      "value": "Storage"
+    },
+    {
+      "name": "PAY_SELECT_SECTION_3",
+      "value": "Bundle"
+    },
+    {
+      "name": "PAY_INFO_1",
+      "value": "XXXX Ave, Unit XX"
+    },
+    {
+      "name": "PAY_INFO_2",
+      "value": "Contact +8610000000000"
+    },
+    {
+      "name": "PAY_INFO_3",
+      "value": "HUAWEI Wallet"
+    },
+    {
+      "name": "PAY_INFO_4",
+      "value": "Pay now"
+    },
+    {
+      "name": "SHOP_BAG_CURRENCY",
+      "value": "¥ "
+    },
+    {
+      "name": "SHOP_BAG_TAB_ALL",
+      "value": "All"
+    },
+    {
+      "name": "SHOP_BAG_TAB_PHONE",
+      "value": "Phones"
+    },
+    {
+      "name": "SHOP_BAG_TAB_TABLET",
+      "value": "Tablets"
+    },
+    {
+      "name": "SHOP_BAG_TAB_LAPTOP",
+      "value": "Laptops"
+    },
+    {
+      "name": "SHOP_BAG_TAB_WATCH",
+      "value": "Watches"
+    },
+    {
+      "name": "SHOP_BAG_TAB_EARPHONE",
+      "value": "Audio"
+    },
+    {
+      "name": "SHOP_BAG_HEADER_TITLE",
+      "value": "My bag"
+    },
+    {
+      "name": "SHOP_BAG_ICON_BAG",
+      "value": "Bag"
+    },
+    {
+      "name": "SHOP_BAG_ICON_SEARCH",
+      "value": "Search"
+    },
+    {
+      "name": "SHOP_BAG_ICON_ORDER",
+      "value": "Orders"
+    },
+    {
+      "name": "SHOP_BAG_COUPON_TITLE",
+      "value": "Store coupon (xx)"
+    },
+    {
+      "name": "SHOP_BAG_P1_REMARK",
+      "value": "Beidou SMS | Low-battery mode"
+    },
+    {
+      "name": "SHOP_BAG_P2_REMARK",
+      "value": "Ultra slim · flat · reliable"
+    },
+    {
+      "name": "SHOP_BAG_P3_REMARK",
+      "value": "2.5K display · slim · long battery"
+    },
+    {
+      "name": "SHOP_BAG_P4_REMARK",
+      "value": "Beidou SMS | Low-battery mode"
+    },
+    {
+      "name": "SHOP_BAG_DISCOUNT_POINTS",
+      "value": "Bonus points"
+    },
+    {
+      "name": "SHOP_BAG_DISCOUNT_FLAGSHIP",
+      "value": "New flagship bar phone"
+    },
+    {
+      "name": "SHOP_BAG_DISCOUNT_P3",
+      "value": "Pre-order save ¥200"
+    }
+  ]
+}

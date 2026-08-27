@@ -1,0 +1,140 @@
+{
+  "float": [
+    {
+      "name": "common_font_size",
+      "value": "80fp"
+    },
+    {
+      "name": "common_border_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "font_size_normal",
+      "value": "17fp"
+    },
+    {
+      "name": "font_size_smaller",
+      "value": "14fp"
+    },
+    {
+      "name": "list_item_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "layout_10",
+      "value": "10"
+    },
+    {
+      "name": "layout_25",
+      "value": "25"
+    },
+    {
+      "name": "layout_90",
+      "value": "90"
+    },
+    {
+      "name": "layout_110",
+      "value": "110"
+    },
+    {
+      "name": "init_title_font_size",
+      "value": "25"
+    },
+    {
+      "name": "expanded_title_font_size",
+      "value": "30"
+    },
+    {
+      "name": "memo_counts_font_size",
+      "value": "16"
+    },
+    {
+      "name": "opacity_zero_point_six",
+      "value": "0.6"
+    },
+    {
+      "name": "jump_button_opacity",
+      "value": "0.8"
+    },
+    {
+      "name": "top_interval_ten",
+      "value": "10vp"
+    },
+    {
+      "name": "top_interval_sixty",
+      "value": "60vp"
+    },
+    {
+      "name": "bottom_interval_minus_five",
+      "value": "-5vp"
+    },
+    {
+      "name": "font_size_twenty_two",
+      "value": "22fp"
+    },
+    {
+      "name": "width_and_height_sixty",
+      "value": "60vp"
+    },
+    {
+      "name": "borderRadius_twelve",
+      "value": "12vp"
+    },
+    {
+      "name": "water_ripples_width",
+      "value": "50vp"
+    },
+    {
+      "name": "text_border_radius",
+      "value": "5vp"
+    },
+    {
+      "name": "item_text_offset",
+      "value": "8vp"
+    },
+    {
+      "name": "small_font_size",
+      "value": "13vp"
+    },
+    {
+      "name": "blank_height",
+      "value": "20vp"
+    },
+    {
+      "name": "scroll_width",
+      "value": "340vp"
+    },
+    {
+      "name": "swiper_offset",
+      "value": "23vp"
+    },
+    {
+      "name": "margin_fifteen",
+      "value": "15vp"
+    },
+    {
+      "name": "badge_font_size",
+      "value": "10vp"
+    },
+    {
+      "name": "colum_offset_one",
+      "value": "200vp"
+    },
+    {
+      "name": "column_padding_top",
+      "value": "32vp"
+    },
+    {
+      "name": "card_swiper_swiper_height",
+      "value": "500vp"
+    },
+    {
+      "name": "card_swiper_photo_radius",
+      "value": "8vp"
+    },
+    {
+      "name": "card_swiper_card_shadow_radius",
+      "value": "20vp"
+    }
+  ]
+}

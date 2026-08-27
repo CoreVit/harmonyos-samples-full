@@ -1,0 +1,136 @@
+{
+  "string": [
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_cards",
+      "value": "信用卡"
+    },
+    {
+      "name": "tab_fortunes",
+      "value": "财富"
+    },
+    {
+      "name": "tab_mine",
+      "value": "我的"
+    },
+    {
+      "name": "tab_life",
+      "value": "生活"
+    },
+    {
+      "name": "search_value",
+      "value": "会员月权益领取"
+    },
+    {
+      "name": "city_name",
+      "value": "深圳"
+    },
+    {
+      "name": "account_inquiry",
+      "value": "账户查询"
+    },
+    {
+      "name": "transfer_remittance",
+      "value": "转账汇款"
+    },
+    {
+      "name": "borrow_loan",
+      "value": "借钱"
+    },
+    {
+      "name": "asset_overview",
+      "value": "资产总览"
+    },
+    {
+      "name": "account_overview_title",
+      "value": "账户总览"
+    },
+    {
+      "name": "fund_investment",
+      "value": "基金投资"
+    },
+    {
+      "name": "wealth_management_products",
+      "value": "理财产品"
+    },
+    {
+      "name": "view_bills",
+      "value": "查账单"
+    },
+    {
+      "name": "branch_information",
+      "value": "网点信息"
+    },
+    {
+      "name": "wealth_no_1",
+      "value": "理财1号"
+    },
+    {
+      "name": "investment_calendar",
+      "value": "投资日历"
+    },
+    {
+      "name": "pension",
+      "value": "养老金"
+    },
+    {
+      "name": "life_payments",
+      "value": "生活缴费"
+    },
+    {
+      "name": "deposit_products",
+      "value": "存款产品"
+    },
+    {
+      "name": "loans",
+      "value": "贷款"
+    },
+    {
+      "name": "make_repayment",
+      "value": "去还款"
+    },
+    {
+      "name": "account_application",
+      "value": "账户申请"
+    },
+    {
+      "name": "announcements",
+      "value": "公告"
+    },
+    {
+      "name": "income_expense_ledger",
+      "value": "收支账本"
+    },
+    {
+      "name": "community",
+      "value": "社区"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "financial_detail_follow",
+      "value": "关注"
+    },
+    {
+      "name": "financial_detail_buy",
+      "value": "购买"
+    },
+    {
+      "name": "financial_detail_title",
+      "value": "理财产品"
+    },
+    {
+      "name": "financial_detail_product_name",
+      "value": "理财一号财富通月赎开放式产品A"
+    },
+    {
+      "name": "financial_detail_sheet_confirm",
+      "value": "确定"
+    }
+  ]
+}

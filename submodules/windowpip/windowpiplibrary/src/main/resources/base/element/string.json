@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "auto",
+      "value": "Automatically Start PiP"
+    },
+    {
+      "name": "current_status",
+      "value": "Current Status"
+    },
+    {
+      "name": "current_error",
+      "value": "Current Error"
+    },
+    {
+      "name": "current_action",
+      "value": "Current Action"
+    },
+    {
+      "name": "callback_message",
+      "value": "Callback Message"
+    },
+    {
+      "name": "current_error_hint",
+      "value": "Without"
+    },
+    {
+      "name": "notsupport",
+      "value": "PC Does Not Support Picture-in-picture"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "routerMap": [
+    {
+      "name": "MailBox",
+      "pageSourceFile": "src/main/ets/view/MailBoxView.ets",
+      "buildFunction": "MailBoxBuilder",
+      "data": {
+        "description": "this is MailBox"
+      }
+    },
+    {
+      "name": "PhotoAlbum",
+      "pageSourceFile": "src/main/ets/view/PhotoAlbumView.ets",
+      "buildFunction": "PhotoAlbumBuilder",
+      "data": {
+        "description": "this is PhotoAlbum"
+      }
+    },
+    {
+      "name": "Settings",
+      "pageSourceFile": "src/main/ets/view/SettingsView.ets",
+      "buildFunction": "SettingsBuilder",
+      "data": {
+        "description": "this is Settings"
+      }
+    }
+  ]
+}

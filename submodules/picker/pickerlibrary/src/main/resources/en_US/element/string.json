@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "last_open",
+      "value": "Selecting and View Files"
+    },
+    {
+      "name": "editable",
+      "value": "Editable"
+    },
+    {
+      "name": "saved",
+      "value": "Saved"
+    },
+    {
+      "name": "show_toast_message",
+      "value": "Save failed, file operation without permission."
+    },
+    {
+      "name": "new_file",
+      "value": "New File"
+    },
+    {
+      "name": "picture",
+      "value": "Selecting and View Media Files"
+    },
+    {
+      "name": "edit_file",
+      "value": "Selecting and View Files"
+    }
+  ]
+}

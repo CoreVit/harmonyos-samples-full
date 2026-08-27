@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "PcAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "PcAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "friend_title",
+      "value": "Friend"
+    },
+    {
+      "name": "add_title",
+      "value": "Add"
+    },
+    {
+      "name": "message_title",
+      "value": "Message"
+    },
+    {
+      "name": "follow_title",
+      "value": "Follow"
+    },
+    {
+      "name": "recommend_title",
+      "value": "Recommend"
+    },
+    {
+      "name": "mine_title",
+      "value": "Mine"
+    }
+  ]
+}

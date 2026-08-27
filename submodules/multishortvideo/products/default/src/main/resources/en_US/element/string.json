@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "DefaultAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "DefaultAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "friend_title",
+      "value": "Friend"
+    },
+    {
+      "name": "add_title",
+      "value": "Add"
+    },
+    {
+      "name": "message_title",
+      "value": "Message"
+    },
+    {
+      "name": "home_title",
+      "value": "Home"
+    },
+    {
+      "name": "mine_title",
+      "value": "我的"
+    },
+    {
+      "name": "purchase_title",
+      "value": "Purchase"
+    },
+    {
+      "name": "live_title",
+      "value": "Live"
+    },
+    {
+      "name": "follow_title",
+      "value": "Follow"
+    },
+    {
+      "name": "mall_title",
+      "value": "Mall"
+    },
+    {
+      "name": "recommend_title",
+      "value": "Recommend"
+    }
+  ]
+}

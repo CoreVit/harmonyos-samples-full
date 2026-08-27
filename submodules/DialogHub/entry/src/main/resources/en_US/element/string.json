@@ -1,0 +1,420 @@
+{
+  "string": [
+    {
+      "name": "DialogHubDialogExamples",
+      "value": "DialogHub Dialog Examples"
+    },
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DialogHubSample"
+    },
+    {
+      "name": "CommonDialogExamples",
+      "value": "Common Dialog Examples"
+    },
+    {
+      "name": "OperableDialogExamples",
+      "value": "Dialog-Page/User Interactive Examples"
+    },
+    {
+      "name": "ReusableDialogExamples",
+      "value": "Dialog Reuse Examples"
+    },
+    {
+      "name": "MultipleDialogExamples",
+      "value": "Multiple Dialog Examples"
+    },
+    {
+      "name": "ModelDialog",
+      "value": "Model Dialog"
+    },
+    {
+      "name": "ModelessDialog",
+      "value": "Modeless dialog"
+    },
+    {
+      "name": "Tooltip_with_duration",
+      "value": "Tooltip with duration"
+    },
+    {
+      "name": "Click_to_move",
+      "value": "Click to move"
+    },
+    {
+      "name": "Popup_specified_location",
+      "value": "Popup at location"
+    },
+    {
+      "name": "Popup_disappears_intervals",
+      "value": "Popup with timer"
+    },
+    {
+      "name": "Avoid_keyboard_dialog",
+      "value": "Popup avoids keyboard"
+    },
+    {
+      "name": "Arrow_pointing_dialog",
+      "value": "Popup with arrow"
+    },
+    {
+      "name": "Mask_automatically_close_dialog",
+      "value": "Popup closes on mask click"
+    },
+    {
+      "name": "Actively_close_dialog",
+      "value": "Popup can be closed"
+    },
+    {
+      "name": "Adjust_height_dialog",
+      "value": "Popup adjusts height"
+    },
+    {
+      "name": "Perceive_status_dialog",
+      "value": "Popup status tracking"
+    },
+    {
+      "name": "Snackbar_builder_title",
+      "value": "Single-line snackbar with action"
+    },
+    {
+      "name": "Login_my_account",
+      "value": "Login to account"
+    },
+    {
+      "name": "Login",
+      "value": "Login"
+    },
+    {
+      "name": "Sheet_builder_placeholder_phone",
+      "value": "PhoneNumber/Email/Username"
+    },
+    {
+      "name": "Sheet_builder_placeholder_password",
+      "value": "Password"
+    },
+    {
+      "name": "Input_builder_placeholder",
+      "value": "Write comment"
+    },
+    {
+      "name": "Image_popup_builder_title",
+      "value": "AAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+      "name": "Auto_dismiss_builder_title",
+      "value": "You have a Newcomer Benefits"
+    },
+    {
+      "name": "Auto_dismiss_builder_content",
+      "value": "Huawei Store"
+    },
+    {
+      "name": "Auto_dismiss_builder_desc",
+      "value": "HUAWEI Mate 60 12GB+1TB Blue"
+    },
+    {
+      "name": "Auto_dismiss_builder_content_rmb",
+      "value": "￥"
+    },
+    {
+      "name": "Auto_dismiss_builder_content_price",
+      "value": "XXXX"
+    },
+    {
+      "name": "Auto_dismiss_builder_content_more",
+      "value": "Huawei Store More "
+    },
+    {
+      "name": "Not_interested",
+      "value": "Not interested"
+    },
+    {
+      "name": "Find_out_more",
+      "value": "Learn more"
+    },
+    {
+      "name": "DialogStateOpen",
+      "value": "DialogState: Open"
+    },
+    {
+      "name": "DialogStateClose",
+      "value": "DialogState: Close"
+    },
+    {
+      "name": "Dialog_A",
+      "value": "Dialog A"
+    },
+    {
+      "name": "Suppression_tips",
+      "value": "Dialog B can not popup when dialog A exist"
+    },
+    {
+      "name": "Dialog_D",
+      "value": "Dialog D"
+    },
+    {
+      "name": "Dialog_E",
+      "value": "Dialog E"
+    },
+    {
+      "name": "Dialog_F",
+      "value": "Dialog F of level is 10"
+    },
+    {
+      "name": "Dialog_G",
+      "value": "Top level Dialog G(old)"
+    },
+    {
+      "name": "Dialog_H",
+      "value": "Top level Dialog H(new)"
+    },
+    {
+      "name": "Shut_down",
+      "value": "Shut down"
+    },
+    {
+      "name": "currentlyAllocatedPage",
+      "value": "CurrentlyAllocated: BackPress on Page"
+    },
+    {
+      "name": "currentlyAllocatedDialog",
+      "value": "CurrentlyAllocated: BackPress on Dialog"
+    },
+    {
+      "name": "numbersOfDialogInCurrentPage",
+      "value": "numbersOfDialogInCurrentPage: "
+    },
+    {
+      "name": "break_on_page",
+      "value": "Back on Page"
+    },
+    {
+      "name": "break_on_dialog",
+      "value": "Back on popup"
+    },
+    {
+      "name": "tagName",
+      "value": "TagName:"
+    },
+    {
+      "name": "SHOW_SIMPLE_DIALOG_1",
+      "value": "Show popup 1"
+    },
+    {
+      "name": "SHOW_SIMPLE_DIALOG_2",
+      "value": "Show popup 2"
+    },
+    {
+      "name": "SHOW_SIMPLE_DIALOG_3",
+      "value": "Show BackPress useless Dialog 3"
+    },
+    {
+      "name": "passThroughGestureDialog",
+      "value": "passThroughGestureDialog"
+    },
+    {
+      "name": "dialog_interacts_with_page",
+      "value": "interact-with-page Dialog"
+    },
+    {
+      "name": "ReturnDataDialog",
+      "value": "return-data Dialog"
+    },
+    {
+      "name": "DialogWithPage",
+      "value": "DialogWithPage"
+    },
+    {
+      "name": "SkipRouter",
+      "value": "Dialog contains links(Router)"
+    },
+    {
+      "name": "SkipNavigation",
+      "value": "Dialog contains links(Navigation)"
+    },
+    {
+      "name": "DifferentPositionShow",
+      "value": "(wide screen)Dialog shows on split-screen"
+    },
+    {
+      "name": "LeftDialog",
+      "value": "(left screen)Dialog shows on split-screen"
+    },
+    {
+      "name": "RightDialog",
+      "value": "(right screen)Dialog shows on split-screen"
+    },
+    {
+      "name": "IconToastBuilderText",
+      "value": "success tips"
+    },
+    {
+      "name": "FatherPageUpdateDialogContent",
+      "value": "Content refreshable Dialog"
+    },
+    {
+      "name": "createNewDialog",
+      "value": "Create Dialog"
+    },
+    {
+      "name": "inputNameForDialog",
+      "value": "Input name"
+    },
+    {
+      "name": "pleaseInput",
+      "value": "Typing..."
+    },
+    {
+      "name": "SkipBuilderText_1",
+      "value": "XX service"
+    },
+    {
+      "name": "SkipBuilderText_2",
+      "value": "\"XX\"is XXXXXXXXXXX."
+    },
+    {
+      "name": "SkipBuilderSpan_1",
+      "value": "some comment..."
+    },
+    {
+      "name": "SkipBuilderSpan_2",
+      "value": "Statement on Business and Privacy"
+    },
+    {
+      "name": "SkipBuilderSpan_3",
+      "value": "Please carefully read the above statement and click 'agree' which means you are aware of and agree to our provision of this application service to you"
+    },
+    {
+      "name": "PlainText",
+      "value": "Plain Text"
+    },
+    {
+      "name": "TimedPopup",
+      "value": "Timed Popup"
+    },
+    {
+      "name": "SecondsClose",
+      "value": "seconds close"
+    },
+    {
+      "name": "LogOut",
+      "value": "Logout"
+    },
+    {
+      "name": "LogOutTips",
+      "value": "Are you sure to logout?"
+    },
+    {
+      "name": "Cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "Exit",
+      "value": "Exit"
+    },
+    {
+      "name": "Dialog1",
+      "value": "Dialog1"
+    },
+    {
+      "name": "Dialog2",
+      "value": "Dialog2"
+    },
+    {
+      "name": "Dialog3",
+      "value": "Dialog3"
+    },
+    {
+      "name": "CloseAllDialog",
+      "value": "close all dialog"
+    },
+    {
+      "name": "Open",
+      "value": "Open"
+    },
+    {
+      "name": "NoResponseToBackGesture",
+      "value": "NoResponseToBackGesture"
+    },
+    {
+      "name": "Dialog",
+      "value": "Dialog"
+    },
+    {
+      "name": "passThroughDialog",
+      "value": "passThroughDialog"
+    },
+    {
+      "name": "Uploading",
+      "value": "Uploading"
+    },
+    {
+      "name": "Agree",
+      "value": "Agree"
+    },
+    {
+      "name": "Save",
+      "value": "Save"
+    },
+    {
+      "name": "PopoutByCustomDialogTemplate",
+      "value": "PopoutByCustomDialogTemplate"
+    },
+    {
+      "name": "PopupBySameObject",
+      "value": "PopupBySameObject"
+    },
+    {
+      "name": "CreateDialogTemplate",
+      "value": "Create dialog template"
+    },
+    {
+      "name": "DeleteDialogTemplate",
+      "value": "Delete dialog template"
+    },
+    {
+      "name": "ModifyDialogTemplateRandomBackgroundColor",
+      "value": "Set dialog template random backgroundColor"
+    },
+    {
+      "name": "PopupDialogTemplate",
+      "value": "Popup dialog template"
+    },
+    {
+      "name": "PopupWithAnimation",
+      "value": "Popup with animation"
+    },
+    {
+      "name": "PopupWithSpecifiedPosition",
+      "value": "Popup with specified position"
+    },
+    {
+      "name": "NewDialogSuppressedByExistDialog",
+      "value": "New dialog suppressed by exist dialog"
+    },
+    {
+      "name": "ControlLevelMutualCoverage",
+      "value": "Control level mutual coverage"
+    },
+    {
+      "name": "PopupDialogCWhenNotExistDialog",
+      "value": "Popup dialog C when not exist dialog"
+    },
+    {
+      "name": "PopupFailed",
+      "value": "Popup failed"
+    },
+    {
+      "name": "CloseCurrentPageAllDialog",
+      "value": "Close current page all dialog"
+    }
+  ]
+}

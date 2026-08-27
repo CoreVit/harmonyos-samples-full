@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/pickerlibrary",
+  "version": "1.0.0",
+  "description": "This sample shows how to use the APIs provided by @ohos.file.picker, @ohos.file.photoAccessHelper and @ohos.file.fs to select and save documents, select and view photos in the system album, and select and play videos.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/picker/tree/br_release_hmos",
+  "dependencies": {}
+}

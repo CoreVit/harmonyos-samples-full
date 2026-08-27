@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "PcAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "PcAbility_label",
+      "value": "MultiStockCategoryApp"
+    },
+    {
+      "name": "tab_app_name",
+      "value": "MultiTicket"
+    }
+  ]
+}

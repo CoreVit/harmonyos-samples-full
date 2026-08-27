@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "play_list",
+      "value": "play list(%d)"
+    },
+    {
+      "name": "sequential_playback",
+      "value": "Sequential playback"
+    },
+    {
+      "name": "single_playback",
+      "value": "Single playback"
+    },
+    {
+      "name": "random_playback",
+      "value": "Random playback"
+    },
+    {
+      "name": "lyrics",
+      "value": "lyrics"
+    },
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "reason_background",
+      "value": "Allow applications to run in the background of music player scenes."
+    }
+  ]
+}

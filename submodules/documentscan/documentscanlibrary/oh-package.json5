@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/documentscanlibrary",
+  "version": "1.0.0",
+  "description": "This sample code illustrates how to use the document scanning capability among the visual AI capabilities.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/visionkit-sample-code-document-scan-demo-ark-ts/tree/br_release_hmos/",
+  "dependencies": {}
+}

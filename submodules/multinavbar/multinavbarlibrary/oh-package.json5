@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/multinavbarlibrary",
+  "version": "1.0.0",
+  "description": "This sample shows the style of the navigation component in different device forms.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/multi-nav-bar/tree/br_release_hmos/",
+  "dependencies": {}
+}

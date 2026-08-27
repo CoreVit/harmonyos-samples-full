@@ -1,0 +1,49 @@
+{
+  "routerMap": [
+    {
+      "name": "ImageDrag",
+      "pageSourceFile": "src/main/ets/component/image/Image.ets",
+      "buildFunction": "PageImageBuilder"
+    },
+    {
+      "name": "HyperLinkDrag",
+      "pageSourceFile": "src/main/ets/component/hyperlink/HyperLink.ets",
+      "buildFunction": "PageHyperLinkBuilder"
+    },
+    {
+      "name": "RichEditorDrag",
+      "pageSourceFile": "src/main/ets/component/richEditor/RichEditor.ets",
+      "buildFunction": "PageRichEditorBuilder"
+    },
+    {
+      "name": "TextInputDrag",
+      "pageSourceFile": "src/main/ets/component/textInput/TextInput.ets",
+      "buildFunction": "PageTextInputBuilder"
+    },
+    {
+      "name": "TextAreaDrag",
+      "pageSourceFile": "src/main/ets/component/textarea/TextArea.ets",
+      "buildFunction": "PageTextAreaBuilder"
+    },
+    {
+      "name": "ListDrag",
+      "pageSourceFile": "src/main/ets/component/list/List.ets",
+      "buildFunction": "PageListBuilder"
+    },
+    {
+      "name": "BackgroundCustomization",
+      "pageSourceFile": "src/main/ets/component/background/Background.ets",
+      "buildFunction": "PageBackgroundBuilder"
+    },
+    {
+      "name": "WatermarkAdded",
+      "pageSourceFile": "src/main/ets/component/watermark/Watermark.ets",
+      "buildFunction": "PageWatermarkBuilder"
+    },
+    {
+      "name": "AIRecognition",
+      "pageSourceFile": "src/main/ets/component/aiRecognition/AIRecognition.ets",
+      "buildFunction": "PageAIRecognitionBuilder"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@stock/stockdetail",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@stock/base": "file:../../commons/base",
+    "@stock/stockdeal": "file:../../features/stockdeal"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/multicolumnslibrary",
+  "version": "1.0.0",
+  "description": "This sample shows the responsive change effect of the multi-column control in various scenarios.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/multi-columns/tree/br_release_hmos/",
+  "dependencies": {}
+}

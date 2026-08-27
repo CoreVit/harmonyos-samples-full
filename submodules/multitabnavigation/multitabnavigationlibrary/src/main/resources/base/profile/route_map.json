@@ -1,0 +1,92 @@
+{
+  "routerMap": [
+    {
+      "name": "BackgroundLightTab",
+      "pageSourceFile": "src/main/ets/component/BackgroundLightTab.ets",
+      "buildFunction": "BackgroundLightTabBuilder",
+      "data": {
+        "description": "this is BackgroundLightTab"
+      }
+    },
+    {
+      "name": "BottomTab",
+      "pageSourceFile": "src/main/ets/component/BottomTab.ets",
+      "buildFunction": "BottomTabBuilder",
+      "data": {
+        "description": "this is BottomTab"
+      }
+    },
+    {
+      "name": "DoubleNestingTabOne",
+      "pageSourceFile": "src/main/ets/component/DoubleNestingTabOne.ets",
+      "buildFunction": "DoubleNestingTabOneBuilder",
+      "data": {
+        "description": "this is DoubleNestingTabOne"
+      }
+    },
+    {
+      "name": "DoubleNestingTabTwo",
+      "pageSourceFile": "src/main/ets/component/DoubleNestingTabTwo.ets",
+      "buildFunction": "DoubleNestingTabTwoBuilder",
+      "data": {
+        "description": "this is DoubleNestingTabTwo"
+      }
+    },
+    {
+      "name": "DrawerTab",
+      "pageSourceFile": "src/main/ets/component/DrawerTab.ets",
+      "buildFunction": "DrawerTabBuilder",
+      "data": {
+        "description": "this is DrawerTab"
+      }
+    },
+    {
+      "name": "LeftTab",
+      "pageSourceFile": "src/main/ets/component/LeftTab.ets",
+      "buildFunction": "LeftTabBuilder",
+      "data": {
+        "description": "this is LeftTab"
+      }
+    },
+    {
+      "name": "RudderStyleTab",
+      "pageSourceFile": "src/main/ets/component/RudderStyleTab.ets",
+      "buildFunction": "RudderStyleTabBuilder",
+      "data": {
+        "description": "this is RudderStyleTab"
+      }
+    },
+    {
+      "name": "SideTab",
+      "pageSourceFile": "src/main/ets/component/SideTab.ets",
+      "buildFunction": "SideTabBuilder",
+      "data": {
+        "description": "this is SideTab"
+      }
+    },
+    {
+      "name": "SlideAndMoreTab",
+      "pageSourceFile": "src/main/ets/component/SlideAndMoreTab.ets",
+      "buildFunction": "SlideAndMoreTabBuilder",
+      "data": {
+        "description": "this is SlideAndMoreTab"
+      }
+    },
+    {
+      "name": "UnderlineTab",
+      "pageSourceFile": "src/main/ets/component/UnderlineTab.ets",
+      "buildFunction": "UnderlineTabBuilder",
+      "data": {
+        "description": "this is UnderlineTab"
+      }
+    },
+    {
+      "name": "WordTab",
+      "pageSourceFile": "src/main/ets/component/WordTab.ets",
+      "buildFunction": "WordTabBuilder",
+      "data": {
+        "description": "this is WordTab"
+      }
+    }
+  ]
+}

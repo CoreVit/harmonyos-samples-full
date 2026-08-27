@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/verificationcodescenariolibrary",
+  "version": "1.0.0",
+  "description": "This sample describes five verification code scenarios: displaying the cursor in the text box, adding a horizontal bar at the bottom, changing the background color, selecting a verification code, and sliding a verification code.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/verification-code-scenario/tree/br_release_hmos/",
+  "dependencies": {}
+}

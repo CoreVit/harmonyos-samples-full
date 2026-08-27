@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "DefaultAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "DefaultAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "friend_title",
+      "value": "朋友"
+    },
+    {
+      "name": "add_title",
+      "value": "投稿"
+    },
+    {
+      "name": "message_title",
+      "value": "消息"
+    },
+    {
+      "name": "home_title",
+      "value": "首页"
+    },
+    {
+      "name": "mine_title",
+      "value": "我的"
+    },
+    {
+      "name": "purchase_title",
+      "value": "团购"
+    },
+    {
+      "name": "live_title",
+      "value": "直播"
+    },
+    {
+      "name": "follow_title",
+      "value": "关注"
+    },
+    {
+      "name": "mall_title",
+      "value": "商城"
+    },
+    {
+      "name": "recommend_title",
+      "value": "推荐"
+    }
+  ]
+}

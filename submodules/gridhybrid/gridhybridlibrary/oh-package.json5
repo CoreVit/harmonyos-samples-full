@@ -1,0 +1,10 @@
+{
+  "name": "@ohos_samples/gridhybridlibrary",
+  "version": "1.0.0",
+  "description": "This sample implements the nested hybrid layout of the Grid, List, and Swiper components.",
+  "main": "Index.ets",
+  "author": "@ohos_samples",
+  "license": "Apache-2.0",
+  "repository": "https://gitee.com/harmonyos_samples/grid-hybrid/tree/br_release_hmos/",
+  "dependencies": {}
+}

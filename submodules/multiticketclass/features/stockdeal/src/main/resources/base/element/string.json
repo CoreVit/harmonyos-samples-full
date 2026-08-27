@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "regular_way",
+      "value": "Regular Way"
+    },
+    {
+      "name": "Stock_name_code",
+      "value": "Company 3****3"
+    },
+    {
+      "name": "shareholder_account",
+      "value": "Account: 500****5"
+    },
+    {
+      "name": "price",
+      "value": "Price"
+    },
+    {
+      "name": "limit_down",
+      "value": "Limit Down  "
+    },
+    {
+      "name": "raising_limit",
+      "value": "  Raising Limit  "
+    },
+    {
+      "name": "quantity",
+      "value": "Quantity"
+    },
+    {
+      "name": "already_held",
+      "value": "Already Held"
+    },
+    {
+      "name": "stock",
+      "value": "stock"
+    },
+    {
+      "name": "buy_able",
+      "value": "BuyAble"
+    },
+    {
+      "name": "buy",
+      "value": "Buy"
+    },
+    {
+      "name": "market_conditions",
+      "value": "Market Conditions"
+    },
+    {
+      "name": "transaction_details",
+      "value": "Transaction Details"
+    },
+    {
+      "name": "sell",
+      "value": "Sell"
+    },
+    {
+      "name": "text_buy",
+      "value": "Buy"
+    },
+    {
+      "name": "order_quantity",
+      "value": "Order quantity"
+    },
+    {
+      "name": "confirm_purchase",
+      "value": "Confirm Purchase"
+    },
+    {
+      "name": "commissioned_price",
+      "value": "Commissioned Price"
+    }
+  ]
+}

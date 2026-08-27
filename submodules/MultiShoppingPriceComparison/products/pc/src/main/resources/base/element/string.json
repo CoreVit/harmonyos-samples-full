@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "PcAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "PcAbility_label",
+      "value": "购物比价"
+    },
+    {
+      "name": "LIVE_PAGE_BUY_NOW",
+      "value": "立即购买"
+    },
+    {
+      "name": "PC_NAV_TITLE",
+      "value": "电商购物"
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "string": [
+    {
+      "name": "eighty_percent",
+      "value": "80%"
+    },
+    {
+      "name": "trip_content",
+      "value": "去北京..."
+    },
+    {
+      "name": "trip_schedule1",
+      "value": "【会议通知】采购、销售等团队会议例会串讲"
+    },
+    {
+      "name": "trip_schedule2",
+      "value": "周例会全员参加"
+    },
+    {
+      "name": "trip_schedule3",
+      "value": "年度销售额提升例会"
+    },
+    {
+      "name": "trip_schedule4",
+      "value": "月度工作总结与计划"
+    },
+    {
+      "name": "trip_schedule5",
+      "value": "团队协作提升"
+    },
+    {
+      "name": "notes_schedule1",
+      "value": "2023 UI设计趋势"
+    },
+    {
+      "name": "notes_schedule2",
+      "value": "一小时前"
+    },
+    {
+      "name": "notes_schedule3",
+      "value": "熟悉的图像会自动给人一..."
+    },
+    {
+      "name": "notes_schedule4",
+      "value": "UX会议纪要"
+    },
+    {
+      "name": "notes_schedule5",
+      "value": "已锁定"
+    },
+    {
+      "name": "notes_schedule6",
+      "value": "有些地方只有你去了才能真正..."
+    },
+    {
+      "name": "notes_schedule7",
+      "value": "购物清单"
+    },
+    {
+      "name": "notes_schedule8",
+      "value": "9月5日"
+    },
+    {
+      "name": "notes_schedule9",
+      "value": "扫地机器人"
+    },
+    {
+      "name": "notes_schedule10",
+      "value": "9月3日"
+    },
+    {
+      "name": "year",
+      "value": "年"
+    },
+    {
+      "name": "month",
+      "value": "月"
+    },
+    {
+      "name": "week",
+      "value": "周"
+    },
+    {
+      "name": "day",
+      "value": "日"
+    },
+    {
+      "name": "title_list0",
+      "value": "备忘录"
+    },
+    {
+      "name": "title_list1",
+      "value": "日历"
+    },
+    {
+      "name": "entrances0",
+      "value": "一多商务办公入口"
+    },
+    {
+      "name": "entrances1",
+      "value": "一键进入，高效办公"
+    },
+    {
+      "name": "notes_list0",
+      "value": "全部备忘"
+    },
+    {
+      "name": "notes_list1",
+      "value": "18条备忘"
+    },
+    {
+      "name": "notes_list2",
+      "value": "搜索..."
+    },
+    {
+      "name": "notes_list3",
+      "value": "今天"
+    },
+    {
+      "name": "notes_list4",
+      "value": "上月"
+    },
+    {
+      "name": "notes_content0",
+      "value": "分享"
+    },
+    {
+      "name": "notes_content1",
+      "value": "收藏"
+    },
+    {
+      "name": "notes_content2",
+      "value": "刪除"
+    },
+    {
+      "name": "notes_content3",
+      "value": "更多"
+    },
+    {
+      "name": "trip_schedule_view0",
+      "value": "今天"
+    },
+    {
+      "name": "trip_schedule_view3",
+      "value": "九月"
+    },
+    {
+      "name": "week_message0",
+      "value": "日"
+    },
+    {
+      "name": "week_message1",
+      "value": "一"
+    },
+    {
+      "name": "week_message2",
+      "value": "二"
+    },
+    {
+      "name": "week_message3",
+      "value": "三"
+    },
+    {
+      "name": "week_message4",
+      "value": "四"
+    },
+    {
+      "name": "week_message5",
+      "value": "五"
+    },
+    {
+      "name": "week_message6",
+      "value": "六"
+    },
+    {
+      "name": "calendar_side_bar_text0",
+      "value": "日历"
+    },
+    {
+      "name": "calendar_side_bar_text1",
+      "value": "日历账户"
+    },
+    {
+      "name": "calendar_side_bar_text2",
+      "value": "添加"
+    },
+    {
+      "name": "calendar_side_bar_text3",
+      "value": "华为账号"
+    },
+    {
+      "name": "calendar_side_bar_text4",
+      "value": "我的日历"
+    },
+    {
+      "name": "calendar_side_bar_text5",
+      "value": "中国大陆节假日"
+    },
+    {
+      "name": "calendar_side_bar_text6",
+      "value": "Welink"
+    },
+    {
+      "name": "calendar_side_bar_text7",
+      "value": "0012345678..."
+    },
+    {
+      "name": "calendar_side_bar_text8",
+      "value": "订阅服务"
+    },
+    {
+      "name": "calendar_side_bar_text9",
+      "value": "管理"
+    },
+    {
+      "name": "calendar_side_bar_text10",
+      "value": "黄历"
+    },
+    {
+      "name": "calendar_side_bar_text11",
+      "value": "星座"
+    },
+    {
+      "name": "calendar_side_bar_text12",
+      "value": "消息中心"
+    },
+    {
+      "name": "calendar_side_bar_text13",
+      "value": "未读"
+    },
+    {
+      "name": "calendar_side_bar_text14",
+      "value": "已读"
+    },
+    {
+      "name": "notes_side_bar_text0",
+      "value": "备忘录"
+    },
+    {
+      "name": "notes_side_bar_text1",
+      "value": "备忘"
+    },
+    {
+      "name": "notes_side_bar_text2",
+      "value": "文件夹"
+    },
+    {
+      "name": "notes_side_bar_text3",
+      "value": "编辑"
+    },
+    {
+      "name": "notes_side_bar_text4",
+      "value": "添加文件夹"
+    },
+    {
+      "name": "memo_list0",
+      "value": "全部备忘"
+    },
+    {
+      "name": "memo_list1",
+      "value": "收藏"
+    },
+    {
+      "name": "memo_list2",
+      "value": "加锁"
+    },
+    {
+      "name": "memo_list3",
+      "value": "最近删除"
+    },
+    {
+      "name": "folder_list0",
+      "value": "默认"
+    },
+    {
+      "name": "folder_list1",
+      "value": "个人"
+    },
+    {
+      "name": "folder_list2",
+      "value": "工作"
+    },
+    {
+      "name": "folder_list3",
+      "value": "旅游"
+    },
+    {
+      "name": "folder_list4",
+      "value": "生活"
+    }
+  ]
+}

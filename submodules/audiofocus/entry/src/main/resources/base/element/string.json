@@ -1,0 +1,224 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AudioFocusDemo"
+    },
+    {
+      "name": "audio_demo_title",
+      "value": "AudioFocusDemo"
+    },
+    {
+      "name": "video_scene_button",
+      "value": "video scene"
+    },
+    {
+      "name": "short_video_scene_button",
+      "value": "short video scene"
+    },
+    {
+      "name": "embedded_short_video_scene",
+      "value": "embedded short video scene"
+    },
+    {
+      "name": "audio_scene_button",
+      "value": "audio scene"
+    },
+    {
+      "name": "voip_chart_button",
+      "value": "voip chart"
+    },
+    {
+      "name": "sound_pool_button",
+      "value": "Short audio playback"
+    },
+    {
+      "name": "dialog_play_speed",
+      "value": "dialog_play_speed"
+    },
+    {
+      "name": "video_speed_1_0X",
+      "value": "1.0X"
+    },
+    {
+      "name": "video_speed_1_25X",
+      "value": "1.25X"
+    },
+    {
+      "name": "video_speed_1_75X",
+      "value": "1.75X"
+    },
+    {
+      "name": "video_speed_2_0X",
+      "value": "2.0X"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "dialog_cancel"
+    },
+    {
+      "name": "pip_start",
+      "value": "Auto start picture in picture"
+    },
+    {
+      "name": "more",
+      "value": "more"
+    },
+    {
+      "name": "Chinese",
+      "value": "Chinese"
+    },
+    {
+      "name": "English",
+      "value": "English"
+    },
+    {
+      "name": "language_switch",
+      "value": "Language switch"
+    },
+    {
+      "name": "title",
+      "value": "Keep the passion"
+    },
+    {
+      "name": "info_detail",
+      "value": "Getting close to the sea, understanding the sea, the sea naturally resonates with you."
+    },
+    {
+      "name": "user_name",
+      "value": "Photography enthusiast"
+    },
+    {
+      "name": "currentCaption",
+      "value": "Trigger seasonal sound effects"
+    },
+    {
+      "name": "comment1",
+      "value": "Very good"
+    },
+    {
+      "name": "comment2",
+      "value": "Wonderful"
+    },
+    {
+      "name": "comment3",
+      "value": "One more please"
+    },
+    {
+      "name": "previousFrame",
+      "value": "previous frame"
+    },
+    {
+      "name": "nextFrame",
+      "value": "next frame"
+    },
+    {
+      "name": "placeholder",
+      "value": "click to send comment"
+    },
+    {
+      "name": "HarmonyOS_Condensed",
+      "value": "Condensed"
+    },
+    {
+      "name": "caption_title",
+      "value": "Subtitle settings"
+    },
+    {
+      "name": "video_scale_fit",
+      "value": "FIT"
+    },
+    {
+      "name": "video_scale_fit_crop",
+      "value": "FIT_CROP"
+    },
+    {
+      "name": "dialog_play_scale",
+      "value": "window scale mode"
+    },
+    {
+      "name": "caption_color",
+      "value": "font color"
+    },
+    {
+      "name": "caption_size",
+      "value": "font size"
+    },
+    {
+      "name": "caption_family",
+      "value": "font family"
+    },
+    {
+      "name": "mute_playback",
+      "value": "Mute playback"
+    },
+    {
+      "name": "audio_render_mute_playback",
+      "value": "audio render mute playback"
+    },
+    {
+      "name": "av_player_mute_playback",
+      "value": "av player mute playback"
+    },
+    {
+      "name": "multi_audio_stream_play_scene",
+      "value": "Multi audio stream play scene"
+    },
+    {
+      "name": "focus_mode_share",
+      "value": "Focus Sharing mode"
+    },
+    {
+      "name": "focus_mode_independent",
+      "value": "Focus Independent mode"
+    },
+    {
+      "name": "call",
+      "value": "Call"
+    },
+    {
+      "name": "on_the_phone",
+      "value": "On the phone"
+    },
+    {
+      "name": "dialing",
+      "value": "Dialing"
+    },
+    {
+      "name": "the_call_is_over",
+      "value": "The call is over"
+    },
+    {
+      "name": "activate_the_incoming_call_scene",
+      "value": "Activate the incoming call scene"
+    },
+    {
+      "name": "play",
+      "value": "Play"
+    },
+    {
+      "name": "text_message",
+      "value": "Text message"
+    },
+    {
+      "name": "remind",
+      "value": "Remind"
+    },
+    {
+      "name": "mic_permission",
+      "value": "Used in calling scenarios"
+    },
+    {
+      "name": "background_permission",
+      "value": "Used in the scenario where a background task is applied for and executed"
+    }
+  ]
+}

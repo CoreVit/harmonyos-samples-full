@@ -1,0 +1,236 @@
+{
+  "string": [
+    {
+      "name": "hei_ti_medium",
+      "value": "HarmonyHeiTi-Medium"
+    },
+    {
+      "name": "hei_ti",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "message",
+      "value": "message"
+    },
+    {
+      "name": "people",
+      "value": "contact"
+    },
+    {
+      "name": "activity",
+      "value": "dynamic"
+    },
+    {
+      "name": "list_name",
+      "value": "Options"
+    },
+    {
+      "name": "add_list",
+      "value": "Add list"
+    },
+    {
+      "name": "content",
+      "value": "Content area"
+    },
+    {
+      "name": "title",
+      "value": "Navigation UI styles"
+    },
+    {
+      "name": "tab_homepage",
+      "value": "home"
+    },
+    {
+      "name": "tab_mine",
+      "value": "mine"
+    },
+    {
+      "name": "bottom_nav",
+      "value": "Bottom tab"
+    },
+    {
+      "name": "common_bottom_nav",
+      "value": "Common bottom tab"
+    },
+    {
+      "name": "rudder_bottom_nav",
+      "value": "Rudder bottom tab"
+    },
+    {
+      "name": "top_nav",
+      "value": "Top tab"
+    },
+    {
+      "name": "underline_tab",
+      "value": "Underline tab"
+    },
+    {
+      "name": "background_light_tab",
+      "value": "Background light tab"
+    },
+    {
+      "name": "word_tab",
+      "value": "Word tab"
+    },
+    {
+      "name": "double_nesting_tab_one",
+      "value": "Double nesting tab one"
+    },
+    {
+      "name": "double_nesting_tab_two",
+      "value": "Double nesting tab two"
+    },
+    {
+      "name": "slide_and_mor_tab",
+      "value": "Slide and more tab"
+    },
+    {
+      "name": "side_tab",
+      "value": "Side tab"
+    },
+    {
+      "name": "common_side_tab",
+      "value": "Common side tab"
+    },
+    {
+      "name": "drawer_tab",
+      "value": "Drawer tab "
+    },
+    {
+      "name": "making_friends",
+      "value": "Friends"
+    },
+    {
+      "name": "live_broadcast",
+      "value": "Live"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "ceremony",
+      "value": "Ceremony"
+    },
+    {
+      "name": "play",
+      "value": "Play"
+    },
+    {
+      "name": "follow",
+      "value": "Follow"
+    },
+    {
+      "name": "recommended",
+      "value": "Recommend"
+    },
+    {
+      "name": "book",
+      "value": "Book"
+    },
+    {
+      "name": "novel",
+      "value": "Novel"
+    },
+    {
+      "name": "caricature",
+      "value": "Caricature"
+    },
+    {
+      "name": "listen_book",
+      "value": "Listen book"
+    },
+    {
+      "name": "popular_course",
+      "value": "Popular course"
+    },
+    {
+      "name": "latest_courses",
+      "value": "Latest courses"
+    },
+    {
+      "name": "wonderful_activity",
+      "value": "Wonderful activity"
+    },
+    {
+      "name": "developer_said",
+      "value": "Developer said"
+    },
+    {
+      "name": "back_end_development",
+      "value": "Back-end development"
+    },
+    {
+      "name": "front_end_development",
+      "value": "Front-end development"
+    },
+    {
+      "name": "left_tab",
+      "value": "Left Alignment Style"
+    },
+    {
+      "name": "tab",
+      "value": "tab"
+    },
+    {
+      "name": "page",
+      "value": "this is page"
+    },
+    {
+      "name": "page_content",
+      "value": "content"
+    },
+    {
+      "name": "tab1",
+      "value": "tab1"
+    },
+    {
+      "name": "tab2",
+      "value": "tab2"
+    },
+    {
+      "name": "tab3",
+      "value": "tab3"
+    },
+    {
+      "name": "tab4",
+      "value": "tab4"
+    },
+    {
+      "name": "sub1",
+      "value": "sub1"
+    },
+    {
+      "name": "sub2",
+      "value": "sub2"
+    },
+    {
+      "name": "sub3",
+      "value": "sub3"
+    },
+    {
+      "name": "sub4",
+      "value": "sub4"
+    },
+    {
+      "name": "sub5",
+      "value": "sub5"
+    },
+    {
+      "name": "sub6",
+      "value": "sub6"
+    },
+    {
+      "name": "sub7",
+      "value": "sub7"
+    },
+    {
+      "name": "sub8",
+      "value": "sub8"
+    },
+    {
+      "name": "sub9",
+      "value": "sub9"
+    }
+  ]
+}

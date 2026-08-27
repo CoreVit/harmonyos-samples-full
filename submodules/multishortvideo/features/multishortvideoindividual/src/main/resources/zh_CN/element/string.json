@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "channel",
+      "value": "视频号：2382104"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "搜索"
+    },
+    {
+      "name": "likes",
+      "value": "获赞"
+    },
+    {
+      "name": "likes_count",
+      "value": "14"
+    },
+    {
+      "name": "friends",
+      "value": "朋友"
+    },
+    {
+      "name": "friends_count",
+      "value": "22"
+    },
+    {
+      "name": "follow",
+      "value": "关注"
+    },
+    {
+      "name": "follow_count",
+      "value": "385"
+    },
+    {
+      "name": "fans",
+      "value": "粉丝"
+    },
+    {
+      "name": "fans_count",
+      "value": "25"
+    },
+    {
+      "name": "introduction",
+      "value": "点击添加介绍，让大家认识你..."
+    },
+    {
+      "name": "photographer",
+      "value": "摄影师"
+    },
+    {
+      "name": "add_tags",
+      "value": "+添加其他标签"
+    },
+    {
+      "name": "ind_work",
+      "value": "作品"
+    },
+    {
+      "name": "ind_private",
+      "value": "私密"
+    },
+    {
+      "name": "ind_collection",
+      "value": "收藏"
+    },
+    {
+      "name": "ind_like",
+      "value": "喜欢"
+    }
+  ]
+}

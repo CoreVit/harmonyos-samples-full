@@ -1,0 +1,32 @@
+{
+  "float": [
+    {
+      "name": "text_font_size",
+      "value": "20fp"
+    },
+    {
+      "name": "text_font_size_14",
+      "value": "14fp"
+    },
+    {
+      "name": "text_area_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "padding_top_bottom",
+      "value": "8vp"
+    },
+    {
+      "name": "padding_left_right",
+      "value": "16vp"
+    },
+    {
+      "name": "text_height",
+      "value": "28vp"
+    },
+    {
+      "name": "text_height_19",
+      "value": "19vp"
+    }
+  ]
+}

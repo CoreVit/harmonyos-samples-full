@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "LIVE_HEADER_STORE_NAME",
+      "value": "Official Live"
+    },
+    {
+      "name": "LIVE_HEADER_VIEWERS",
+      "value": "738.6K watching"
+    },
+    {
+      "name": "LIVE_COMMENT_PLACEHOLDER",
+      "value": "Say something…"
+    },
+    {
+      "name": "LIVE_OFFICIAL_REVIEW",
+      "value": "Host"
+    },
+    {
+      "name": "LIVE_COMMENTS_LIST1",
+      "value": "HUAWEI Mate 60 Pro launch highlights."
+    },
+    {
+      "name": "LIVE_COMMENTS_LIST2",
+      "value": "Follow for perks & flash deals."
+    },
+    {
+      "name": "LIVE_COMMENTS_LIST3",
+      "value": "Welcome—chat & save live."
+    },
+    {
+      "name": "LIVE_SHOP_NAME_1",
+      "value": "HUAWEI Mate 60 Pro"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_2",
+      "value": "XXXXXXXXXXX"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_3",
+      "value": "XXXXXXXXXXX"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_4",
+      "value": "XXXXXXXXXXX"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_5",
+      "value": "XXXXXXXXXXX"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_6",
+      "value": "XXXXXXXXXXX"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_7",
+      "value": "XXXXXXXXXXX"
+    },
+    {
+      "name": "LIVE_SHOP_NAME_8",
+      "value": "XXXXXXXXXXX"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_1",
+      "value": "¥6999"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_2",
+      "value": "XXXX"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_3",
+      "value": "XXXX"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_4",
+      "value": "XXXX"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_5",
+      "value": "XXXX"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_6",
+      "value": "XXXX"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_7",
+      "value": "XXXX"
+    },
+    {
+      "name": "LIVE_SHOP_PRICE_8",
+      "value": "XXXX"
+    }
+  ]
+}

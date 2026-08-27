@@ -1,0 +1,48 @@
+{
+  "float": [
+    {
+      "name": "row_height",
+      "value": "2vp"
+    },
+    {
+      "name": "row_borderRadius",
+      "value": "2vp"
+    },
+    {
+      "name": "image_width",
+      "value": "40vp"
+    },
+    {
+      "name": "image_height",
+      "value": "40vp"
+    },
+    {
+      "name": "image_borderRadius",
+      "value": "40vp"
+    },
+    {
+      "name": "column_image_margin_top",
+      "value": "80vp"
+    },
+    {
+      "name": "text_font_size",
+      "value": "12vp"
+    },
+    {
+      "name": "text_margin_left",
+      "value": "6vp"
+    },
+    {
+      "name": "text_margin_right",
+      "value": "6vp"
+    },
+    {
+      "name": "row_margin_top",
+      "value": "24vp"
+    },
+    {
+      "name": "description_column_height",
+      "value": "200vp"
+    }
+  ]
+}

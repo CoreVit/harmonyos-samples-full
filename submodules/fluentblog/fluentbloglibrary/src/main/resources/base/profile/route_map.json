@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name": "NewPlayPage",
+      "pageSourceFile": "src/main/ets/component/NewPlayComponent.ets",
+      "buildFunction": "NewPlayPageBuilder"
+    }
+  ]
+}

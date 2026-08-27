@@ -1,0 +1,12 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "search_icon_bg",
+      "value": "#19FFFFFF"
+    }
+  ]
+}

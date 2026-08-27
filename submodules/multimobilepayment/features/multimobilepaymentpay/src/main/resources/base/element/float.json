@@ -1,0 +1,136 @@
+{
+  "float": [
+    {
+      "name": "pixel_size",
+      "value": "165vp"
+    },
+    {
+      "name": "button_text_size",
+      "value": "14vp"
+    },
+    {
+      "name": "divider_height",
+      "value": "20vp"
+    },
+    {
+      "name": "receiptCard_column_space",
+      "value": "16vp"
+    },
+    {
+      "name": "receiptCard_row_space",
+      "value": "8vp"
+    },
+    {
+      "name": "currency_symbol_size",
+      "value": "14vp"
+    },
+    {
+      "name": "currency_icon_size",
+      "value": "24vp"
+    },
+    {
+      "name": "currency_icon_radius",
+      "value": "12vp"
+    },
+    {
+      "name": "subtitle_font_size",
+      "value": "16vp"
+    },
+    {
+      "name": "username_font_size",
+      "value": "18vp"
+    },
+    {
+      "name": "username_margin_top",
+      "value": "10vp"
+    },
+    {
+      "name": "action_bar_height",
+      "value": "44vp"
+    },
+    {
+      "name": "function_item_icon_size",
+      "value": "24vp"
+    },
+    {
+      "name": "function_item_text_size",
+      "value": "16vp"
+    },
+    {
+      "name": "function_item_space",
+      "value": "12vp"
+    },
+    {
+      "name": "function_item_height_sm",
+      "value": "56vp"
+    },
+    {
+      "name": "function_item_height_lg",
+      "value": "48vp"
+    },
+    {
+      "name": "function_item_padding_horizontal",
+      "value": "16vp"
+    },
+    {
+      "name": "function_item_radius",
+      "value": "12vp"
+    },
+    {
+      "name": "function_list_space",
+      "value": "12vp"
+    },
+    {
+      "name": "receipt_card_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "header_button_size",
+      "value": "40vp"
+    },
+    {
+      "name": "header_button_margin",
+      "value": "8vp"
+    },
+    {
+      "name": "header_icon_size",
+      "value": "24vp"
+    },
+    {
+      "name": "header_title_font_size",
+      "value": "20vp"
+    },
+    {
+      "name": "header_height",
+      "value": "56vp"
+    },
+    {
+      "name": "header_padding_horizontal",
+      "value": "16vp"
+    },
+    {
+      "name": "content_padding_horizontal",
+      "value": "16vp"
+    },
+    {
+      "name": "content_padding_bottom",
+      "value": "16vp"
+    },
+    {
+      "name": "content_space",
+      "value": "16vp"
+    },
+    {
+      "name": "receipt_card_padding_top",
+      "value": "16vp"
+    },
+    {
+      "name": "receipt_card_padding_horizontal_sm",
+      "value": "20vp"
+    },
+    {
+      "name": "receipt_card_padding_horizontal_lg",
+      "value": "16vp"
+    }
+  ]
+}

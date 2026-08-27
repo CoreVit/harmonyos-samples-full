@@ -1,0 +1,41 @@
+{
+  module: {
+    name: 'default',
+    type: 'feature',
+    description: '$string:module_desc',
+    mainElement: 'EntryAbility',
+    deviceTypes: [
+      'phone',
+      'tablet',
+    ],
+    deliveryWithInstall: false,
+    installationFree: false,
+    pages: '$profile:main_pages',
+    abilities: [
+      {
+        name: 'EntryAbility',
+        srcEntry: './ets/defaultability/DefaultAbility.ets',
+        description: '$string:EntryAbility_desc',
+        icon: '$media:layered_image',
+        label: '$string:EntryAbility_label',
+        startWindowIcon: '$media:startIcon',
+        startWindowBackground: '$color:start_window_background',
+        exported: true,
+        minWindowWidth: 480,
+        minWindowHeight: 360,
+        skills: [
+          {
+            entities: [
+              'entity.system.home',
+            ],
+            actions: [
+              'action.system.home',
+            ],
+          },
+        ],
+        launchType: 'singleton',
+        orientation: 'follow_desktop',
+      },
+    ],
+  },
+}

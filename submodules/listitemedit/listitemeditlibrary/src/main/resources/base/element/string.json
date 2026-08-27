@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "edit",
+      "value": "Edit"
+    },
+    {
+      "name": "deleted",
+      "value": "Successfully deleted"
+    },
+    {
+      "name": "todo",
+      "value": "To-Do List"
+    },
+    {
+      "name": "undo",
+      "value": "Ongoing"
+    },
+    {
+      "name": "done",
+      "value": "Completed"
+    },
+    {
+      "name": "available_thing1",
+      "value": "Read books"
+    },
+    {
+      "name": "available_thing2",
+      "value": "Sports"
+    },
+    {
+      "name": "available_thing3",
+      "value": "Travel"
+    },
+    {
+      "name": "available_thing4",
+      "value": "Listening to music"
+    },
+    {
+      "name": "available_thing5",
+      "value": "Watch movies"
+    },
+    {
+      "name": "available_thing6",
+      "value": "Singing"
+    }
+  ]
+}

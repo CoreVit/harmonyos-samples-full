@@ -1,0 +1,228 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ImageEditWithWavewheel"
+    },
+    
+    {
+      "name": "preview",
+      "value": "Preview"
+    },
+    {
+      "name": "picture_information",
+      "value": "Picture information"
+    },
+    
+    {
+      "name": "none",
+      "value": "Freeform"
+    },
+    {
+      "name": "grayscale",
+      "value": "grayscale"
+    },
+    {
+      "name": "brightness",
+      "value": "brightness"
+    },
+    {
+      "name": "invert",
+      "value": "invert"
+    },
+    {
+      "name": "blur",
+      "value": "blur"
+    },
+    {
+      "name": "customize",
+      "value": "customize"
+    },
+    {
+      "name": "horizontal",
+      "value": "horizontal"
+    },
+    {
+      "name": "vertical",
+      "value": "vertical"
+    },
+    {
+      "name": "crop",
+      "value": "crop"
+    },
+    
+    {
+      "name": "filter",
+      "value": "filter"
+    },
+    {
+      "name": "translate",
+      "value": "translate"
+    },
+    {
+      "name": "zoom",
+      "value": "zoom"
+    },
+    
+    {
+      "name": "adjust",
+      "value": "adjust"
+    },
+    {
+      "name": "light",
+      "value": "light"
+    },
+    {
+      "name": "transparency",
+      "value": "transparency"
+    },
+    {
+      "name": "saturation",
+      "value": "saturation"
+    },
+    {
+      "name": "save_image",
+      "value": "saveImage"
+    },
+    {
+      "name": "confirm_save",
+      "value": "are you sure to save image"
+    },
+    {
+      "name": "save",
+      "value": "save"
+    },
+    {
+      "name": "cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "edit",
+      "value": "Edit"
+    },
+    {
+      "name": "compare",
+      "value": "Compare"
+    },
+    {
+      "name": "folded_tip",
+      "value": "Current page is inconvenient, please switch to inner screen!"
+    },
+    {
+      "name": "got_it",
+      "value": "Got it"
+    },
+    {
+      "name": "no_write_permission_title",
+      "value": "Save failed"
+    },
+    {
+      "name": "no_write_permission",
+      "value": "No write permission for images"
+    },
+    {
+      "name": "wheel_menu_settings",
+      "value": "Wheel Menu Settings"
+    },
+    {
+      "name": "selected_features_drag_hint",
+      "value": "Drag to reorder selected features"
+    },
+    {
+      "name": "all_features",
+      "value": "All Features"
+    },
+    {
+      "name": "max_four_features",
+      "value": "Maximum 4 features allowed"
+    },
+    {
+      "name": "saved_use_stylus",
+      "value": "Saved! Use your stylus to explore"
+    },
+    {
+      "name": "save_success",
+      "value": "Saved successfully"
+    },
+    {
+      "name": "save_failed",
+      "value": "Save failed: "
+    },
+    {
+      "name": "tip",
+      "value": "Tip"
+    },
+    {
+      "name": "no_wheel_features",
+      "value": "No wheel menu functions configured yet, please customize first!"
+    },
+    {
+      "name": "go_to_settings",
+      "value": "Go to Settings"
+    },
+    {
+      "name": "unsaved_confirm",
+      "value": "Unsaved changes detected. Continue?"
+    },
+    {
+      "name": "do_not_save",
+      "value": "Don't Save"
+    },
+    {
+      "name": "usage_guide",
+      "value": "Feature Tips"
+    },
+    {
+      "name": "guide_step1",
+      "value": "1. This demo is for stylus wheel menu. Please connect your stylus."
+    },
+    {
+      "name": "guide_step2",
+      "value": "2. Tap settings in the top right to configure wheel menu."
+    },
+    {
+      "name": "guide_step3",
+      "value": "3. Press the stylus button to show the wheel menu."
+    },
+    {
+      "name": "guide_step4",
+      "value": "4. Tap wheel menu options to quickly access features."
+    },
+    {
+      "name": "wheel_crop",
+      "value": "Crop"
+    },
+    {
+      "name": "wheel_brightness",
+      "value": "Brightness"
+    },
+    {
+      "name": "wheel_transparency",
+      "value": "Transparency"
+    },
+    {
+      "name": "wheel_saturation",
+      "value": "Saturation"
+    },
+    {
+      "name": "wheel_filter",
+      "value": "Filter"
+    },
+    {
+      "name": "wheel_translate",
+      "value": "Translate"
+    },
+    {
+      "name": "wheel_zoom",
+      "value": "Zoom"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "color": [
+    {
+      "name": "watch_text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "watch_text_secondary",
+      "value": "#999999"
+    }
+  ]
+}

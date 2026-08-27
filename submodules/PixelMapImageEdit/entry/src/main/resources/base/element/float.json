@@ -1,0 +1,12 @@
+{
+  "float": [
+    {
+      "name": "category_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "category_margin_top",
+      "value": "8vp"
+    }
+  ]
+}

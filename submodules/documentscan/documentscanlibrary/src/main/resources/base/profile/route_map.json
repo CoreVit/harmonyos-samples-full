@@ -1,0 +1,19 @@
+{
+  "routerMap": [
+    {
+      "name": "documentScanner",
+      "pageSourceFile": "src/main/ets/components/DocScanComponent.ets",
+      "buildFunction": "DocScanBuilder"
+    },
+    {
+      "name": "pdfViewer",
+      "pageSourceFile": "src/main/ets/components/PDFViewer.ets",
+      "buildFunction": "PdfViewerBuilder"
+    },
+    {
+      "name": "imageViewer",
+      "pageSourceFile": "src/main/ets/components/ImageViewer.ets",
+      "buildFunction": "ImageViewerBuilder"
+    }
+  ]
+}

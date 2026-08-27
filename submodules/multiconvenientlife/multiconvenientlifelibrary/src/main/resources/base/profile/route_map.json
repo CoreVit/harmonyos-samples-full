@@ -1,0 +1,28 @@
+{
+  "routerMap": [
+    {
+      "name": "FoodList",
+      "pageSourceFile": "src/main/ets/pages/FoodList.ets",
+      "buildFunction": "FoodListBuilder",
+      "data": {
+        "description": "this is FoodList"
+      }
+    },
+    {
+      "name": "GraphicText",
+      "pageSourceFile": "src/main/ets/pages/GraphicText.ets",
+      "buildFunction": "GraphicTextBuilder",
+      "data": {
+        "description": "this is GraphicText"
+      }
+    },
+    {
+      "name": "Living",
+      "pageSourceFile": "src/main/ets/pages/Living.ets",
+      "buildFunction": "LivingBuilder",
+      "data": {
+        "description": "this is Living"
+      }
+    }
+  ]
+}

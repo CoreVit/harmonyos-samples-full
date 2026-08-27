@@ -1,0 +1,65 @@
+{
+  module: {
+    name: 'pc',
+    type: 'feature',
+    description: '$string:module_desc',
+    mainElement: 'MultitravelnavigationpcAbility',
+    deviceTypes: [
+      '2in1',
+    ],
+    requestPermissions: [
+      {
+        name: 'ohos.permission.APPROXIMATELY_LOCATION',
+        reason: '$string:shared_desc',
+        usedScene: {
+          abilities: [
+            'MultitravelnavigationpcAbility',
+          ],
+          when: 'inuse',
+        },
+      },
+      {
+        name: 'ohos.permission.LOCATION',
+        reason: '$string:shared_desc',
+        usedScene: {
+          abilities: [
+            'MultitravelnavigationpcAbility',
+          ],
+          when: 'inuse',
+        },
+      },
+    ],
+    deliveryWithInstall: false,
+    installationFree: false,
+    pages: '$profile:main_pages',
+    abilities: [
+      {
+        name: 'MultitravelnavigationpcAbility',
+        srcEntry: './ets/pcability/PcAbility.ets',
+        description: '$string:PcAbility_desc',
+        label: '$string:PcAbility_label',
+        startWindowIcon: '$media:app_icon',
+        startWindowBackground: '$color:start_window_background',
+        exported: false,
+        skills: [
+          {
+            entities: [
+              'entity.system.home',
+            ],
+            actions: [
+              'action.system.home',
+            ],
+          },
+        ],
+        minWindowHeight: 500,
+        minWindowWidth: 1080,
+      },
+    ],
+    metadata: [
+      {
+        name: 'client_id',
+        value: '110483569',
+      },
+    ],
+  },
+}

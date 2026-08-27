@@ -1,0 +1,82 @@
+{
+  "routerMap": [
+    {
+      "name": "audioScenePage",
+      "pageSourceFile": "src/main/ets/pages/audioScene/view/AudioScene.ets",
+      "buildFunction": "AudioScenePageBuilder",
+      "data": {
+        "description": "this is audio scene page."
+      }
+    },
+    {
+      "name": "videoScenePage",
+      "pageSourceFile": "src/main/ets/pages/videoScene/view/VideoScene.ets",
+      "buildFunction": "VideoScenePageBuilder",
+      "data": {
+        "description": "this is video scene page."
+      }
+    },
+    {
+      "name": "voIPScenePage",
+      "pageSourceFile": "src/main/ets/pages/voipScene/view/VoIPScene.ets",
+      "buildFunction": "VoIPScenePageBuilder",
+      "data": {
+        "description": "this is voip chart page."
+      }
+    },
+    {
+      "name": "shortVideoScenePage",
+      "pageSourceFile": "src/main/ets/pages/shortVideoScene/view/ShortVideoScene.ets",
+      "buildFunction": "ShortVideoScenePageBuilder",
+      "data": {
+        "description": "this is voip chart page."
+      }
+    },
+    {
+      "name": "embeddedShortVideoScenePage",
+      "pageSourceFile": "src/main/ets/pages/embeddedShortVideoScene/view/EmbeddedShortVideoScene.ets",
+      "buildFunction": "EmbeddedShortVideoScenePageBuilder",
+      "data": {
+        "description": "this is voip chart page."
+      }
+    },
+    {
+      "name": "soundPoolScenePage",
+      "pageSourceFile": "src/main/ets/pages/soundPoolScene/view/SoundPoolScene.ets",
+      "buildFunction": "SoundPoolScenePageBuilder"
+    },
+    {
+      "name": "mutePlayback",
+      "pageSourceFile": "src/main/ets/pages/mutePlaybackScene/view/MutePlaybackScene.ets",
+      "buildFunction": "MutePlaybackPageBuilder"
+    },
+    {
+      "name": "audioRenderMutePlaybackPage",
+      "pageSourceFile": "src/main/ets/pages/mutePlaybackScene/view/AudioRenderMutePlayback.ets",
+      "buildFunction": "AudioRenderMutePlaybackPageBuilder"
+    },
+    {
+      "name": "aVPlayerMutePlayback",
+      "pageSourceFile": "src/main/ets/pages/mutePlaybackScene/view/AVPlayerMutePlayback.ets",
+      "buildFunction": "AVPlayerMutePlaybackPageBuilder"
+    },
+    {
+      "name": "DetailPage",
+      "pageSourceFile": "src/main/ets/pages/embeddedShortVideoScene/view/DetailPage.ets",
+      "buildFunction": "detailPageBuilder"
+    },
+    {
+      "name": "multiAudioStreamPlayScenePage",
+      "pageSourceFile": "src/main/ets/pages/multiAudioStreamPlayScene/view/MultiAudioStreamPlayScene.ets",
+      "buildFunction": "MultiAudioStreamPlayScenePageBuilder"
+    },
+    {
+      "name": "voipCallPage",
+      "pageSourceFile": "src/main/ets/pages/voipScene/view/VoIPCallPage.ets",
+      "buildFunction": "VoipCallPagePageBuilder",
+      "data": {
+        "description": "this is voip chart page."
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "title",
+      "value": "WaterFlow Instance"
+    },
+    {
+      "name": "grid_work",
+      "value": "Work"
+    },
+    {
+      "name": "grid_sport",
+      "value": "Sport"
+    },
+    {
+      "name": "grid_life",
+      "value": "Life"
+    },
+    {
+      "name": "grid_phone",
+      "value": "Phone"
+    },
+    {
+      "name": "grid_play",
+      "value": "Play"
+    },
+    {
+      "name": "nav_index",
+      "value": "Home"
+    },
+    {
+      "name": "nav_shopping_cart",
+      "value": "Shopping"
+    },
+    {
+      "name": "nav_mine",
+      "value": "Mine"
+    },
+    {
+      "name": "loading",
+      "value": "Loading"
+    },
+    {
+      "name": "sticky_tab_all",
+      "value": "All"
+    },
+    {
+      "name": "sticky_tab_merchant",
+      "value": "Merchant"
+    },
+    {
+      "name": "sticky_tab_note",
+      "value": "Note"
+    },
+    {
+      "name": "sticky_tab_group_buy",
+      "value": "GroupBuy"
+    },
+    {
+      "name": "sticky_tab_user",
+      "value": "User"
+    },
+    {
+      "name": "recommend",
+      "value": "Recommend"
+    },
+    {
+      "name": "computer",
+      "value": "Computer"
+    },
+    {
+      "name": "phone",
+      "value": "Phone"
+    },
+    {
+      "name": "speaker",
+      "value": "Speaker"
+    },
+    {
+      "name": "fold",
+      "value": "Fold"
+    },
+    {
+      "name": "pad",
+      "value": "Pad"
+    },
+    {
+      "name": "str_bonus_points_data_demo",
+      "value": "Gift points"
+    },
+    {
+      "name": "str_name_data_demo",
+      "value": "Experience together"
+    },
+    {
+      "name": "str_promotion_data_demo",
+      "value": "Flash sales"
+    },
+    {
+      "name": "scenario_sections",
+      "value": "To layout"
+    },
+    {
+      "name": "scenario_embed",
+      "value": "WaterFlow nested in Scroll"
+    }
+  ]
+}

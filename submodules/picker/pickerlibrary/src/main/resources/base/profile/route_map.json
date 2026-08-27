@@ -1,0 +1,20 @@
+{
+  "routerMap": [
+    {
+      "name": "EditFile",
+      "pageSourceFile": "src/main/ets/component/EditFile.ets",
+      "buildFunction": "EditFileBuilder",
+      "data": {
+        "description": "this is EditFile"
+      }
+    },
+    {
+      "name": "ViewMedia",
+      "pageSourceFile": "src/main/ets/component/ViewMedia.ets",
+      "buildFunction": "ViewMediaBuilder",
+      "data": {
+        "description": "this is ViewMedia"
+      }
+    }
+  ]
+}

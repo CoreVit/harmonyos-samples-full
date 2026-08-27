@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "DefaultAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "DefaultAbility_label",
+      "value": "MultiTravelNavigation"
+    },
+    {
+      "name": "textInput_holder",
+      "value": "Search for location, address, and bus"
+    }
+  ]
+}
